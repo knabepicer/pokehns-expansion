@@ -11975,7 +11975,7 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
         .palette = gMonPalette_Dodrio,
         .shinyPalette = gMonShinyPalette_Dodrio,
         .iconSprite = gMonIcon_Dodrio,
-        .iconPalIndex = 2,
+        .iconPalIndex = 1,
 #if P_GENDER_DIFFERENCES && !P_GBA_STYLE_SPECIES_GFX
         .frontPicFemale = gMonFrontPic_DodrioF,
         .frontPicSizeFemale = MON_COORDS_SIZE(64, 64),
