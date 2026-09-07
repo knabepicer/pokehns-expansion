@@ -40,6 +40,8 @@ pokemonHnS-expansion 2.0 is Based off RHH's pokeemerald-expansion version 1.15.1
 
 Finally, please consider [crediting all contributors](CREDITS.md) involved in the project!
 
+Credits also to Moemon Project: https://docs.google.com/spreadsheets/d/1LNnneTnFlEZ4J5yKzmRZLw7rSAhg4qN7/edit?usp=sharing&ouid=114554177789150399911&rtpof=true&sd=true
+
 # **`pokemonHnS-expansion`** multiplayer compatibility
 
 - **`pokemonHnS-expansion`** supports trade and link battle multiplayer functionality, which *should* extend to forks built on **`pokemonHnS-expansion`** but cannot be guaranteed.
