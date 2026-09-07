@@ -7184,20 +7184,20 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .trainerOffset = 17,
         .frontPic = gMonFrontPic_Regigigas,
         .frontPicSize = MON_COORDS_SIZE(64, 64),
-        .frontPicYOffset = 4,
+        .frontPicYOffset = 0,
         .frontAnimFrames = ANIM_FRAMES(
             ANIMCMD_FRAME(1, 40),
             ANIMCMD_FRAME(0, 5),
         ),
         .frontAnimId = ANIM_V_SHAKE,
         .backPic = gMonBackPic_Regigigas,
-        .backPicSize = MON_COORDS_SIZE(64, 40),
-        .backPicYOffset = 13,
+        .backPicSize = MON_COORDS_SIZE(64, 64),
+        .backPicYOffset = 0,
         .backAnimId = BACK_ANIM_V_SHAKE_LOW,
         .palette = gMonPalette_Regigigas,
         .shinyPalette = gMonShinyPalette_Regigigas,
         .iconSprite = gMonIcon_Regigigas,
-        .iconPalIndex = 0,
+        .iconPalIndex = 2,
         .pokemonJumpType = PKMN_JUMP_TYPE_NONE,
         SHADOW(3, 10, SHADOW_SIZE_XL_BATTLE_ONLY)
         FOOTPRINT(Regigigas)
@@ -7952,12 +7952,12 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
 #endif
 #if P_ARCEUS_UNIQUE_FORM_ICONS >= GEN_9
     #define ARCEUS_ICON(typeName, iconPal)        \
-        .iconSprite = gMonIcon_Arceus ##typeName, \
-        .iconPalIndex = iconPal,
+        .iconSprite = gMonIcon_ArceusNormal, \
+        .iconPalIndex = 0,
 #else
     #define ARCEUS_ICON(typeName, iconPal)   \
         .iconSprite = gMonIcon_ArceusNormal, \
-        .iconPalIndex = 1,
+        .iconPalIndex = 0,
 #endif
 
 #define ARCEUS_SPECIES_INFO(type, typeName, iconPal, rzMode)                        \
@@ -7997,7 +7997,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .frontAnimId = ANIM_GROW_VIBRATE,                                           \
         .backPic = gMonBackPic_Arceus,                                              \
         .backPicSize = MON_COORDS_SIZE(64, 64),                                     \
-        .backPicYOffset = 3,                                                        \
+        .backPicYOffset = 0,                                                        \
         .backAnimId = BACK_ANIM_GROW_STUTTER,                                       \
         .palette = gMonPalette_Arceus ##typeName,                                   \
         .shinyPalette = gMonShinyPalette_Arceus ##typeName,                         \
