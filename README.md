@@ -1,3 +1,5 @@
+[Download for Moemon Heart and Soul](https://www.dropbox.com/scl/fi/4pwajh8yy7mew5dgaghyo/moehns.bps?rlkey=tspdjzajimbupvqkbr4e8sgxl&st=km4sea1i&e=1&dl=0)
+
 ![HnS Logo](HnS_Logo.png)
 
 # About `pokemonHnS-expansion`
