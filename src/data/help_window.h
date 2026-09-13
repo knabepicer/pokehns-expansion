@@ -31,15 +31,16 @@ const struct HelpWindow gHelpWindowInfo[] =
     [HELP_TRADE_WINDOW] =
     {
         .header = COMPOUND_STRING("WARNING: COMPATIBILITY"),
-        .desc = COMPOUND_STRING("Attempting to link with a game\n"
-                                "that is not Heart & Soul may result\n"
+        .desc = COMPOUND_STRING("Attempting to link incorrectly may result\n"
                                 "in permanent damage to your save file.\n"
-                                "Only continue if you are linking with\n"
-                                "a copy of Heart & Soul that is on the\n"
-                                "same version as your current copy."
+                                "Only link with another player if:\n"
+                                "You are both playing Heart & Soul.\n"
+                                "You are both on the same version.\n"
+                                "You both have the same challenge settings.\n"
+                                "You are NOT using any randomizer settings."
                             ),
         .headerFont = FONT_NORMAL,
-        .descFont = FONT_NORMAL,
+        .descFont = FONT_SMALL,
         .headerColor = {0, 4, 5},
     },
     [HELP_TELEPORTER_WINDOW] =
@@ -138,6 +139,38 @@ const struct HelpWindow gHelpWindowInfo[] =
                                 "SMOOCHUM likes to SHOW off.\n"
                                 "ELEKID STORES up charge.\n"
                                 "MAGBY often ANGERS."
+                            ),
+        .headerFont = FONT_NORMAL,
+        .descFont = FONT_SMALL,
+        .headerColor = {0, 8, 3},
+    },
+    [HELP_POKEBLOCK_WINDOW] =
+    {
+        .header = COMPOUND_STRING("FEEDERS: REGULAR POKéBLOCKS"),
+        .desc = COMPOUND_STRING("POKéBLOCK colors attract perfect IVs:\n"
+                                "RED: HP,ATK,SPE   BLU: HP,SPA,SPE\n"
+                                "PNK: ATK,SPA,SPE  GRN: HP,DEF,SPD\n"
+                                "YEL: HP,ATK,DEF   PUR: ATK,DEF,SPD\n"
+                                "IND: HP,SPA,SPD   BRN: DEF,SPE,SPD\n"
+                                "LBL: SPA,SPE,SPD  OLV: ATK,DEF,SPE\n"
+                                "GRY: HP,ATK,SPA\n"
+                                "Every POKéBLOCK attracts HIDDEN ABILITY."
+
+                            ),
+        .headerFont = FONT_NORMAL,
+        .descFont = FONT_SMALL,
+        .headerColor = {0, 8, 3},
+    },
+    [HELP_GOLD_POKEBLOCK_WINDOW] =
+    {
+        .header = COMPOUND_STRING("FEEDERS: GOLD POKéBLOCKS"),
+        .desc = COMPOUND_STRING("GOLD POKéBLOCKS attract POKéMON with\n"
+                                "5 perfect IVs. Flavor determines which\n"
+                                "IV is not perfect.\n"
+                                "SPICY: no SP.ATK    DRY:    no ATTACK\n"
+                                "SWEET: no SP.DEF   BITTER: no SPEED\n"
+                                "SOUR:  no HP\n"
+                                "Every POKéBLOCK attracts HIDDEN ABILITY."
                             ),
         .headerFont = FONT_NORMAL,
         .descFont = FONT_SMALL,

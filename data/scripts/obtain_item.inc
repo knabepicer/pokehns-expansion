@@ -40,7 +40,7 @@ EventScript_BufferItemsPocket::
 
 EventScript_BufferKeyItemsPocket::
 	bufferstdstring STR_VAR_3, STDSTRING_KEYITEMS
-	call_if_eq VAR_0x8007, TRUE, EventScript_PlayFanfareObtainedItem
+	call_if_eq VAR_0x8007, TRUE, EventScript_PlayFanfareObtainedKeyItem
 	return
 
 EventScript_BufferPokeballsPocket::
@@ -55,7 +55,7 @@ EventScript_BufferTMHMsPocket::
 
 EventScript_BufferBerriesPocket::
 	bufferstdstring STR_VAR_3, STDSTRING_BERRIES
-	call_if_eq VAR_0x8007, TRUE, EventScript_PlayFanfareObtainedItem
+	call_if_eq VAR_0x8007, TRUE, EventScript_PlayFanfareObtainedBerry
 	return
 
 EventScript_BufferMedicinePocket::
@@ -98,8 +98,27 @@ EventScript_PlayFanfareObtainedItem::
 	playfanfare MUS_OBTAIN_ITEM
 	return
 
+EventScript_PlayFanfareObtainedKeyItem::
+@ Emerald has no distinct key item jingle, so it keeps the plain item fanfare. FR/LG
+@ has one, and in an HnS build FANFARE_RG_OBTAIN_KEY_ITEM resolves to the HG jingle.
+#if IS_HNS || IS_FRLG
+	playfanfare MUS_RG_OBTAIN_KEY_ITEM
+#else
+	playfanfare MUS_OBTAIN_ITEM
+#endif
+	return
+
 EventScript_PlayFanfareObtainedTMHM::
 	playfanfare MUS_OBTAIN_TMHM
+	return
+
+EventScript_PlayFanfareObtainedBerry::
+@ Only HG/SS plays a separate jingle for berries; Emerald and FR/LG use the item one.
+#if IS_HNS
+	playfanfare MUS_OBTAIN_BERRY
+#else
+	playfanfare MUS_OBTAIN_ITEM
+#endif
 	return
 
 Std_ObtainDecoration::

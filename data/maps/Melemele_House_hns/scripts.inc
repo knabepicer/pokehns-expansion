@@ -7,6 +7,31 @@ Melemele_House_hns_MapScripts_MAP_SCRIPT_ON_TRANSITION:
 	end
 
 
+Alola_Melemele_Pokecenter_EventScript_Swimmer::
+	lock
+	faceplayer
+	msgbox Alola_Melemele_Pokecenter_Text_Swimmer, MSGBOX_DEFAULT
+	closemessage
+	turnobject LOCALID_MELEMELE_POKEMONCENTER_SWIMMER, DIR_NORTH
+	release
+	end
+
+Alola_Melemele_Pokecenter_Text_Swimmer:
+	.string "Ah, it's so hard to keep these\n"
+	.string "isles straight!\p"
+	.string "I always seem to mix them up!\p"
+	.string "Thank goodness for this map!$"
+
+Alola_Melemele_Pokecenter_Map::
+	lockall
+	setvar VAR_0x8000, 0 @ SCREENSHOT_ALOLA_MAP
+	msgbox Alola_Melemele_Pokecenter_Map_Text_0, MSGBOX_DEFAULT
+	closemessage
+	callnative OpenScreenshotsFromScript
+	waitstate
+	releaseall
+	end
+
 Alola_Melemele_Pokecenter_AceTrainer::
 	lock
 	faceplayer
@@ -141,3 +166,7 @@ Alola_Melemele_Pokecenter_Jessica_Text_DeclineTrade:
 
 Alola_Melemele_Pokecenter_Jessica_Text_TradeCompleted:
 	.string "Hi, how's my old TORY doing?$"
+
+Alola_Melemele_Pokecenter_Map_Text_0:
+	.string "{PLAYER} took a closer look at the\n"
+	.string "ALOLA ISLES map.$"
