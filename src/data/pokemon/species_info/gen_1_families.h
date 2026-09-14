@@ -11160,7 +11160,7 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
         .palette = gMonPalette_SlowpokeGalar,
         .shinyPalette = gMonShinyPalette_SlowpokeGalar,
         .iconSprite = gMonIcon_SlowpokeGalar,
-        .iconPalIndex = 0,
+        .iconPalIndex = 1,
         .pokemonJumpType = PKMN_JUMP_TYPE_NONE,
         SHADOW(-3, -8, SHADOW_SIZE_L)
         FOOTPRINT(Slowpoke)
@@ -11566,7 +11566,7 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
         .palette = gMonPalette_Magnezone,
         .shinyPalette = gMonShinyPalette_Magnezone,
         .iconSprite = gMonIcon_Magnezone,
-        .iconPalIndex = 0,
+        .iconPalIndex = 2,
         .pokemonJumpType = PKMN_JUMP_TYPE_NONE,
         SHADOW(4, 11, SHADOW_SIZE_XL_BATTLE_ONLY)
         FOOTPRINT(Magnezone)
