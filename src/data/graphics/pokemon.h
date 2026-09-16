@@ -8320,8 +8320,11 @@ const u32 gObjectEventPic_Substitute[] = INCBIN_COMP("graphics/pokemon/question_
 
 #if P_GEN_9_CROSS_EVOS
     const u16 gMonPalette_Dudunsparce[] = INCBIN_U16("graphics/pokemon/dudunsparce/normal.gbapal");
+    const u16 gMonPalette_DudunsparceThreeSegment[] = INCBIN_U16("graphics/pokemon/dudunsparce/three_segment/normal.gbapal");
     const u16 gMonShinyPalette_Dudunsparce[] = INCBIN_U16("graphics/pokemon/dudunsparce/shiny.gbapal");
+    const u16 gMonShinyPalette_DudunsparceThreeSegment[] = INCBIN_U16("graphics/pokemon/dudunsparce/three_segment/shiny.gbapal");
     const u8 gMonIcon_Dudunsparce[] = INCBIN_U8("graphics/pokemon/dudunsparce/icon.4bpp");
+    const u8 gMonIcon_DudunsparceThreeSegment[] = INCBIN_U8("graphics/pokemon/dudunsparce/three_segment/icon.4bpp");
 #if P_FOOTPRINTS
     const u8 gMonFootprint_Dudunsparce[] = INCBIN_U8("graphics/pokemon/dudunsparce/footprint.1bpp");
 #endif //P_FOOTPRINTS

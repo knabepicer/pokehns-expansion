@@ -136,13 +136,13 @@ ViridianCity_Gym_EventScript_GymStatuePostVictory::
 	end
 
 ViridianCity_Gym_Text_GymStatue::
-    .string "VIRIDIAN POKéMON GYM\n"
+    .string "VIRIDIAN MOéMON GYM\n"
     .string "LEADER: BLUE\p"
 	.string "WINNING TRAINERS:\n"
 	.string "BLUE, RED$"
 
 ViridianCity_Gym_Text_GymStatuePlayerWon::
-    .string "VIRIDIAN POKéMON GYM\n"
+    .string "VIRIDIAN MOéMON GYM\n"
     .string "LEADER: BLUE\p"
     .string "WINNING TRAINERS:\n"
 	.string "BLUE, RED, {PLAYER}$"
