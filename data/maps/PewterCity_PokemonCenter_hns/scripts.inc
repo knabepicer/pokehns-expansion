@@ -70,7 +70,7 @@ PewterCity_PokemonCenter_Text_TradeCompleted:
 	.string "It's a real trickster!$"
 
 PewterCity_PokemonCenter1F_Text_BugCatcher:
-	.string "Most POKéMON get drowsy if they hear a\n"
+	.string "Most MOéMON get drowsy if they hear a\n"
 	.string "JIGGLYPUFF singing.\p"
 	.string "There are several moves that can be\n"
-	.string "used only while a POKéMON is asleep.$"
+	.string "used only while a MOéMON is asleep.$"

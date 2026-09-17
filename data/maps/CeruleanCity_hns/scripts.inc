@@ -25,12 +25,12 @@ CeruleanCity_EventScript_Guard::
 
 CeruleanCity_Text_ThisIsCeruleanCave::
     .string "This is CERULEAN CAVE.\p"
-    .string "Horribly strong POKéMON live inside\n"
+    .string "Horribly strong MOéMON live inside\n"
     .string "there.\p"
     .string "It takes a very special TRAINER to\n"
     .string "be allowed inside there.\p"
     .string "You'd have to be strong enough to\n"
-    .string "become the KANTO POKéMON LEAGUE\l"
+    .string "become the KANTO MOéMON LEAGUE\l"
     .string "CHAMPION for starters.\p"
     .string "And, you would have to have\n"
     .string "made a great achievement.$"
@@ -44,7 +44,7 @@ CeruleanCity_Text_CooltrainerM1:
 
 CeruleanCity_Text_CooltrainerM2:
 	.string "You're collecting every single\n"
-	.string "kind of POKéMON?\p"
+	.string "kind of MOéMON?\p"
 	.string "That must be quite a challenge,\n"
 	.string "but it sounds fun too.$"
 
@@ -115,7 +115,7 @@ CeruleanCity_EventScript_Youngster::
 
 CeruleanCity_Text_Youngster1:
 	.string "The cave north of town has\n"
-	.string "horribly powerful POKéMON in it.$"
+	.string "horribly powerful MOéMON in it.$"
 
 CeruleanCity_Text_Youngster2:
 	.string "Ayuh?\p"
@@ -147,7 +147,7 @@ CeruleanCity_Text_Sign:
 
 CeruleanCity_Text_GymSign:
 	.string "CERULEAN CITY\n"
-	.string "POKéMON GYM\n"
+	.string "MOéMON GYM\n"
 	.string "LEADER: MISTY\p"
 	.string "The Tomboyish Mermaid$"
 

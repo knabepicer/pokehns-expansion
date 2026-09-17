@@ -24,14 +24,14 @@ HiddenPowerGuy_Text_Intro:
     .string "Here I have meditated. Inside me,\n"
     .string "a new power has been awakened.\p"
     .string "Let me share my power with your\n"
-    .string "POKéMON. Take this, child.$"
+    .string "MOéMON. Take this, child.$"
 
 HiddenPowerGuy_Text_Explanation:
     .string "Do you see it? It is HIDDEN POWER!\p"
-    .string "It draws out the power of POKéMON\n"
+    .string "It draws out the power of MOéMON\n"
     .string "for attacking.\p"
     .string "Remember this: its type and power\n"
-    .string "depend on the POKéMON using it.$"
+    .string "depend on the MOéMON using it.$"
 
 HiddenPowerGuy_Text_Meditating:
     .string "I am meditating…$"

@@ -350,7 +350,7 @@ GoldenrodCity_Text_CooltrainerF2:
 	.string "RADIO if you can pass their quiz.$"
 
 GoldenrodCity_Text_CooltrainerF2_GotCard:
-	.string "Oh, your POKéGEAR already works\n"
+	.string "Oh, your MOéGEAR already works\n"
 	.string "as a radio!$"
 
 GoldenrodCity_Text_Youngster2:
@@ -360,7 +360,7 @@ GoldenrodCity_Text_Youngster2:
 
 GoldenrodCity_Text_Lass:
 	.string "That man inside rates your\n"
-	.string "POKéMON nicknames.\p"
+	.string "MOéMON nicknames.\p"
 	.string "He can even rename them.$"
 
 GoldenrodCity_Text_Gramps:
@@ -383,7 +383,7 @@ GoldenrodCity_Text_Rocket2:
 	.string "What? It's none of your business!$"
 
 GoldenrodCity_Text_Rocket3:
-	.string "POKéMON? They're just tools\n"
+	.string "MOéMON? They're just tools\n"
 	.string "we use to make money!$"
 
 GoldenrodCity_Text_Rocket4:
@@ -405,11 +405,11 @@ GoldenrodCity_Text_RadioTowerSign:
 	.string "GOLDENROD CITY RADIO TOWER$"
 
 GoldenrodCity_Text_DeptStoreSign:
-	.string "Full Selection of POKéMON Goods!\p"
+	.string "Full Selection of MOéMON Goods!\p"
 	.string "GOLDENROD CITY DEPT.STORE$"
 
 GoldenrodCity_Text_GymSign:
-	.string "GOLDENROD CITY POKéMON GYM\n"
+	.string "GOLDENROD CITY MOéMON GYM\n"
 	.string "LEADER: WHITNEY\p"
 	.string "The Incredibly Pretty Girl!$"
 
@@ -427,7 +427,7 @@ GoldenrodCity_Text_GameCornerSign:
 
 GoldenrodCity_Text_NameRaterSign:
 	.string "NAME RATER\p"
-	.string "Get Your POKéMON Nicknames Rated$"
+	.string "Get Your MOéMON Nicknames Rated$"
 
 GoldenrodCity_Text_UndergroundNorthSign:
 	.string "UNDERGROUND ENTRANCE$"
@@ -440,7 +440,7 @@ GoldenrodCity_Text_FlowerShopSign:
 	.string "Blooming Beautiful FLOWER SHOP$"
 
 GoldenrodCity_Text_MoveTutorAsk:
-	.string "I can teach your POKéMON some\n"
+	.string "I can teach your MOéMON some\n"
 	.string "amazing moves!\p"
 	.string "Should I teach one?$"
 

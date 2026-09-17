@@ -307,12 +307,12 @@ NewBarkTown_PlayersHouse_1F_Text_ElmsLookingForYou:
 	.string "PROF.ELM, was looking for you.\p"
 	.string "He said he wanted you to do\n"
 	.string "something for him.\p"
-	.string "Oh! I almost forgot! Your POKéGEAR\n"
+	.string "Oh! I almost forgot! Your MOéGEAR\n"
 	.string "is back from the repair shop.\p"
 	.string "Here you go!$"
 
 NewBarkTown_PlayersHouse_1F_Text_ObtainedPokeGear:
-	.string "{PLAYER} obtained the POKéGEAR.$"
+	.string "{PLAYER} obtained the MOéGEAR.$"
 
 NewBarkTown_PlayersHouse_1F_Text_ExplainPokeGear:
 	.string "MOM: Phone numbers are stored\n"
@@ -343,16 +343,16 @@ NewBarkTown_PlayersHouse_1F_Text_MomsFriend:
 	.string "Have you heard?\p"
 	.string "My daughter is adamant about\n"
 	.string "becoming PROF.ELM's assistant.\p"
-	.string "She really loves POKéMON!$"
+	.string "She really loves MOéMON!$"
 
 NewBarkTown_PlayersHouse_1F_Text_MomLeaving:
-	.string "MOM: Wow, that's a cute POKéMON.\n"
+	.string "MOM: Wow, that's a cute MOéMON.\n"
 	.string "Where did you get it?\p"
 	.string "…\p"
 	.string "So, you're leaving on an adventure...\n"
 	.string "That does sound challenging...\p"
 	.string "Just be careful.\p"
-	.string "POKéMON are your friends.\n"
+	.string "MOéMON are your friends.\n"
 	.string "You need to work as a team.\p"
 	.string "Now, go on!\n"
 	.string "I'm behind you all the way!$"

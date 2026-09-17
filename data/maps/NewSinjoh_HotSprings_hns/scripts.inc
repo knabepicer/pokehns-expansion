@@ -48,7 +48,7 @@ NewSinjoh_HotSprings_Text_MualaniBefore:
 NewSinjoh_HotSprings_Text_MualaniBeforeBattle:
 	.string "Wait...\p"
 	.string "You need the SPLASH PLATE\n"
-	.string "to tame the legendary POKéMON?\p"
+	.string "to tame the legendary MOéMON?\p"
 	.string "If the KIMONO GIRLS think you\n"
 	.string "are worthy, then so do I.\p"
 	.string "But you'll still need to earn\n"

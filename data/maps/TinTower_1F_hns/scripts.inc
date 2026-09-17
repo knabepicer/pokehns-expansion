@@ -54,21 +54,21 @@ TinTower_1F_EventScript_SageC_Hooh::
 
 TinTower_1F_Sage1_Text:
 	.string "According to legend…\n"
-	.string "When the souls of POKéMON and humans\p"
+	.string "When the souls of MOéMON and humans\p"
 	.string "commune, from the heavens descends a\n"
-	.string "POKéMON of rainbow colors…\p"
-	.string "Could it mean the legendary POKéMON\n"
+	.string "MOéMON of rainbow colors…\p"
+	.string "Could it mean the legendary MOéMON\n"
 	.string "are testing us humans?$"
 
 TinTower_1F_Sage2_Text:
 	.string "When the BRASS TOWER burned down,\n"
-	.string "three nameless POKéMON were said\l"
+	.string "three nameless MOéMON were said\l"
 	.string "to have perished. It was tragic.\p"
 	.string "However…\p"
-	.string "A rainbow-colored POKéMON…\n"
+	.string "A rainbow-colored MOéMON…\n"
 	.string "In other words…\p"
 	.string "HO-OH descended from the sky and\n"
-	.string "gave new life to the three POKéMON.\p"
+	.string "gave new life to the three MOéMON.\p"
 	.string "They are…\n"
 	.string "SUICUNE, ENTEI and RAIKOU.\p"
 	.string "That is what they say.$"
@@ -76,7 +76,7 @@ TinTower_1F_Sage2_Text:
 TinTower_1F_Sage3_Text:
 	.string "The two TOWERS are said to have been\n"
 	.string "built to foster friendship and\p"
-	.string "hope between POKéMON and people.\n"
+	.string "hope between MOéMON and people.\n"
 	.string "That was 700 years ago, but the ideal\p"
 	.string "still remains important today.$"
 
@@ -85,28 +85,28 @@ TinTower_1F_Sage4_Text1:
 	.string "upon this, the TIN TOWER!$"
 
 TinTower_1F_Sage4_Text2:
-	.string "The legendary POKéMON are said\n"
+	.string "The legendary MOéMON are said\n"
 	.string "to embody three powers…\p"
 	.string "The lightning that struck the TOWER.\n"
 	.string "The fire that burned the TOWER.\p"
 	.string "And the rain that put out the fire…$"
 
 TinTower_1F_Sage6_Text2:
-	.string "Of the legendary POKéMON, SUICUNE\n"
+	.string "Of the legendary MOéMON, SUICUNE\n"
 	.string "is said to be the closest to HO-OH.\p"
 	.string "I hear there may also be a link to\n"
-	.string "POKéMON known as UNOWN.\p"
-	.string "The POKéMON UNOWN must be sharing a\n"
+	.string "MOéMON known as UNOWN.\p"
+	.string "The MOéMON UNOWN must be sharing a\n"
 	.string "cooperative bond with SUICUNE.$"
 
 TinTower_1F_EusineHoOh_Text:
 	.string "I knew it.\p"
-	.string "I knew you'd get to see the POKéMON\n"
+	.string "I knew you'd get to see the MOéMON\n"
 	.string "of rainbow colors, <PLAYER>.\p"
 	.string "It happened just as I envisioned.\n"
 	.string "My research isn't bad, I might say.\p"
-	.string "I'm going to keep studying POKéMON\n"
-	.string "to become a famous POKéMANIAC!$"
+	.string "I'm going to keep studying MOéMON\n"
+	.string "to become a famous MOéMANIAC!$"
 
 TinTower_1F_EusineSuicune_Text:
 	.string "EUSINE: Awesome! Too awesome, even!\n"
@@ -115,9 +115,9 @@ TinTower_1F_EusineSuicune_Text:
 	.string "SUICUNE was tough, but you were even\p"
 	.string "more incredible, <PLAYER>.\n"
 	.string "I heard SUICUNE's mystic power\p"
-	.string "summons a rainbow-colored POKéMON.\n"
+	.string "summons a rainbow-colored MOéMON.\n"
 	.string "Maybe, just maybe, what went on today\p"
-	.string "will cause that POKéMON to appear.\n"
+	.string "will cause that MOéMON to appear.\n"
 	.string "I'm going to study the legends more.\p"
 	.string "Thanks for showing me that fantastic\n"
 	.string "battle.\p"

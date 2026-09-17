@@ -184,21 +184,21 @@ SafariZoneGate_SafariZoneEntrance_Text_BaobaBeachDone:
 	.string "Thank you, {PLAYER}!\n"
 	.string "Here, take this money to upgrade\l"
 	.string "your SAFARI LEVEL and show me an\l"
-	.string "exotic POKéMON from the BRUSH area\l"
+	.string "exotic MOéMON from the BRUSH area\l"
 	.string "next!$"
 	
 SafariZoneGate_SafariZoneEntrance_Text_BaobaBrushDone:
 	.string "Thank you, {PLAYER}!\n"
 	.string "Here, take this money to upgrade\l"
 	.string "your SAFARI LEVEL and show me an\l"
-	.string "exotic POKéMON from the MOUNTAIN\l"
+	.string "exotic MOéMON from the MOUNTAIN\l"
 	.string "area next!$"
 
 SafariZoneGate_SafariZoneEntrance_Text_BaobaMountainDone:
 	.string "Thank you, {PLAYER}!\n"
 	.string "Here, take this money to upgrade\l"
 	.string "your SAFARI LEVEL and show me an\l"
-	.string "exotic POKéMON from the CAVE area\l"
+	.string "exotic MOéMON from the CAVE area\l"
 	.string "next!$"
 
 SafariZoneGate_SafariZoneEntrance_Text_BaobaCaveDone:
@@ -214,25 +214,25 @@ SafariZoneGate_SafariZoneEntrance_Text_BaobaWrong:
 
 SafariZoneGate_SafariZoneEntrance_Text_BaobaBeach:
 	.string "Ah, {PLAYER}!\p"
-	.string "Did you bring an exotic POKéMON\n"
+	.string "Did you bring an exotic MOéMON\n"
 	.string "from the BEACH area of the FUCHSIA\l"
 	.string "SAFARI ZONE to show me?$"
 
 SafariZoneGate_SafariZoneEntrance_Text_BaobaBrush:
 	.string "Ah, {PLAYER}!\p"
-	.string "Did you bring an exotic POKéMON\n"
+	.string "Did you bring an exotic MOéMON\n"
 	.string "from the BRUSH area of the FUCHSIA\l"
 	.string "SAFARI ZONE to show me?$"
 
 SafariZoneGate_SafariZoneEntrance_Text_BaobaMountain:
 	.string "Ah, {PLAYER}!\p"
-	.string "Did you bring an exotic POKéMON\n"
+	.string "Did you bring an exotic MOéMON\n"
 	.string "from the MOUNTAIN area of the\l"
 	.string "FUCHSIA SAFARI ZONE to show me?$"
 
 SafariZoneGate_SafariZoneEntrance_Text_BaobaCave:
 	.string "Ah, {PLAYER}!\p"
-	.string "Did you bring an exotic POKéMON\n"
+	.string "Did you bring an exotic MOéMON\n"
 	.string "from the CAVE area of the FUCHSIA\l"
 	.string "SAFARI ZONE to show me?$"
 
@@ -241,7 +241,7 @@ SafariZoneGate_SafariZoneEntrance_Text_BaobaDeclined:
 	.string "We'll never keep up with DEVON!$"
 
 SafariZoneGate_SafariZoneEntrance_Text_BaobaLastMon:
-	.string "I can't take your last POKéMON!$"
+	.string "I can't take your last MOéMON!$"
 
 SafariZoneGate_SafariZoneEntrance_Text_BaobaDone:
 	.string "Ah, {PLAYER}!\p"
@@ -394,7 +394,7 @@ SafariZoneGate_SafariZoneEntrance_Text_BaobaWelcome:
 
 SafariZoneGate_SafariZoneEntrance_Text_BaobaPokeblocks:
 	.string "Oh! I almost forgot.\p"
-	.string "POKéBLOCKS are an essential\n"
+	.string "MOéBLOCKS are an essential\n"
 	.string "feature of my SAFARI ZONE, so\l"
 	.string "you'd better have one of these!$"
 
@@ -404,15 +404,15 @@ SafariZoneGate_SafariZoneEntrance_Text_Baoba:
 	.string "ZONE?$"
 
 SafariZoneGate_SafariZoneEntrance_Text_Boy:
-	.string "Do you know about POKéBLOCK\n"
+	.string "Do you know about MOéBLOCK\n"
 	.string "feeders?\p"
-	.string "Putting a POKéBLOCK in the feeder\n"
-	.string "brings out POKéMON with HIDDEN\l"
+	.string "Putting a MOéBLOCK in the feeder\n"
+	.string "brings out MOéMON with HIDDEN\l"
 	.string "ABILITIES!\p"
-	.string "The type of POKéBLOCK also affects\n"
-	.string "the POKéMON's nature.\p"
-	.string "And best of all, the type of POKéBLOCK\n"
-	.string "you use can attract POKéMON with\l"
+	.string "The type of MOéBLOCK also affects\n"
+	.string "the MOéMON's nature.\p"
+	.string "And best of all, the type of MOéBLOCK\n"
+	.string "you use can attract MOéMON with\l"
 	.string "perfect IVs!\p"
 	.string "Those charts on the wall have all\n"
 	.string "the details.$"

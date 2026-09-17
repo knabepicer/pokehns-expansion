@@ -38,7 +38,7 @@ Route2_Text_RobPostRematch:
 	.string "Is there a better FOREST somewhere?$"
 
 Route2_Text_BugCatcherRob_Seen:
-	.string "My bug POKéMON are tough. Prepare to\n"
+	.string "My bug MOéMON are tough. Prepare to\n"
 	.string "lose!$"
 
 Route2_Text_BugCatcherRob_Beaten:
@@ -46,7 +46,7 @@ Route2_Text_BugCatcherRob_Beaten:
 
 Route2_Text_BugCatcherRob_AfterBattle:
 	.string "I'm going to look for stronger bug\n"
-	.string "POKéMON.$"
+	.string "MOéMON.$"
 
 Route2_Text_BugCatcherEd_Seen:
 	.string "If you walk in tall grass wearing\n"
@@ -60,13 +60,13 @@ Route2_Text_BugCatcherEd_AfterBattle:
 	.string "bath.$"
 
 Route2_Text_BugCatcherDoug_Seen:
-	.string "Why don't girls like bug POKéMON?$"
+	.string "Why don't girls like bug MOéMON?$"
 
 Route2_Text_BugCatcherDoug_Beaten:
 	.string "No good!$"
 
 Route2_Text_BugCatcherDoug_AfterBattle:
-	.string "Bug POKéMON squish like plush toys\n"
+	.string "Bug MOéMON squish like plush toys\n"
 	.string "when you squeeze their bellies.\p"
 	.string "I love how they feel!$"
 

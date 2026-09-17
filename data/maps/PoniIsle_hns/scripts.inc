@@ -434,7 +434,7 @@ Alola_Poni_TrainerBattleSwimmer1_Text_1:
 	.string "Gah, I forgot my sunscreen…$"
 
 Alola_Poni_TrainerBattleSwimmer1_Text_2:
-	.string "I've swam into so many cool POKéMON!\n"
+	.string "I've swam into so many cool MOéMON!\n"
 	.string "It must be something in the water.$"
 
 Alola_Poni_TrainerBattleSwimmer2_Text_0:

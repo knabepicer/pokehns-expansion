@@ -433,7 +433,7 @@ BattleFrontier_BattleTowerBattleRoom_EventScript_RetireChallenge_hns::
 	end
 
 BattleFrontier_BattleTowerBattleRoom_Text_RestoreMonsToFullHealth_hns:
-	.string "We will restore your POKéMON to\n"
+	.string "We will restore your MOéMON to\n"
 	.string "full health.$"
 
 @ Unused
@@ -526,7 +526,7 @@ BattleFrontier_BattleTowerBattleRoom_Text_ReceivedAbilitySymbol_hns:
 
 BattleFrontier_BattleTowerBattleRoom_Text_UntilNextTime_hns:
 	.string "… … … … … …\p"
-	.string "You have confidence in your POKéMON\n"
+	.string "You have confidence in your MOéMON\n"
 	.string "battling talent, don't you?\p"
 	.string "I urge you to keep battling and\n"
 	.string "keep on winning.\p"
@@ -556,7 +556,7 @@ BattleFrontier_BattleTowerBattleRoom_Text_AbilitySymbolTookGoldenShine_hns:
 
 BattleFrontier_BattleTowerBattleRoom_Text_WishICouldBattleYouAgain_hns:
 	.string "That was fun…\p"
-	.string "I have never had a POKéMON battle\n"
+	.string "I have never had a MOéMON battle\n"
 	.string "so enjoyable before…\p"
 	.string "I wish I could battle with you again…$"
 

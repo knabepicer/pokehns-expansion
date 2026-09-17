@@ -62,8 +62,8 @@ PacifidlogTown_House3_Text_ReallyWantedToGetBagon:
 	.string "that another TRAINER caught…$"
 
 PacifidlogTown_House3_Text_IsThatAPokedex:
-	.string "Is that a POKéDEX?\p"
+	.string "Is that a MOéDEX?\p"
 	.string "Did you get to meet a lot of different\n"
-	.string "POKéMON?\p"
+	.string "MOéMON?\p"
 	.string "I wish I was like you.$"
 

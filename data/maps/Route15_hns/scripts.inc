@@ -124,7 +124,7 @@ Route15_Text_HillaryRematchDefeat:
 	.string "Back to the drawing board…$"
 
 Route15_Text_HillaryPostRematch:
-	.string "Teaching POKéMON is just like\n"
+	.string "Teaching MOéMON is just like\n"
 	.string "teaching children. Patience!$"
 
 Route15_Text_SchoolboyKippSeen:
@@ -165,7 +165,7 @@ Route15_Text_SchoolboyBillyBeaten:
 	.string "Oh, no! How could I lose?$"
 
 Route15_Text_SchoolboyBillyAfterBattle:
-	.string "If POKéMON were a subject at\n"
+	.string "If MOéMON were a subject at\n"
 	.string "school, I'd be the best!$"
 
 Route15_Text_BillyRegister:

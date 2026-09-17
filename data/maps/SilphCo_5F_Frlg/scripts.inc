@@ -78,7 +78,7 @@ SilphCo_5F_Text_Grunt1PostBattle::
 	.string "TEAM ROCKET!$"
 
 SilphCo_5F_Text_BeauIntro::
-	.string "We study POKé BALL technology on\n"
+	.string "We study MOé BALL technology on\n"
 	.string "this floor.$"
 
 SilphCo_5F_Text_BeauDefeat::
@@ -86,7 +86,7 @@ SilphCo_5F_Text_BeauDefeat::
 	.string "Blast it!$"
 
 SilphCo_5F_Text_BeauPostBattle::
-	.string "We worked on the ultimate POKé\n"
+	.string "We worked on the ultimate MOé\n"
 	.string "BALL which would catch anything.$"
 
 SilphCo_5F_Text_DaltonIntro::
@@ -113,18 +113,18 @@ SilphCo_5F_Text_Grunt2PostBattle::
 	.string "KOFFING evolves into WEEZING!$"
 
 SilphCo_5F_Text_PorygonFirstVRMon::
-	.string "It's a POKéMON REPORT!\p"
-	.string "POKéMON LAB created PORYGON,\n"
-	.string "the first virtual-reality POKéMON.$"
+	.string "It's a MOéMON REPORT!\p"
+	.string "MOéMON LAB created PORYGON,\n"
+	.string "the first virtual-reality MOéMON.$"
 
 SilphCo_5F_Text_Over350TechniquesConfirmed::
-	.string "It's a POKéMON REPORT!\p"
-	.string "Over 350 POKéMON techniques have\n"
+	.string "It's a MOéMON REPORT!\p"
+	.string "Over 350 MOéMON techniques have\n"
 	.string "been confirmed.$"
 
 SilphCo_5F_Text_SomeMonsEvolveWhenTraded::
-	.string "It's a POKéMON REPORT!\p"
-	.string "Some POKéMON have been confirmed\n"
+	.string "It's a MOéMON REPORT!\p"
+	.string "Some MOéMON have been confirmed\n"
 	.string "to evolve when they are traded.$"
 
 SilphCo_5F_Text_FloorSign::
@@ -135,6 +135,6 @@ SilphCo_5F_Text_RocketBossLookingForStrongMons::
 	.string "Those thugs that took over our\n"
 	.string "building…\p"
 	.string "Their BOSS said he was looking for\n"
-	.string "strong POKéMON.\p"
+	.string "strong MOéMON.\p"
 	.string "I hope our PRESIDENT managed to\n"
 	.string "avoid trouble…$"

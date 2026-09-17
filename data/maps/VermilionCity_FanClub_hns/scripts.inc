@@ -80,13 +80,13 @@ VermilionCity_FanClub_EventScript_Bayleef::
 
 
 PokemonFanClub_Text_Chairman_Intro:
-	.string "I'm the CHAIRMAN of the POKéMON\n"
+	.string "I'm the CHAIRMAN of the MOéMON\n"
 	.string "FAN CLUB.\p"
-	.string "I've raised over 150 POKéMON.\p"
+	.string "I've raised over 150 MOéMON.\p"
 	.string "I'm very fussy when it comes to\n"
-	.string "POKéMON.\p"
+	.string "MOéMON.\p"
 	.string "Did you visit just to hear about\n"
-	.string "my POKéMON?$"
+	.string "my MOéMON?$"
 
 PokemonFanClub_Text_Chairman_Rapidash:
 	.string "Good! Then listen up!\p"
@@ -111,15 +111,15 @@ PokemonFanClub_Text_Chairman_Gift:
 
 PokemonFanClub_Text_Chairman_Candy:
 	.string "It's a RARE CANDY that makes\n"
-	.string "POKéMON stronger.\p"
-	.string "I prefer making my POKéMON\n"
+	.string "MOéMON stronger.\p"
+	.string "I prefer making my MOéMON\n"
 	.string "stronger by battling, so you\l"
 	.string "can have it.$"
 
 PokemonFanClub_Text_Chairman_MoreTales:
 	.string "Hello, {PLAYER}!\p"
 	.string "Did you come see me about my\n"
-	.string "POKéMON again?\p"
+	.string "MOéMON again?\p"
 	.string "No? Oh… I had more tales to\n"
 	.string "tell…$"
 
@@ -129,7 +129,7 @@ PokemonFanClub_Text_Chairman_Disappointed:
 
 PokemonFanClub_Text_Receptionist:
 	.string "Our CHAIRMAN is very vocal when\n"
-	.string "it comes to POKéMON…$"
+	.string "it comes to MOéMON…$"
 
 @=Clefairy=Guy=========================================================================================================
 PokemonFanClub_Text_ClefairyGuy_Adorable:
@@ -142,12 +142,12 @@ PokemonFanClub_Text_ClefairyGuy_MakingDo:
 	.string "I love CLEFAIRY, but I could\n"
 	.string "never catch one.\p"
 	.string "So I'm making do with a\n"
-	.string "POKé DOLL that I found.$"
+	.string "MOé DOLL that I found.$"
 
 PokemonFanClub_Text_ClefairyGuy_ReturnDoll:
 	.string "Oh, I see now. The girl who lost\n"
-	.string "this POKé DOLL is sad…\p"
-	.string "OK. Could you take this POKé DOLL\n"
+	.string "this MOé DOLL is sad…\p"
+	.string "OK. Could you take this MOé DOLL\n"
 	.string "back to that poor little girl?\p"
 	.string "I'll befriend a real CLEFAIRY on\n"
 	.string "my own one day. No worries!$"
@@ -164,7 +164,7 @@ PokemonFanClub_Text_Teacher:
 
 PokemonFanClub_Text_ClefairyDoll:
 	.string "It's a CLEFAIRY! Huh?\p"
-	.string "Oh, right. It's a CLEFAIRY POKé\n"
+	.string "Oh, right. It's a CLEFAIRY MOé\n"
 	.string "DOLL.$"
 
 PokemonFanClub_Text_Bayleef:

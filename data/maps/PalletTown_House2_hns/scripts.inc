@@ -66,7 +66,7 @@ PalletTown_House2_Text_OfferGrooming:
 	.string "DAISY: Hi! Good timing. I'm about\n"
 	.string "to have some tea.\p"
 	.string "Would you like to join me?\p"
-	.string "Oh, your POKéMON are a bit dirty.\p"
+	.string "Oh, your MOéMON are a bit dirty.\p"
 	.string "Would you like me to groom one?$"
 
 PalletTown_House2_Text_WhichMon:
@@ -80,7 +80,7 @@ PalletTown_House2_Text_AllDone:
 	.string "DAISY: There you go! All done.\p"
 	.string "See? Doesn't {STR_VAR_1} look\n"
 	.string "nice?\p"
-	.string "It's such a cute POKéMON.$"
+	.string "It's such a cute MOéMON.$"
 
 PalletTown_House2_Text_AlreadyGroomed:
 	.string "DAISY: I always have tea around\n"

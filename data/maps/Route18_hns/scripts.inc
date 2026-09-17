@@ -34,7 +34,7 @@ Route18_EventScript_Sign::
 	end
 
 Route18_Text_BirdKeeperBorisSeen:
-	.string "If you're looking for POKéMON,\n"
+	.string "If you're looking for MOéMON,\n"
 	.string "you have to look in the tall grass.$"
 
 Route18_Text_BirdKeeperBorisBeaten:

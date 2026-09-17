@@ -122,7 +122,7 @@ Route30_EventScript_Mailbox::
 	end
 
 Route30_Text_Mailbox:
-	.string "MR.POKéMON's House$"
+	.string "MR.MOéMON's House$"
 
 Route30_Text_UseTackle:
 	.string "Go, RATTATA!\p"
@@ -134,7 +134,7 @@ Route30_Text_ThisIsABigBattle:
 
 Route30_Text_YoungsterJoey1Seen:
 	.string "I just lost, so I'm trying to\n"
-	.string "find more POKéMON.\p"
+	.string "find more MOéMON.\p"
 	.string "Wait! You look weak! Come on,\n"
 	.string "let's battle!$"
 
@@ -143,13 +143,13 @@ Route30_Text_YoungsterJoey1Beaten:
 	.string "Doggone it!$"
 
 Route30_Text_YoungsterJoey1After:
-	.string "Do I have to have more POKéMON\n"
+	.string "Do I have to have more MOéMON\n"
 	.string "in order to battle better?\p"
 	.string "No! I'm sticking with this one\n"
 	.string "no matter what!$"
 
 Route30_Text_YoungsterMikeySeen:
-	.string "You're a POKéMON trainer,\n"
+	.string "You're a MOéMON trainer,\n"
 	.string "right?\p"
 	.string "Then you have to battle!$"
 
@@ -164,19 +164,19 @@ Route30_Text_YoungsterMikeyAfter:
 	.string "people to get better.$"
 
 Route30_Text_BugCatcherDonSeen:
-	.string "Instead of a bug POKéMON,\n"
+	.string "Instead of a bug MOéMON,\n"
 	.string "I found a trainer!$"
 
 Route30_Text_BugCatcherDonBeaten:
 	.string "Argh! You're too strong!$"
 
 Route30_Text_BugCatcherDonAfter:
-	.string "I ran out of POKé BALLS while\n"
-	.string "I was catching POKéMON.\p"
+	.string "I ran out of MOé BALLS while\n"
+	.string "I was catching MOéMON.\p"
 	.string "I should've bought some more…$"
 
 Route30_Text_YoungsterDirectionsToMrPokemon:
-	.string "MR. POKéMON's house?\n"
+	.string "MR. MOéMON's house?\n"
 	.string "It's a bit farther ahead.$"
 
 Route30_Text_YoungsterEveryoneIsBattling:
@@ -194,18 +194,18 @@ Route30_Text_Sign:
 	.string "VIOLET CITY - CHERRYGROVE CITY$"
 
 Route30_Text_MrPokemonsHouseDirectionsSign:
-	.string "MR. POKéMON'S HOUSE\n"
+	.string "MR. MOéMON'S HOUSE\n"
 	.string "STRAIGHT AHEAD!$"
 
 Route30_Text_MrPokemonsHouseSign:
-	.string "MR. POKéMON'S HOUSE$"
+	.string "MR. MOéMON'S HOUSE$"
 
 Route30_Text_TrainerTips:
 	.string "TRAINER TIPS\p"
 	.string "No stealing other people's\n"
-	.string "POKéMON!\p"
-	.string "POKé BALLS are to be thrown\n"
-	.string "only at wild POKéMON!$"
+	.string "MOéMON!\p"
+	.string "MOé BALLS are to be thrown\n"
+	.string "only at wild MOéMON!$"
 
 Route30_Text_JoeyRegister:
 	.string "You're pretty good!\p"

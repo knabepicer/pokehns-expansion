@@ -44,12 +44,12 @@ IndigoPlateau_Text_ShigyNinja:
 	.string "Now, go get 'em!$"
 
 IndigoPlateau_Text_Blackbelt:
-	.string "The POKéMON LEAGUE is not taking\n"
+	.string "The MOéMON LEAGUE is not taking\n"
 	.string "new challengers at the moment.\p"
 	.string "Please check back later.$"
 
 IndigoPlateau_Text_CooltrainerM:
-    .string "At the POKéMON LEAGUE, you'll get\n"
+    .string "At the MOéMON LEAGUE, you'll get\n"
     .string "tested by the ELITE FOUR.\p"
     .string "You have to beat them all. If you\n"
     .string "lose, you have to start all over!$"
@@ -87,10 +87,10 @@ IndigoPlateau_Silver_Battle_Chikorita::
 
 IndigoPlateau_Text_RivalEntrance1:
     .string "Hold it.\p"
-    .string "You're going to take the POKéMON\n"
+    .string "You're going to take the MOéMON\n"
     .string "LEAGUE challenge now?\p"
     .string "That's not going to happen.\p"
-    .string "My super-well-trained POKéMON\n"
+    .string "My super-well-trained MOéMON\n"
     .string "are going to pound you.\p"
     .string "{PLAYER}!\n"
     .string "I challenge you!$"
@@ -102,7 +102,7 @@ IndigoPlateau_Text_RivalWin:
 IndigoPlateau_Text_RivalAfter:
     .string "…Darn… I still can't win…\p"
     .string "I… I have to think more about my\n"
-    .string "POKéMON…\p"
+    .string "MOéMON…\p"
     .string "Humph! Try not to lose!$"
 
 IndigoPlateau_EventScript_Psychic::

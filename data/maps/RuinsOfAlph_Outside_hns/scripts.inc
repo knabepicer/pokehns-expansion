@@ -84,20 +84,20 @@ RuinsOfAlph_Outside_EventScript_Sign3::
 	end
 
 RuinsOfAlph_Outside_Text_Scientist:
-	.string "Hm? That's a POKéDEX, isn't it?\n"
+	.string "Hm? That's a MOéDEX, isn't it?\n"
 	.string "May I see it?\p"
 	.string "There are so many kinds of\n"
-	.string "POKéMON.\p"
+	.string "MOéMON.\p"
 	.string "Hm? What's this?\p"
-	.string "What is this POKéMON?\p"
+	.string "What is this MOéMON?\p"
 	.string "It looks like the strange\n"
 	.string "writing on the walls of the\p"
 	.string "RUINS.\p"
 	.string "If those drawings are really\n"
-	.string "POKéMON, there should be many\n"
+	.string "MOéMON, there should be many\n"
 	.string "more.\p"
 	.string "I know! Let me upgrade your\n"
-	.string "POKéDEX. Follow me.$"
+	.string "MOéDEX. Follow me.$"
 
 RuinsOfAlph_Outside_Text_SuperNerdStan_Seen:
 	.string "What do you want? I'm studying--\n"
@@ -112,7 +112,7 @@ RuinsOfAlph_Outside_Text_SuperNerdStan_After:
 	.string "The RUINS are from about 1500\n"
 	.string "years ago.\p"
 	.string "Nobody knows who built them.\p"
-	.string "It's also not known if the POKéMON\n"
+	.string "It's also not known if the MOéMON\n"
 	.string "statues have any meaning.\p"
 	.string "It's all one big mystery…$"
 

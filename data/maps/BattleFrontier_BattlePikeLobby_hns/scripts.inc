@@ -314,8 +314,8 @@ BattleFrontier_BattlePikeLobby_Text_WhichChallengeMode_hns:
 BattleFrontier_BattlePikeLobby_Text_NotEnoughValidMonsLv50_hns:
 	.string "I beg your pardon, but…\p"
 	.string "You do not have three eligible\n"
-	.string "POKéMON for the Battle Choice event.\p"
-	.string "You must have three different POKéMON\n"
+	.string "MOéMON for the Battle Choice event.\p"
+	.string "You must have three different MOéMON\n"
 	.string "of Level 50 or less to enter.\p"
 	.string "They also must be holding different\n"
 	.string "kinds of items.\p"
@@ -328,15 +328,15 @@ BattleFrontier_BattlePikeLobby_Text_NotEnoughValidMonsEnd_hns:
 BattleFrontier_BattlePikeLobby_Text_NotEnoughValidMonsLvOpen_hns:
 	.string "I beg your pardon, but…\p"
 	.string "You do not have three eligible\n"
-	.string "POKéMON for the Battle Choice event.\p"
+	.string "MOéMON for the Battle Choice event.\p"
 	.string "You must have three different\n"
-	.string "POKéMON to enter.\p"
+	.string "MOéMON to enter.\p"
 	.string "They also must be holding different\n"
 	.string "kinds of items.\p"
 	.string "EGGS{STR_VAR_1}.$"
 
 BattleFrontier_BattlePikeLobby_Text_PleaseChooseThreeMons_hns:
-	.string "Please choose the three POKéMON\n"
+	.string "Please choose the three MOéMON\n"
 	.string "you wish to enter in the challenge…$"
 
 BattleFrontier_BattlePikeLobby_Text_SaveBeforeChallenge_hns:
@@ -404,7 +404,7 @@ BattleFrontier_BattlePikeLobby_Text_NeverHadToBattleTrainer_hns:
 BattleFrontier_BattlePikeLobby_Text_ThinkAbilitiesUsefulHere_hns:
 	.string "Listen! Listen!\p"
 	.string "Don't you think that the special\n"
-	.string "abilities of POKéMON will be useful\l"
+	.string "abilities of MOéMON will be useful\l"
 	.string "here?$"
 
 @ Unused
@@ -422,17 +422,17 @@ BattleFrontier_BattlePikeLobby_Text_ReadWhichHeading_hns:
 	.string "Which heading do you want to read?$"
 
 BattleFrontier_BattlePikeLobby_Text_ExplainPokenavBagRules_hns:
-	.string "The BAG and POKéNAV may not be used\n"
+	.string "The BAG and MOéNAV may not be used\n"
 	.string "during a Battle Choice challenge.$"
 
 BattleFrontier_BattlePikeLobby_Text_ExplainHeldItemRules_hns:
 	.string "During a Battle Choice challenge,\n"
-	.string "any BERRY or HERB held by POKéMON\l"
+	.string "any BERRY or HERB held by MOéMON\l"
 	.string "will be effective only once.$"
 
 BattleFrontier_BattlePikeLobby_Text_ExplainMonOrderRules_hns:
 	.string "During a Battle Choice challenge,\n"
-	.string "the sequence of POKéMON cannot be\l"
+	.string "the sequence of MOéMON cannot be\l"
 	.string "changed.\p"
 	.string "The sequence must be set before\n"
 	.string "starting your challenge.$"

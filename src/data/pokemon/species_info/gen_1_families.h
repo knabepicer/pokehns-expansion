@@ -20673,7 +20673,7 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
             ANIMCMD_FRAME(0, 10),
         ),
         .frontAnimId = ANIM_FLASH_YELLOW,
-        .enemyMonElevation = 8,
+        .enemyMonElevation = 0,
         .backPic = gMonBackPic_Zapdos,
         .backPicSize = MON_COORDS_SIZE(64, 64),
         .backPicYOffset = 0,

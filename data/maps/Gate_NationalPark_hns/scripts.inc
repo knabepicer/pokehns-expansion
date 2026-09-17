@@ -210,12 +210,12 @@ Route35NationalParkGate_Text_OfficerAskToParticipate:
 	.string "Hello Trainer! The Bug-Catching\n"
 	.string "Contest is on today.\p"
 	.string "The rules are simple.\p"
-	.string "Using one of your POKéMON, catch a\n"
-	.string "bug POKéMON to be judged.\p"
+	.string "Using one of your MOéMON, catch a\n"
+	.string "bug MOéMON to be judged.\p"
 	.string "Would you like to give it a try?$"
 
 Route35NationalParkGate_Text_OfficerGiveSportBalls:
-	.string "Any EXP your POKéMON gains during\n"
+	.string "Any EXP your MOéMON gains during\n"
 	.string "the contest will be reverted when\l"
 	.string "you leave.\p"
 	.string "Here are the SPORT BALLS for the\n"
@@ -226,31 +226,31 @@ Route35NationalParkGate_Text_ReceivedSportBalls:
 
 Route35NationalParkGate_Text_OfficerExplainRules:
 	.string "The person who gets the strongest\n"
-	.string "bug POKéMON is the winner.\p"
+	.string "bug MOéMON is the winner.\p"
 	.string "If you run out of SPORT BALLS,\n"
 	.string "you're done.\p"
-	.string "You can catch up to 5 POKéMON. The\n"
+	.string "You can catch up to 5 MOéMON. The\n"
 	.string "last one caught will be the only\l"
 	.string "one kept and placed in the contest.\p"
 	.string "Go out and catch the strongest bug\n"
-	.string "POKéMON you can find!$"
+	.string "MOéMON you can find!$"
 
 Route35NationalParkGate_Text_OfficerAskToUseFirstMon:
-	.string "If you have more than one POKéMON,\n"
+	.string "If you have more than one MOéMON,\n"
 	.string "you'll have to use the\l"
-	.string "first POKéMON in your party.\p"
+	.string "first MOéMON in your party.\p"
 	.string "Is that OK with you?$"
 
 Route35NationalParkGate_Text_OfficerHoldYourMon:
-	.string "Fine, we'll hold your other POKéMON\n"
+	.string "Fine, we'll hold your other MOéMON\n"
 	.string "while you compete.$"
 
 Route35NationalParkGate_Text_MonLeftWithHelper:
-	.string "{PLAYER}'s POKéMON were left with the\n"
+	.string "{PLAYER}'s MOéMON were left with the\n"
 	.string "CONTEST HELPER.$"
 
 Route35NationalParkGate_Text_ChooseMonAndComeBack:
-	.string "Please choose the POKéMON to be used\n"
+	.string "Please choose the MOéMON to be used\n"
 	.string "in the Contest, then come see me.$"
 
 Route35NationalParkGate_Text_TakePartInFuture:
@@ -258,23 +258,23 @@ Route35NationalParkGate_Text_TakePartInFuture:
 	.string "future.$"
 
 Route35NationalParkGate_Text_FirstMonCantBattle:
-	.string "Uh-oh… The first POKéMON in your\n"
+	.string "Uh-oh… The first MOéMON in your\n"
 	.string "party can't battle.\p"
-	.string "Please switch it with the POKéMON\n"
+	.string "Please switch it with the MOéMON\n"
 	.string "you want to use, then come see me.$"
 
 Route35NationalParkGate_Text_MakeRoom:
 	.string "Uh-oh… Both your party and your\n"
 	.string "PC BOX are full.\p"
 	.string "You have no room to put the bug\n"
-	.string "POKéMON you catch.\p"
+	.string "MOéMON you catch.\p"
 	.string "Please make room in your party or\n"
 	.string "your PC BOX, then come see me.$"
 
 Route35NationalParkGate_Text_EggAsFirstMon:
 	.string "Uh-oh… You have an EGG as the first\n"
-	.string "POKéMON in your party.\p"
-	.string "Please switch it with the POKéMON\n"
+	.string "MOéMON in your party.\p"
+	.string "Please switch it with the MOéMON\n"
 	.string "you want to use, then come see me.$"
 
 Route35NationalParkGate_Text_ContestIsOver:
@@ -322,7 +322,7 @@ Route35NationalParkGate_EventScript_Beauty::
 	end
 
 Route35NationalParkGate_Text_Rocker:
-	.string "I love bird POKéMON! I found a\n"
+	.string "I love bird MOéMON! I found a\n"
 	.string "DARK-type bird in the park\l"
 	.string "last night!$"
 
@@ -345,5 +345,5 @@ Route35NationalParkGate_Text_ContestExplanation:
 	.string "Tuesday, Thursday and Saturday.\p"
 	.string "Not only do you earn a prize just\n"
 	.string "for participating,\p"
-	.string "you also get to keep the bug POKéMON\n"
+	.string "you also get to keep the bug MOéMON\n"
 	.string "you may have at the end of the contest.$"

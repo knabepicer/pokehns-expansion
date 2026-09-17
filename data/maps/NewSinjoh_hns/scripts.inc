@@ -170,7 +170,7 @@ NewSinjoh_Text_TravelBrother_Greeting:
     .string "All our goods are homemade\n"
 	.string "and grown locally!\p"
 	.string "My big sister opened up this shop,\n"
-	.string "because the POKéMART company\l"
+	.string "because the MOéMART company\l"
 	.string "won't open a location\l"
 	.string "this far out from a major town.$"
 
@@ -266,7 +266,7 @@ NewSinjoh_Text_SpringsSage:
 	.string "tourists alike.$"
 NewSinjoh_Text_SpringsSageAfter:
 	.string "Things have been better since\n"
-	.string "the legendary POKéMON were quelled.\p"
+	.string "the legendary MOéMON were quelled.\p"
 	.string "Balance has returned to SINJOH.$"
 
 NewSinjoh_EventScript_Sage2::

@@ -117,18 +117,18 @@ Route31_EventScript_ItemAntidote::
 
 Route31_Text_CooltrainerM:
 	.string "DARK CAVE…\p"
-	.string "If POKéMON could light it up,\n"
+	.string "If MOéMON could light it up,\n"
 	.string "I'd explore it.$"
 
 Route31_Text_BugCatcherWade1_Seen:
-	.string "I caught a bunch of POKéMON.\n"
+	.string "I caught a bunch of MOéMON.\n"
 	.string "Let me battle with you!$"
 
 Route31_Text_BugCatcherWade1_Beaten:
 	.string "Awwwww…$"
 
 Route31_Text_BugCatcherWade1_After:
-	.string "You can catch POKéMON even if\n"
+	.string "You can catch MOéMON even if\n"
 	.string "you have six with you.\p"
 	.string "If you catch one, it'll go to\n"
 	.string "your BOX automatically.$"
@@ -136,9 +136,9 @@ Route31_Text_BugCatcherWade1_After:
 Route31_Text_SleepyMan:
 	.string "… Hnuurg… Huh?\p"
 	.string "I walked too far today looking\n"
-	.string "for POKéMON.\p"
+	.string "for MOéMON.\p"
 	.string "My feet hurt and I'm sleepy…\p"
-	.string "If I were a wild POKéMON, I'd\n"
+	.string "If I were a wild MOéMON, I'd\n"
 	.string "be easy to catch…\p"
 	.string "…Zzzz…$"
 
@@ -152,7 +152,7 @@ Route31_Text_SleepyManFail:
 
 Route31_Text_HandOverMailMon:
 	.string "{PLAYER} handed over the\n"
-	.string "POKéMON holding the MAIL.$"
+	.string "MOéMON holding the MAIL.$"
 
 Route31_Text_ReadingMail:
 	.string "Let's see…\p"
@@ -177,7 +177,7 @@ Route31_Text_WrongMail:
 	.string "This MAIL isn't for me.$"
 
 Route31_Text_MissingMail:
-	.string "Why is this POKéMON so special?\p"
+	.string "Why is this MOéMON so special?\p"
 	.string "It doesn't have any MAIL.$"
 
 Route31_Text_DeclinedToHandOverMail:
@@ -185,13 +185,13 @@ Route31_Text_DeclinedToHandOverMail:
 	.string "anything?$"
 
 Route31_Text_CantTakeLastMon:
-	.string "If I take that POKéMON from\n"
+	.string "If I take that MOéMON from\n"
 	.string "you,\p"
 	.string "what are you going to use in\n"
 	.string "battle?$"
 
 Route31_Text_Youngster:
-	.string "I found a good POKéMON in DARK\n"
+	.string "I found a good MOéMON in DARK\n"
 	.string "CAVE.\p"
 	.string "I'm going to raise it to take\n"
 	.string "on FALKNER.\p"
@@ -204,7 +204,7 @@ Route31_Text_Sign:
 
 Route31_Text_WadeRegister:
 	.string "You're awesome! I like you!\p"
-	.string "I look for POKéMON here every\n"
+	.string "I look for MOéMON here every\n"
 	.string "day.\p"
 	.string "When I'm in the grass, I find\n"
 	.string "all kinds of BERRIES.\p"

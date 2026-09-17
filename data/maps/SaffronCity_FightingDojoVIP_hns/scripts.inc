@@ -20,7 +20,7 @@ SaffronCity_FightingDojoVIP_EventScript_Nurse::
 
 SaffronCity_FightingDojoVIP_Text_Nurse1:
 	.string "Hi! Welcome to the TRAINING DOJO!\n"
-	.string "I will heal your POKéMON.$"
+	.string "I will heal your MOéMON.$"
 
 SaffronCity_FightingDojoVIP_Text_Nurse2:
 	.string "We hope to see you again!$"
@@ -713,7 +713,7 @@ SaffronCity_FightingDojoVIP_Text_Falkner_Rematch:
 	.string "Congratulations on defeating\n"
 	.string "the ELITE 4!\p"
 	.string "I've been training my\n"
-	.string "FLYING-type POKéMON even harder.\p"
+	.string "FLYING-type MOéMON even harder.\p"
 	.string "Think you can take on the power\n"
 	.string "of the skies again?$"
 
@@ -756,7 +756,7 @@ SaffronCity_FightingDojoVIP_Text_Morty_Rematch:
 	.string "skill, but have you improved\l"
 	.string "since our last battle?\p"
 	.string "I've been training with my\n"
-	.string "GHOST-type POKéMON.\p"
+	.string "GHOST-type MOéMON.\p"
 	.string "Let's see if you can overcome\n"
 	.string "the shadows once again.\p"
 	.string "Want to have a rematch with me?$"
@@ -832,7 +832,7 @@ SaffronCity_FightingDojoVIP_Text_Brock_Rematch:
 	.string "Want to have a rematch with me?$"
 
 SaffronCity_FightingDojoVIP_Text_Brock_RematchDefeat:
-	.string "BROCK: Your POKéMON once again\n"
+	.string "BROCK: Your MOéMON once again\n"
 	.string "overcame my rock-hard defense…$"
 
 SaffronCity_FightingDojoVIP_Text_Misty_Rematch:
@@ -881,7 +881,7 @@ SaffronCity_FightingDojoVIP_Text_Sabrina_Rematch:
 
 SaffronCity_FightingDojoVIP_Text_Sabrina_RematchDefeat:
 	.string "SABRINA: Your love for your\n"
-	.string "POKéMON again overwhelmed my\l"
+	.string "MOéMON again overwhelmed my\l"
 	.string "psychic power…$"
 
 SaffronCity_FightingDojoVIP_Text_Janine_Rematch:

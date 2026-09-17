@@ -636,7 +636,7 @@ BattleFrontier_BattlePikeRoomNormal_Movement_CameraPanDown_hns:
 BattleFrontier_BattlePikeRoomNormal_Text_WillRestoreToFullHealth_hns:
 	.string "Welcome…\n"
 	.string "You must be commended for your luck…\p"
-	.string "Your POKéMON shall be restored\n"
+	.string "Your MOéMON shall be restored\n"
 	.string "to full health…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_EnjoyRestOfChallenge_hns:
@@ -646,7 +646,7 @@ BattleFrontier_BattlePikeRoomNormal_Text_EnjoyRestOfChallenge_hns:
 BattleFrontier_BattlePikeRoomNormal_Text_WillRestoreOneMon_hns:
 	.string "Ah, you're a lucky one.\n"
 	.string "I'm in somewhat-good spirits now.\p"
-	.string "I will restore one of your POKéMON\n"
+	.string "I will restore one of your MOéMON\n"
 	.string "to full health.$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_BestOfLuckFarewell_hns:
@@ -659,7 +659,7 @@ BattleFrontier_BattlePikeRoomNormal_Text_BestOfLuckFarewell_hns:
 BattleFrontier_BattlePikeRoomNormal_Text_CareForBattleWillRestoreMons_hns:
 	.string "Excuse me…\p"
 	.string "Would you care for a battle?\n"
-	.string "I'll restore your POKéMON if you win.$"
+	.string "I'll restore your MOéMON if you win.$"
 
 @ Unused
 BattleFrontier_BattlePikeRoomNormal_Text_NowShallWe_hns:
@@ -675,7 +675,7 @@ BattleFrontier_BattlePikeRoomNormal_Text_HowUnsportingOfYou_hns:
 BattleFrontier_BattlePikeRoomNormal_Text_WillRestoreMonsAsPromised_hns:
 	.string "Magnificent…\p"
 	.string "As promised, I shall restore your\n"
-	.string "POKéMON to full health.$"
+	.string "MOéMON to full health.$"
 
 @ Unused
 BattleFrontier_BattlePikeRoomNormal_Text_BestOfLuckFarewell_hns2_hns:
@@ -727,11 +727,11 @@ BattleFrontier_BattlePikeRoomNormal_Text_ApologizeForDusclops_hns:
 BattleFrontier_BattlePikeRoomNormal_Text_AttacksWhenStartled_hns:
 	.string "It attacks without warning if it is\n"
 	.string "startled by another person…\p"
-	.string "Are you and your POKéMON all right?$"
+	.string "Are you and your MOéMON all right?$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ApologizeHopeMonsAreFine_hns:
 	.string "I do apologize for what happened…\n"
-	.string "I do hope your POKéMON are fine.$"
+	.string "I do hope your MOéMON are fine.$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_Silence_hns:
 	.string "… … … … … …\n"
@@ -744,7 +744,7 @@ BattleFrontier_BattlePikeRoomNormal_Text_BattleSomewhatToughTrainer_hns:
 
 BattleFrontier_BattlePikeRoomNormal_Text_RestoreToFullHealth_hns:
 	.string "How wonderful…\p"
-	.string "To honor your victory, your POKéMON\n"
+	.string "To honor your victory, your MOéMON\n"
 	.string "shall be restored to full health…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_EnjoyRestOfChallenge_hns2_hns:
@@ -807,17 +807,17 @@ BattleFrontier_BattlePikeRoomNormal_Text_ChoseRoomNoHeal_hns:
 	.string "Giggle…\n"
 	.string "You seem to be bereft of luck…\p"
 	.string "If only you hadn't chosen this room,\n"
-	.string "your POKéMON could have been healed…$"
+	.string "your MOéMON could have been healed…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ChoseRoomHealOne_hns:
 	.string "I welcome you…\p"
 	.string "Since you have chosen this room, I will\n"
-	.string "restore one POKéMON to full health…$"
+	.string "restore one MOéMON to full health…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ChoseRoomHealTwo_hns:
 	.string "I welcome you…\p"
 	.string "Since you have chosen this room, I will\n"
-	.string "restore two POKéMON to full health…$"
+	.string "restore two MOéMON to full health…$"
 
 @ Unused
 BattleFrontier_BattlePikeRoomNormal_Text_WillRestoreAllMons_hns:
@@ -825,7 +825,7 @@ BattleFrontier_BattlePikeRoomNormal_Text_WillRestoreAllMons_hns:
 	.string "Giggle…\n"
 	.string "You should thank your lucky stars…\p"
 	.string "Since you have chosen this room,\n"
-	.string "all your POKéMON will be restored…$"
+	.string "all your MOéMON will be restored…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ShallFetchOurMaster_hns:
 	.string "I shall go fetch our master…$"
@@ -833,6 +833,6 @@ BattleFrontier_BattlePikeRoomNormal_Text_ShallFetchOurMaster_hns:
 BattleFrontier_BattlePikeRoomNormal_Text_WillRestoreTwoMons_hns:
 	.string "Ah, you're a lucky one!\n"
 	.string "I'm in good spirits now.\p"
-	.string "I will restore two of your POKéMON\n"
+	.string "I will restore two of your MOéMON\n"
 	.string "to full health!$"
 

@@ -329,7 +329,7 @@ VermilionCity_Text_Teacher:
 	.string "world dock here.$"
 
 VermilionCity_Text_MachopOwner:
-	.string "My POKéMON is preparing the land\n"
+	.string "My MOéMON is preparing the land\n"
 	.string "for construction.\p"
 	.string "But I have no money to start the\n"
 	.string "project…$"
@@ -344,13 +344,13 @@ VermilionCity_Text_Machop2:
 VermilionCity_Text_SuperNerd:
 	.string "There are eight GYMS in KANTO.\p"
 	.string "That big building is VERMILION's\n"
-	.string "POKéMON GYM.$"
+	.string "MOéMON GYM.$"
 
 VermilionCity_Text_SnorlaxSleeping:
 	.string "SNORLAX is snoring peacefully…$"
 
 VermilionCity_Text_RadioNearSnorlax:
-	.string "The POKéGEAR was placed near \n"
+	.string "The MOéGEAR was placed near \n"
 	.string "the sleeping SNORLAX…\p"
 	.string "…\p"
 	.string "SNORLAX woke up!$"
@@ -378,7 +378,7 @@ VermilionCity_Text_BadgeGuy_AllBadges:
 	.string "I've got a reward for your efforts.$"
 
 VermilionCity_Text_BadgeGuy_BattleEdge:
-	.string "Having a variety of POKéMON types\n"
+	.string "Having a variety of MOéMON types\n"
 	.string "should give you an edge in battle.\p"
 	.string "I'm sure the KANTO GYM BADGES will\n"
 	.string "help you.$"
@@ -402,13 +402,13 @@ VermilionCity_Text_Sign:
 
 VermilionCity_Text_GymSign:
 	.string "VERMILION CITY\n"
-	.string "POKéMON GYM\p"
+	.string "MOéMON GYM\p"
 	.string "LEADER: LT.SURGE\p"
 	.string "The Lightning American$"
 
 VermilionCity_Text_FanClubSign:
-	.string "POKéMON FAN CLUB\p"
-	.string "All POKéMON Fans Welcome!$"
+	.string "MOéMON FAN CLUB\p"
+	.string "All MOéMON Fans Welcome!$"
 
 VermilionCity_Text_DiglettsCaveSign:
 	.string "DIGLETT'S CAVE$"
@@ -511,7 +511,7 @@ VermilionCity_Text_StevenIntro:
 	.string "Especially the ones who gave me\n"
 	.string "tough battles.\p"
 	.string "I'm in KANTO for business.\n"
-	.string "Recently many HOENN POKéMON have\l"
+	.string "Recently many HOENN MOéMON have\l"
 	.string "migrated to this region.\l"
 	.string "This influx risks disrupting the\l"
 	.string "natural ecosystem here.\p"
@@ -520,7 +520,7 @@ VermilionCity_Text_StevenIntro:
 	.string "to attract and contain the most\l"
 	.string "invasive species.\p"
 	.string "Make sure you keep an eye out\n"
-	.string "and catch any HOENN POKéMON you see.\p"
+	.string "and catch any HOENN MOéMON you see.\p"
 	.string "Some trainers have even reported\n"
 	.string "one that soars through the sky like\l"
 	.string "a jet... What color was it again?$"

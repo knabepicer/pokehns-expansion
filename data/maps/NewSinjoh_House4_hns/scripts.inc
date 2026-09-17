@@ -80,7 +80,7 @@ NewSinjoh_Cafe_EventScript_Gentleman::
 NewSinjoh_Cafe_Text_Gentleman:
 	.string "What are you staring at, kid?\p"
 	.string "Nothin' wrong with a man and his\n"
-	.string "POKéMON eating at the same table.$"
+	.string "MOéMON eating at the same table.$"
 
 NewSinjoh_EventScript_Scyther::
 	lock

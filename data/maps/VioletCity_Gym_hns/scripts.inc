@@ -55,21 +55,21 @@ VioletCity_Gym_EventScript_Falkner_Defeated::
 	end
 
 VioletGym_Text_Falkner_Intro:
-	.string "I'm FALKNER, the VIOLET POKéMON\n"
+	.string "I'm FALKNER, the VIOLET MOéMON\n"
 	.string "GYM leader!\p"
 	.string "People say you can clip\n"
-	.string "FLYING-type POKéMON's wings\p"
+	.string "FLYING-type MOéMON's wings\p"
 	.string "with a jolt of electricity…\n"
 	.string "I won't allow such insults to bird\l"
-	.string "POKéMON!\p"
+	.string "MOéMON!\p"
 	.string "I'll show you the real power\n"
-	.string "of the magnificent bird POKéMON!$"
+	.string "of the magnificent bird MOéMON!$"
 
 VioletGym_Text_Falkner_WinLoss:
 	.string "…Darn! My dad's cherished bird\n"
-	.string "POKéMON…\p"
+	.string "MOéMON…\p"
 	.string "All right. Take this.\p"
-	.string "It's the official POKéMON LEAGUE\n"
+	.string "It's the official MOéMON LEAGUE\n"
 	.string "ZEPHYRBADGE.$"
 
 VioletGym_Text_ReceivedZephyrBadge:
@@ -77,23 +77,23 @@ VioletGym_Text_ReceivedZephyrBadge:
 
 VioletGym_Text_Falkner_BadgeExplain:
 	.string "ZEPHYRBADGE raises the ATTACK\n"
-	.string "power of POKéMON.\p"
-	.string "It also enables POKéMON to use\n"
+	.string "power of MOéMON.\p"
+	.string "It also enables MOéMON to use\n"
 	.string "FLASH, if they can learn it,\l"
 	.string "anytime.\p"
 	.string "Here--take this too.$"
 
 VioletGym_Text_Falkner_TMExplain:
-	.string "By using a TM, a POKéMON will\n"
+	.string "By using a TM, a MOéMON will\n"
 	.string "instantly learn a new move.\p"
 	.string "That TM contains ROOST.\p"
 	.string "It restores HP up to half of your\n"
-	.string "POKéMON's maximum.\p"
+	.string "MOéMON's maximum.\p"
 	.string "In other words, it heals your\n"
-	.string "POKéMON.$"
+	.string "MOéMON.$"
 
 VioletGym_Text_Falkner_AfterFight:
-	.string "There are POKéMON GYMS in cities\n"
+	.string "There are MOéMON GYMS in cities\n"
 	.string "and towns ahead.\p"
 	.string "You should test your skills at\n"
 	.string "these GYMS.\p"
@@ -104,7 +104,7 @@ VioletGym_Text_Falkner_Rematch:
 	.string "Congratulations on defeating\n"
 	.string "the ELITE 4!\p"
 	.string "I've been training my\n"
-	.string "FLYING-type POKéMON even harder.\p"
+	.string "FLYING-type MOéMON even harder.\p"
 	.string "Think you can take on the power\n"
 	.string "of the skies again?$"
 
@@ -116,7 +116,7 @@ VioletGym_Text_Falkner_RematchLoss:
 VioletGym_Text_BirdKeeperRod_Seen:
 	.string "The keyword is guts!\p"
 	.string "Those here are training night and\n"
-	.string "day to become bird POKéMON masters.\p"
+	.string "day to become bird MOéMON masters.\p"
 	.string "Come on!$"
 
 VioletGym_Text_BirdKeeperRod_Beaten:
@@ -152,7 +152,7 @@ VioletGym_Text_GymGuide_Intro:
 	.string "and ROCK-type moves, but watch out\l"
 	.string "for MUD-SLAP!\p"
 	.string "If you want more help, go visit the\n"
-	.string "POKéMON ACADEMY.\p"
+	.string "MOéMON ACADEMY.\p"
 	.string "The students there really know\n"
 	.string "their stuff!$"
 
@@ -176,9 +176,9 @@ VioletCity_Gym_EventScript_Statue2::
 	end
 
 VioletCity_Gym_Text_GymStatue:
-	.string "VIOLET CITY POKéMON GYM$"
+	.string "VIOLET CITY MOéMON GYM$"
 
 VioletCity_Gym_Text_GymStatueCertified:
-	.string "VIOLET CITY POKéMON GYM\p"
+	.string "VIOLET CITY MOéMON GYM\p"
 	.string "FALKNER'S CERTIFIED TRAINERS:\n"
 	.string "{PLAYER}$"

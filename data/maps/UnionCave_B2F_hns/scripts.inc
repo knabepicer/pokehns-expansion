@@ -59,7 +59,7 @@ UnionCave_B2F_Text_CooltrainermNickBeaten:
 	.string "You've got dazzling style!$"
 
 UnionCave_B2F_Text_CooltrainermNickAfter:
-	.string "Your POKéMON style is stunning and\n"
+	.string "Your MOéMON style is stunning and\n"
 	.string "colorful, I admit.\p"
 	.string "You'll just keep getting better!$"
 
@@ -74,7 +74,7 @@ UnionCave_B2F_Text_CooltrainerfGwenAfter:
 	.string "improve.$"
 
 UnionCave_B2F_Text_CooltrainerfEmmaSeen:
-	.string "If the POKéMON I liked were there,\n"
+	.string "If the MOéMON I liked were there,\n"
 	.string "I'd go anywhere.\p"
 	.string "That's what a real trainer does.$"
 
@@ -82,6 +82,6 @@ UnionCave_B2F_Text_CooltrainerfEmmaBeaten:
 	.string "I'd rather pet my babies than this!$"
 
 UnionCave_B2F_Text_CooltrainerfEmmaAfter:
-	.string "Just once a week, a POKéMON comes to\n"
+	.string "Just once a week, a MOéMON comes to\n"
 	.string "the water's edge.\p"
-	.string "I wanted to see that POKéMON…$"
+	.string "I wanted to see that MOéMON…$"

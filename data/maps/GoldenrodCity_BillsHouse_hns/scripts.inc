@@ -84,7 +84,7 @@ BillHouse_Text_EeveeMayEvolve:
 
 BillHouse_Text_PartyFull:
     .string "Whoa, wait. You can't carry any\n"
-    .string "more POKéMON.$"
+    .string "more MOéMON.$"
 
 BillHouse_Text_NoEevee:
     .string "Oh… Now what to do?$"
@@ -95,16 +95,16 @@ BillHouse_Text_PopWontWork:
     .string "He's getting to be a real headache…$"
 
 BillHouse_Text_MomBeforeEcruteak:
-    .string "Oh, you collect POKéMON? My son\n"
+    .string "Oh, you collect MOéMON? My son\n"
     .string "BILL is an expert.\p"
-    .string "He just got called to the POKéMON\n"
+    .string "He just got called to the MOéMON\n"
     .string "CENTER in ECRUTEAK CITY.\p"
     .string "My husband went off to the GAME\n"
     .string "CORNER without being called…$"
 
 BillHouse_Text_MomAfterEcruteak:
     .string "My husband was once known as a\n"
-    .string "POKéMANIAC.\p"
+    .string "MOéMANIAC.\p"
     .string "BILL must have taken after his\n"
     .string "father.$"
 
@@ -117,7 +117,7 @@ BillHouse_Text_RecordedBillsNumber:
     .string "{PLAYER} recorded BILL's number.$"
 
 BillHouse_Text_SisterRefusedNumber:
-    .string "My brother made the PC POKéMON\n"
+    .string "My brother made the PC MOéMON\n"
     .string "storage system.\p"
     .string "I was going to give you BILL's\n"
     .string "number…$"
@@ -127,4 +127,4 @@ BillHouse_Text_SisterPhoneFull:
 
 BillHouse_Text_SisterStorageSystem:
     .string "My big brother BILL made the PC\n"
-    .string "POKéMON storage system.$"
+    .string "MOéMON storage system.$"

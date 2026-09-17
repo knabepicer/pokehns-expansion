@@ -41,7 +41,7 @@ Mom_Text_GiftCall_Berry:
 
 Mom_Text_GiftCall_Decoration:
 	.string "MOM: Hi, sweetie!\p"
-	.string "I bought a cute POKé DOLL\n"
+	.string "I bought a cute MOé DOLL\n"
 	.string "for your room!\p"
 	.string "Check your DECORATIONS when you\n"
 	.string "come home. Take care!$"

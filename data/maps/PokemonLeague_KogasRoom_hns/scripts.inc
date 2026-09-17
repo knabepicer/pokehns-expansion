@@ -82,7 +82,7 @@ PokemonLeague_KogasRoom_Text_Before:
     .string "Prepare to be the victim of my\n"
     .string "sinister technique!\p"
     .string "Fwahahahaha!\p"
-    .string "POKéMON is not merely about brute\n"
+    .string "MOéMON is not merely about brute\n"
     .string "force--you shall see soon enough!$"
 
 PokemonLeague_KogasRoom_Text_Beaten:

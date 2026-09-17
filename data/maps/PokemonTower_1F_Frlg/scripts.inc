@@ -37,17 +37,17 @@ PokemonTower_1F_EventScript_WorkerF::
 	end
 
 PokemonTower_1F_Text_ErectedInMemoryOfDeadMons::
-	.string "POKéMON TOWER was erected in the\n"
-	.string "memory of POKéMON that died.$"
+	.string "MOéMON TOWER was erected in the\n"
+	.string "memory of MOéMON that died.$"
 
 PokemonTower_1F_Text_ComeToPayRespectsSon::
 	.string "Did you come to pay respects?\p"
-	.string "Bless your POKéMON-loving heart,\n"
+	.string "Bless your MOéMON-loving heart,\n"
 	.string "son.$"
 
 PokemonTower_1F_Text_ComeToPayRespectsGirl::
 	.string "Did you come to pay respects?\p"
-	.string "Bless your POKéMON-loving heart,\n"
+	.string "Bless your MOéMON-loving heart,\n"
 	.string "girl.$"
 
 PokemonTower_1F_Text_CameToPrayForDepartedClefairy::

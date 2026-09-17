@@ -234,23 +234,23 @@ NewBarkTown_Text_Wooper:
 	.string "WOOPER: Woooooop.$"
 
 NewBarkTown_Text_FatManState2:
-	.string "Wow, your POKéGEAR is impressive!\n"
+	.string "Wow, your MOéGEAR is impressive!\n"
 	.string "Did your mom get it for you?$"
 
 NewBarkTown_Text_FatManState3:
 	.string "Yo, {PLAYER}!\p"
 	.string "I hear PROF.ELM discovered\n"
-	.string "some new POKéMON.$"
+	.string "some new MOéMON.$"
 
 NewBarkTown_Text_LassState2:
 	.string "Wait, {PLAYER}!\p"
 	.string "It's dangerous to go out\n"
-	.string "without a POKéMON!\p"
-	.string "Wild POKéMON jump out of the grass\n"
+	.string "without a MOéMON!\p"
+	.string "Wild MOéMON jump out of the grass\n"
 	.string "on the way to the next town.$"
 
 NewBarkTown_Text_LassState3:
-	.string "Oh! Your POKéMON is adorable!\n"
+	.string "Oh! Your MOéMON is adorable!\n"
 	.string "I wish I had one!$"
 
 NewBarkTown_Text_LassState4:
@@ -259,13 +259,13 @@ NewBarkTown_Text_LassState4:
 	.string "you are leaving.$"
 
 NewBarkTown_Text_LassState5:
-	.string "Call your mom on your POKéGEAR\n"
+	.string "Call your mom on your MOéGEAR\n"
 	.string "to let her know how you're doing.$\p"
 
 NewBarkTown_Text_Silver1:
 	.string ". . .\p"
 	.string "So this is the famous ELM\n"
-	.string "POKéMON LAB…$"
+	.string "MOéMON LAB…$"
 
 NewBarkTown_Text_Silver2:
 	.string "…What are you staring at?$"

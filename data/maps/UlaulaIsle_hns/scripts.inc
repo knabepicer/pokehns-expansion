@@ -339,7 +339,7 @@ Alola_Ulaula_TrainerBattlePicnicker_Text_1:
 Alola_Ulaula_TrainerBattlePicnicker_Text_2:
 	.string "I thought I saw something red flying\n"
 	.string "through the sky.\p"
-	.string "Could it have been a POKéMON?$"
+	.string "Could it have been a MOéMON?$"
 
 Alola_Ulaula_TrainerBattleYoungster_Text_0:
 	.string "Hey, I'm going to be the first to climb\nMT. LANIKALA!$"
@@ -595,9 +595,9 @@ Alola_Ulaula_Text_MoveTutorIntro:
 	.string "YOU!\p"
 	.string "Did the others send you here?\n"
 	.string "Did they tell you that I am the\l"
-	.string "master of POKéMON moves?\p"
+	.string "master of MOéMON moves?\p"
 	.string "........................\p"
-	.string "I can train your POKéMON in the\n"
+	.string "I can train your MOéMON in the\n"
 	.string "ways of the ISLES, but first, a\l"
 	.string "small fee.\p"
 	.string "The price is 5 HEART SCALES.\p"
@@ -612,7 +612,7 @@ Alola_Ulaula_Text_MoveTutorNoScales:
 	.string "Five HEART SCALES.\n"
 	.string "Not four.\p"
 	.string "Try smashing rocks.\n"
-	.string "With your POKéMON, or your fists!$"
+	.string "With your MOéMON, or your fists!$"
 
 Alola_Ulaula_Text_MoveTutorChoose:
 	.string "Which move would you like?$"
@@ -621,11 +621,11 @@ Alola_Ulaula_Text_MoveTutorConfirm:
 	.string "You'd like to learn {STR_VAR_1}?$"
 
 Alola_Ulaula_Text_MoveTutorWhichMon:
-	.string "Which POKéMON should learn it?$"
+	.string "Which MOéMON should learn it?$"
 
 Alola_Ulaula_Text_MoveTutorDone:
 	.string "EXCELLENT!\p"
-	.string "Your POKéMON holds the knowledge\n"
+	.string "Your MOéMON holds the knowledge\n"
 	.string "of the ISLES.$"
 
 Alola_Ulaula_Text_MoveTutorComeBack:

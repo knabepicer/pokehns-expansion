@@ -84,14 +84,14 @@ Route10_Text_HikerJimAfter:
 	.string "Ahahah-CHOO!$"
 
 Route10_Text_PokefanmRobertSeen:
-	.string "You like POKéMON, don't you?\p"
+	.string "You like MOéMON, don't you?\p"
 	.string "Me too!$"
 
 Route10_Text_PokefanmRobertBeaten:
 	.string "I'd have to say that's my loss.$"
 
 Route10_Text_PokefanmRobertAfter:
-	.string "Look what you did to my POKéMON…\p"
+	.string "Look what you did to my MOéMON…\p"
 	.string "I won't forget this…$"
 
 Route10_Text_PowerPlant:

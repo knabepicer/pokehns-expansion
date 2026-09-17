@@ -160,7 +160,7 @@ SinjohRuins_Text_StevenGotoStairs2:
     .string "{PLAYER}. We were able to decipher\n"
     .string "the rest of the glyphs...\p"
     .string "If the translation is right, \n"
-    .string "the POKéMON at the top of that\l"
+    .string "the MOéMON at the top of that\l"
     .string "staircase is the most powerful\l"
     .string "being in the universe.\p"
     .string "And it is my duty as former\n"
@@ -321,7 +321,7 @@ SinjohRuins_EventScript_StevenBattle::
     return
 
 SinjohRuins_Text_HealParty::
-    .string "STEVEN: Let me heal your POKéMON\n"
+    .string "STEVEN: Let me heal your MOéMON\n"
     .string "before you go.$"
 
 SinjohRuins_Text_StevenAfterPlate:
@@ -340,7 +340,7 @@ SinjohRuins_Text_StevenReadytoBattle:
     .string "determination in your eyes,\l"
     .string "I felt it would lead to this.\p"
     .string "I will test the bond between you\n"
-    .string "and your POKéMON.\p"
+    .string "and your MOéMON.\p"
     .string "Are you ready?$"
 
 SinjohRuins_Text_ChallengeSteven:

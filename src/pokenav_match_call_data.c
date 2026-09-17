@@ -223,7 +223,7 @@ static const struct MatchCallBirch sProfBirchMatchCallHeader =
     .type = MC_TYPE_BIRCH,
     .mapSec = MAPSEC_NEW_BARK_TOWN,
     .flag = FLAG_ENABLE_PROF_BIRCH_MATCH_CALL,
-    .desc = COMPOUND_STRING("{PKMN} PROF."),
+    .desc = COMPOUND_STRING("MOé PROF."),
     .name = COMPOUND_STRING("PROF. ELM")
 };
 
@@ -366,7 +366,7 @@ static const struct MatchCallWally sWallyMatchCallHeader =
     .mapSec = 0,
     .flag = FLAG_ENABLE_WALLY_MATCH_CALL,
     .rematchTableIdx = REMATCH_WALLY_VR,
-    .desc = COMPOUND_STRING("{PKMN} LOVER"),
+    .desc = COMPOUND_STRING("MOé LOVER"),
     .textData = sWallyTextScripts,
     .locationData = sWallyLocationData
 };
@@ -688,7 +688,7 @@ static const struct MatchCallBirch sProfBirchMatchCallHeader =
     .type = MC_TYPE_BIRCH,
     .mapSec = 0,
     .flag = FLAG_ENABLE_PROF_BIRCH_MATCH_CALL,
-    .desc = COMPOUND_STRING("{PKMN} PROF."),
+    .desc = COMPOUND_STRING("MOé PROF."),
     .name = COMPOUND_STRING("PROF. BIRCH")
 };
 
@@ -814,7 +814,7 @@ static const struct MatchCallWally sWallyMatchCallHeader =
     .mapSec = 0,
     .flag = FLAG_ENABLE_WALLY_MATCH_CALL,
     .rematchTableIdx = REMATCH_WALLY_VR,
-    .desc = COMPOUND_STRING("{PKMN} LOVER"),
+    .desc = COMPOUND_STRING("MOé LOVER"),
     .textData = sWallyTextScripts,
     .locationData = sWallyLocationData
 };
@@ -1142,16 +1142,16 @@ static void (*const sMatchCall_GetNameAndDescFunctions[])(match_call_t, const u8
 };
 
 static const u8 gText_MatchCallSteven_Strategy[] = _("Attack the weak points!");
-static const u8 gText_MatchCallSteven_Pokemon[] = _("Ultimate STEEL POKéMON.");
+static const u8 gText_MatchCallSteven_Pokemon[] = _("Ultimate STEEL MOéMON.");
 
 static const u8 gText_MatchCallBrendan_Strategy[] = _("Battle with knowledge!");
-static const u8 gText_MatchCallBrendan_Pokemon[] = _("I will use various POKéMON.");
-static const u8 gText_MatchCallBrendan_Intro1[] = _("I'll be a better POKéMON");
+static const u8 gText_MatchCallBrendan_Pokemon[] = _("I will use various MOéMON.");
+static const u8 gText_MatchCallBrendan_Intro1[] = _("I'll be a better MOéMON");
 static const u8 gText_MatchCallBrendan_Intro2[] = _("prof than my father is!");
 
 static const u8 gText_MatchCallMay_Strategy[] = _("I'm not so good at battles.");
-static const u8 gText_MatchCallMay_Pokemon[] = _("I'll use any POKéMON!");
-static const u8 gText_MatchCallMay_Intro1[] = _("My POKéMON and I help");
+static const u8 gText_MatchCallMay_Pokemon[] = _("I'll use any MOéMON!");
+static const u8 gText_MatchCallMay_Intro1[] = _("My MOéMON and I help");
 static const u8 gText_MatchCallMay_Intro2[] = _("my father's research.");
 
 #if IS_HNS

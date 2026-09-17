@@ -134,7 +134,7 @@ Route39_EventScript_BaobaIntro::
 
 Route39_Text_ChooseLegend::
 	.string "BAOBA: GOOD HEAVENS! Did that\n"
-	.string "shadow belong to a POKéMON?\p"
+	.string "shadow belong to a MOéMON?\p"
 	.string "Did you get a good look at it?\n"
 	.string "I can't tell what color it was...$"
 
@@ -142,7 +142,7 @@ Route39_Text_BaobaIntro::
 	.string "How strange...\p"
 	.string "...Ohh!\n"
 	.string "What you are holding is...\l"
-	.string "what they call... a POKéDEX!\p"
+	.string "what they call... a MOéDEX!\p"
 	.string "Haven't seen one of those in ages.\p"
 	.string "My name is BAOBA!\n"
 	.string "I used to run a SAFARI ZONE in\l"
@@ -156,19 +156,19 @@ Route39_Text_BaobaIntro::
 	.string "It may be more than a coincidence\n"
 	.string "that we are chatting.\p"
 	.string "Why don't we register each other's\n"
-	.string "numbers in the POKéGEAR?\p"
+	.string "numbers in the MOéGEAR?\p"
 	.string "I can give you a call once the\n"
 	.string "SAFARI ZONE is open before I call\l"
 	.string "anyone else!$"
 
 Route39_Text_Registered:
 	.string "{PLAYER} registered BAOBA\n"
-	.string "in the POKéGEAR!$"
+	.string "in the MOéGEAR!$"
 
 
 Route39_Text_WillCall:
 	.string "BAOBA: I'll let you know\n"
-	.string "on the POKéGEAR soon!$"
+	.string "on the MOéGEAR soon!$"
 
 Route39_Movement_BaobaLeave:
 	walk_left
@@ -241,13 +241,13 @@ Route39_EventScript_Eugene::
 
 Route39_Text_SailorEugeneSeen:
 	.string "I just got back to OLIVINE.\p"
-	.string "So how about a POKéMON battle?$"
+	.string "So how about a MOéMON battle?$"
 
 Route39_Text_SailorEugeneBeaten:
 	.string "Awaaargh!$"
 
 Route39_Text_SailorEugeneAfter:
-	.string "My POKéMON were caught and\n"
+	.string "My MOéMON were caught and\n"
 	.string "raised overseas.\p"
 	.string "They're my companions on\n"
 	.string "those long voyages.$"
@@ -296,7 +296,7 @@ Route39_Text_PokefanMDerekBeaten:
 Route39_Text_PokefanMDerekAfter:
 	.string "I'm not listening to your\n"
 	.string "bragging!\p"
-	.string "We POKé FANS have a policy\n"
+	.string "We MOé FANS have a policy\n"
 	.string "of not listening to bragging!$"
 
 Route39_EventScript_Ruth::
@@ -305,8 +305,8 @@ Route39_EventScript_Ruth::
 	end
 
 Route39_Text_PokefanFRuthSeen:
-	.string "Such darling POKéMON.\p"
-	.string "Let's show our POKéMON\n"
+	.string "Such darling MOéMON.\p"
+	.string "Let's show our MOéMON\n"
 	.string "together at the same time.$"
 
 Route39_Text_PokefanFRuthBeaten:
@@ -314,7 +314,7 @@ Route39_Text_PokefanFRuthBeaten:
 
 Route39_Text_PokefanFRuthAfter:
 	.string "Do you know about baby\n"
-	.string "POKéMON?\p"
+	.string "MOéMON?\p"
 	.string "I bet they're just adorable!$"
 
 Route39_EventScript_Norman::
@@ -324,14 +324,14 @@ Route39_EventScript_Norman::
 
 Route39_Text_PsychicNormanSeen:
 	.string "Let me see what your\n"
-	.string "POKéMON are capable of.$"
+	.string "MOéMON are capable of.$"
 
 Route39_Text_PsychicNormanBeaten:
-	.string "Ooh, your POKéMON have\n"
+	.string "Ooh, your MOéMON have\n"
 	.string "potential.$"
 
 Route39_Text_PsychicNormanAfter:
-	.string "You know how POKéMON have\n"
+	.string "You know how MOéMON have\n"
 	.string "different abilities?\p"
 	.string "People are like that too.\n"
 	.string "Everyone has different\l"
@@ -392,8 +392,8 @@ Route39_EventScript_Sign3::
 Route39_Text_TrainerTips:
 	.string "TRAINER TIPS\p"
 	.string "Use HEADBUTT on trees to shake\n"
-	.string "POKéMON out.\p"
-	.string "Different kinds of POKéMON\n"
+	.string "MOéMON out.\p"
+	.string "Different kinds of MOéMON\n"
 	.string "drop out of trees.\p"
 	.string "Use HEADBUTT on any tree\n"
 	.string "you see!$"
@@ -401,7 +401,7 @@ Route39_Text_TrainerTips:
 Route39_Text_DerekRegister:
 	.string "I'm not listening to your\n"
 	.string "bragging!\p"
-	.string "We POKé FANS have a policy\n"
+	.string "We MOé FANS have a policy\n"
 	.string "of not listening to bragging!$"
 
 Route39_Text_DerekHasItem:

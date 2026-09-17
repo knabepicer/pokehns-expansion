@@ -336,13 +336,13 @@ BattleFrontier_BattleFactoryLobby_Text_TakeSinglesChallenge_hns:
 BattleFrontier_BattleFactoryLobby_Text_ExplainSinglesChallenge_hns:
 	.string "The Battle Swap Single Tournament\n"
 	.string "is a SINGLE BATTLE competition using\l"
-	.string "only rental POKéMON.\p"
+	.string "only rental MOéMON.\p"
 	.string "First, you will be loaned three\n"
-	.string "POKéMON specifically for this event.\p"
-	.string "Using the supplied rental POKéMON,\n"
+	.string "MOéMON specifically for this event.\p"
+	.string "Using the supplied rental MOéMON,\n"
 	.string "you must conduct a SINGLE BATTLE.\p"
 	.string "If you win, you are permitted to trade\n"
-	.string "one of your rental POKéMON.\p"
+	.string "one of your rental MOéMON.\p"
 	.string "Repeat this cycle of battling and\n"
 	.string "trading--if you win seven times in\l"
 	.string "a row, you will earn Battle Points.\p"
@@ -364,7 +364,7 @@ BattleFrontier_BattleFactoryLobby_Text_OkayToSaveBeforeChallenge_hns:
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_WillHoldMonsForSafekeeping_hns:
-	.string "Okay, I will hold your POKéMON for\n"
+	.string "Okay, I will hold your MOéMON for\n"
 	.string "safekeeping while you compete.$"
 
 BattleFrontier_BattleFactoryLobby_Text_StepThisWay_hns:
@@ -372,15 +372,15 @@ BattleFrontier_BattleFactoryLobby_Text_StepThisWay_hns:
 
 BattleFrontier_BattleFactoryLobby_Text_ReturnMons_hnsSaveResults_hns:
 	.string "Thank you for participating!\p"
-	.string "I will return your POKéMON in exchange\n"
-	.string "for our rental POKéMON.\p"
+	.string "I will return your MOéMON in exchange\n"
+	.string "for our rental MOéMON.\p"
 	.string "I must also save the event results.\n"
 	.string "Please wait.$"
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_ReturnMons_hns:
-	.string "I will return your POKéMON in exchange\n"
-	.string "for our rental POKéMON.$"
+	.string "I will return your MOéMON in exchange\n"
+	.string "for our rental MOéMON.$"
 
 BattleFrontier_BattleFactoryLobby_Text_CongratsSevenWins_hns:
 	.string "Congratulations! You've won seven\n"
@@ -411,7 +411,7 @@ BattleFrontier_BattleFactoryLobby_Text_DidntSaveBeforeQuitting_hns:
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_WellReturnMons_hns:
-	.string "We'll return your personal POKéMON.$"
+	.string "We'll return your personal MOéMON.$"
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_ReceivedPrizeItem_hns:
@@ -432,13 +432,13 @@ BattleFrontier_BattleFactoryLobby_Text_TakeDoublesChallenge_hns:
 BattleFrontier_BattleFactoryLobby_Text_ExplainDoublesChallenge_hns:
 	.string "The Battle Swap Double Tournament\n"
 	.string "is a DOUBLE BATTLE competition using\l"
-	.string "only rental POKéMON.\p"
+	.string "only rental MOéMON.\p"
 	.string "First, you will be loaned three\n"
-	.string "POKéMON specifically for this event.\p"
-	.string "Using the supplied rental POKéMON,\n"
+	.string "MOéMON specifically for this event.\p"
+	.string "Using the supplied rental MOéMON,\n"
 	.string "you must conduct a DOUBLE BATTLE.\p"
 	.string "If you win, you are permitted to trade\n"
-	.string "one of your rental POKéMON.\p"
+	.string "one of your rental MOéMON.\p"
 	.string "Repeat this cycle of battling and\n"
 	.string "trading--if you win seven times in\l"
 	.string "a row, you will earn Battle Points.\p"
@@ -458,8 +458,8 @@ BattleFrontier_BattleFactoryLobby_Text_AwardBattlePoints_hns:
 	.string "we award you these Battle Point(s).$"
 
 BattleFrontier_BattleFactoryLobby_Text_ExchangeMonsAndSave_hns:
-	.string "Let me exchange your POKéMON\n"
-	.string "for our rental POKéMON.\p"
+	.string "Let me exchange your MOéMON\n"
+	.string "for our rental MOéMON.\p"
 	.string "I need to save the battle data,\n"
 	.string "so please wait.$"
 
@@ -473,15 +473,15 @@ BattleFrontier_BattleFactoryLobby_Text_NeedKnowledgeOfMonsMoves_hns:
 	.string "You, there!\p"
 	.string "Are you thinking that the events here\n"
 	.string "are easy since you don't need to have\l"
-	.string "a raised team of POKéMON?\p"
+	.string "a raised team of MOéMON?\p"
 	.string "I wouldn't be too sure about winning\n"
 	.string "that easily.\p"
 	.string "If you don't have thorough knowledge\n"
-	.string "about POKéMON and their moves,\l"
+	.string "about MOéMON and their moves,\l"
 	.string "it will be tough to keep winning.$"
 
 BattleFrontier_BattleFactoryLobby_Text_SwappedForWeakMon_hns:
-	.string "I swapped for a weak POKéMON…\n"
+	.string "I swapped for a weak MOéMON…\n"
 	.string "I thought it was a good kind to have…\p"
 	.string "They wiped the floor with us…$"
 
@@ -489,7 +489,7 @@ BattleFrontier_BattleFactoryLobby_Text_NeedToCheckOpponentsMons_hns:
 	.string "Things haven't been going my way\n"
 	.string "at all.\p"
 	.string "You need to check your opponent's\n"
-	.string "POKéMON during battle to see if\l"
+	.string "MOéMON during battle to see if\l"
 	.string "they're any good.$"
 
 BattleFrontier_BattleFactoryLobby_Text_CantFigureOutStaffHints_hns:
@@ -505,7 +505,7 @@ BattleFrontier_BattleFactoryLobby_Text_RentalMonsAreVaried_hns:
 	.string "and battling over and over.\p"
 	.string "So anyway, when I kept entering\n"
 	.string "Battle Swap events, I noticed they\l"
-	.string "varied the rental POKéMON.$"
+	.string "varied the rental MOéMON.$"
 
 BattleFrontier_BattleFactoryLobby_Text_RulesAreListed_hns:
 	.string "The Battle Swap rules are listed.$"
@@ -515,37 +515,37 @@ BattleFrontier_BattleFactoryLobby_Text_ReadWhichHeading_hns:
 
 BattleFrontier_BattleFactoryLobby_Text_ExplainBasicRules_hns:
 	.string "In a Battle Swap event, you may use\n"
-	.string "only three POKéMON.\p"
+	.string "only three MOéMON.\p"
 	.string "Whether you are renting or swapping,\n"
 	.string "your team may not have two or more\l"
-	.string "of the same POKéMON.$"
+	.string "of the same MOéMON.$"
 
 BattleFrontier_BattleFactoryLobby_Text_ExplainSwapPartnerRules_hns:
-	.string "You may swap POKéMON only with\n"
+	.string "You may swap MOéMON only with\n"
 	.string "the TRAINER you have just defeated.\p"
-	.string "You may swap for only those POKéMON\n"
+	.string "You may swap for only those MOéMON\n"
 	.string "used by the beaten TRAINER.$"
 
 BattleFrontier_BattleFactoryLobby_Text_ExplainSwapNumberRules_hns:
 	.string "After every battle you win, you may\n"
 	.string "swap for one of your defeated\l"
-	.string "opponent's POKéMON.\p"
-	.string "You will not be able to swap POKéMON\n"
+	.string "opponent's MOéMON.\p"
+	.string "You will not be able to swap MOéMON\n"
 	.string "with the seventh TRAINER in the event.$"
 
 BattleFrontier_BattleFactoryLobby_Text_ExplainSwapNotesRules_hns:
 	.string "There are two key points to be aware\n"
-	.string "of when swapping POKéMON.\p"
+	.string "of when swapping MOéMON.\p"
 	.string "First, when swapping, you can't check\n"
-	.string "the stats of the POKéMON you are\l"
+	.string "the stats of the MOéMON you are\l"
 	.string "about to receive.\p"
-	.string "Second, the POKéMON on your team\n"
+	.string "Second, the MOéMON on your team\n"
 	.string "are lined up in sequence, depending on\l"
 	.string "the order in which you rented them.\p"
 	.string "This sequence remains unchanged\n"
 	.string "even when swaps are made.$"
 
 BattleFrontier_BattleFactoryLobby_Text_ExplainOpenLvRules_hns:
-	.string "In the Open Level, the rental POKéMON\n"
-	.string "and the opposing TRAINERS' POKéMON\l"
+	.string "In the Open Level, the rental MOéMON\n"
+	.string "and the opposing TRAINERS' MOéMON\l"
 	.string "are all Level 100.$"

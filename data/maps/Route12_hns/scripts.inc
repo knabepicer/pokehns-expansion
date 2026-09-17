@@ -91,7 +91,7 @@ Route12_Text_NewFisher:
 
 Route12_Text_FisherMartinSeen:
 	.string "Patience is the key to both\n"
-	.string "fishing and POKéMON.$"
+	.string "fishing and MOéMON.$"
 
 Route12_Text_FisherMartinBeaten:
 	.string "Gwaaah!$"
@@ -151,7 +151,7 @@ Route12_Text_FisherKyleBeaten:
 
 Route12_Text_FisherKyleAfterBattle:
 	.string "The tug you feel on the ROD when\n"
-	.string "you hook a POKéMON…\p"
+	.string "you hook a MOéMON…\p"
 	.string "That's the best feeling ever for\n"
 	.string "an angler like me.$"
 

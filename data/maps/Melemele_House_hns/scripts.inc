@@ -70,11 +70,11 @@ Alola_Melemele_Pokecenter_BugCatcher_Movement_0:
 	step_end
 
 Alola_Melemele_Pokecenter_AceTrainer_Text_0:
-	.string "There are so many unique POKéMON here!\n"
+	.string "There are so many unique MOéMON here!\n"
 	.string "I'm gonna catch 'em all!$"
 
 Alola_Melemele_Pokecenter_BugCatcher_Text_0:
-	.string "I found some brand new POKéMON\n"
+	.string "I found some brand new MOéMON\n"
 	.string "here on the ISLES!\p"
 	.string "Like my new friend RATTATA here!$"
 

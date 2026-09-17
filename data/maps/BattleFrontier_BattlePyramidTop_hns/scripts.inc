@@ -247,7 +247,7 @@ BattleFrontier_BattlePyramidTop_Text_ExplorationsAreGrandestAdventure_hns:
 	.string "are the grandest of adventures?\p"
 	.string "Your own wits!\p"
 	.string "Your own strength!\p"
-	.string "Your own POKéMON!\p"
+	.string "Your own MOéMON!\p"
 	.string "And, above all, only your own courage\n"
 	.string "to lead you through unknown worlds…$"
 

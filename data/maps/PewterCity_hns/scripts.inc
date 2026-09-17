@@ -59,7 +59,7 @@ PewterCity_EventScript_Cooltrainer::
 
 PewterCity_Text_CooltrainerF:
 	.string "Have you visited PEWTER GYM?\p"
-	.string "The LEADER uses ROCK-type POKéMON.$"
+	.string "The LEADER uses ROCK-type MOéMON.$"
 
 PewterCity_Text_BugCatcher:
 	.string "At night, CLEFAIRY come out to play at\n"
@@ -106,9 +106,9 @@ PewterCity_Text_Sign:
 	.string "A Stone Gray City$"
 
 PewterCity_Text_GymSign:
-	.string "PEWTER CITY POKéMON GYM\n"
+	.string "PEWTER CITY MOéMON GYM\n"
 	.string "LEADER: BROCK\p"
-	.string "The Rock Solid POKéMON Trainer$"
+	.string "The Rock Solid MOéMON Trainer$"
 
 PewterCity_Text_MuseumSign:
 	.string "There's a notice here…\p"

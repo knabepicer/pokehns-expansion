@@ -557,9 +557,9 @@ Alola_Melemele_SamsonOakVillaIntro_Trigger_Text_2:
 	.string "You'd be perfect to help with my survey\n"
 	.string "of the ALOLA ISLES!\p"
 	.string "Explore all the ISLES have to offer,\n"
-	.string "and if you find any familiar POKéMON\l"
+	.string "and if you find any familiar MOéMON\l"
 	.string "that resemble those from KANTO…\l"
-	.string "come back and show me your POKéDEX!\p"
+	.string "come back and show me your MOéDEX!\p"
 	.string "I'll be here patiently waiting to hear\n"
 	.string "about your progress!$"
 
@@ -587,7 +587,7 @@ Alola_Melemele_SamsonOakVilla_Dialogue_Text_2:
 Alola_Melemele_SamsonOakVilla_Dialogue_Text_3:
 	.string "Alola {PLAYER}!\p"
 	.string "So you managed to defeat all of the\n"
-	.string "Totem POKéMON on the ISLES, did you?\p"
+	.string "Totem MOéMON on the ISLES, did you?\p"
 	.string "That's quite an accomplishment!\p"
 	.string "It's been long enough…\p"
 	.string "I think it's about time we had a battle,\n"
@@ -628,9 +628,9 @@ Alola_Melemele_SamsonOakVilla_Dialogue_Text_9:
 	.string "Alola {PLAYER}!\p"
 	.string "So you've found all the Alolan variants\n"
 	.string "on the ISLES, but have you defeated all\l"
-	.string "the Totem POKéMON yet?\p"
+	.string "the Totem MOéMON yet?\p"
 	.string "You should look for a strange pillar on\n"
-	.string "each isle, the Totem POKéMON will be\l"
+	.string "each isle, the Totem MOéMON will be\l"
 	.string "guarding it!$"
 
 Alola_Melemele_SamsonOakVilla_Dialogue_Text_10:
@@ -656,7 +656,7 @@ Alola_Melemele_SamsonOakVilla_Dialogue_Text_15:
 	.string "Not right now.$"
 
 Alola_Melemele_SamsonOakVilla_Dialogue_Text_16:
-	.string "Let me take a look at your POKéDEX{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.$"
+	.string "Let me take a look at your MOéDEX{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.$"
 
 Alola_Melemele_SamsonOakVilla_Dialogue_Text_17:
 	.string "Wow, {PLAYER}!$"
@@ -678,9 +678,9 @@ Alola_Melemele_SamsonOakVilla_Dialogue_Text_20:
 	.string "I'd like you to help me with one more\n"
 	.string "thing…\p"
 	.string "Could you help me investigate the Totem\n"
-	.string "POKéMON that are said to be guarding\l"
+	.string "MOéMON that are said to be guarding\l"
 	.string "the totems on each ISLE?\p"
-	.string "But beware! These Totem POKéMON are\n"
+	.string "But beware! These Totem MOéMON are\n"
 	.string "said to be much stronger than their\l"
 	.string "normal counterparts…\p"
 	.string "You never know who might be watching\n"
@@ -698,7 +698,7 @@ Alola_Melemele_SamsonOakVilla_Dialogue_Text_22:
 	.string "report your progress to me!$"
 
 Alola_Melemele_SamsonOakVilla_Dialogue_Text_23:
-	.string "Let me take a look at your POKéDEX{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.\p"
+	.string "Let me take a look at your MOéDEX{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.\p"
 	.string "It seems you haven't quite found all of\n"
 	.string "the Alolan variants on MELEMELE ISLE\l"
 	.string "just yet.\p"
@@ -720,9 +720,9 @@ Alola_Melemele_SamsonOakVilla_Dialogue_Text_25:
 	.string "I'd like you to help me with one more\n"
 	.string "thing…\p"
 	.string "Could you help me investigate the Totem\n"
-	.string "POKéMON that are said to be guarding\l"
+	.string "MOéMON that are said to be guarding\l"
 	.string "the totems on each isle?\p"
-	.string "But beware! These Totem POKéMON are\n"
+	.string "But beware! These Totem MOéMON are\n"
 	.string "said to be much stronger than their\l"
 	.string "normal counterparts…\p"
 	.string "You never know who might be watching\n"
@@ -736,7 +736,7 @@ Alola_Melemele_SamsonOakVilla_Dialogue_Text_26:
 	.string "report your progress to me!$"
 
 Alola_Melemele_SamsonOakVilla_Dialogue_Text_27:
-	.string "Let me take a look at your POKéDEX{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.\p"
+	.string "Let me take a look at your MOéDEX{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.\p"
 	.string "It seems you haven't quite found all of\n"
 	.string "the Alolan variants on AKALA ISLE\l"
 	.string "just yet.\p"
@@ -758,7 +758,7 @@ Alola_Melemele_SamsonOakVilla_Dialogue_Text_29:
 	.string "report your progress to me!$"
 
 Alola_Melemele_SamsonOakVilla_Dialogue_Text_30:
-	.string "Let me take a look at your POKéDEX{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.\p"
+	.string "Let me take a look at your MOéDEX{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.\p"
 	.string "It seems you haven't quite found all of\n"
 	.string "the Alolan variants on ULA'ULA ISLE\l"
 	.string "just yet.\p"
@@ -781,7 +781,7 @@ Alola_Melemele_SamsonOakVilla_Dialogue_Text_32:
 	.string "report your progress to me!$"
 
 Alola_Melemele_SamsonOakVilla_Dialogue_Text_33:
-	.string "Let me take a look at your POKéDEX{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.\p"
+	.string "Let me take a look at your MOéDEX{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.\p"
 	.string "It seems you haven't quite found all of\n"
 	.string "the Alolan variants on PONI ISLE\l"
 	.string "just yet.\p"

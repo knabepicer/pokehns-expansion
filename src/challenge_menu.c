@@ -376,15 +376,15 @@ static const u8 *const sDesc_Synchronize[] = {
 };
 static const u8 *const sDesc_Sturdy[] = {
     COMPOUND_STRING("STURDY works as in GEN III. Only\nnegates OHKO moves (GUILLOTINE, etc.)"),
-    COMPOUND_STRING("STURDY works as in GEN V+.\n{PKMN} survive lethal hits with 1HP."),
+    COMPOUND_STRING("STURDY works as in GEN V+.\nMOé survive lethal hits with 1HP."),
 };
 static const u8 *const sDesc_NewCitrus[] = {
     COMPOUND_STRING("SITRUS BERRY restores 30HP.\nSame as GEN III."),
     COMPOUND_STRING("SITRUS BERRY restores 25% of\ntotal HP. Same as GEN IV and up."),
 };
 static const u8 *const sDesc_FairyTypes[] = {
-    COMPOUND_STRING("FAIRY TYPE isn't added to {PKMN}\nthat got it in GEN VI."),
-    COMPOUND_STRING("FAIRY TYPE is added / changed to\ncertain {PKMN}, as in GEN VI."),
+    COMPOUND_STRING("FAIRY TYPE isn't added to MOé\nthat got it in GEN VI."),
+    COMPOUND_STRING("FAIRY TYPE is added / changed to\ncertain MOé, as in GEN VI."),
 };
 static const u8 *const sDesc_LegAbilities[] = {
     COMPOUND_STRING("PRESSURE stays as the main\nability of some legendaries."),
@@ -399,11 +399,11 @@ static const u8 *const sDesc_Mints[] = {
     COMPOUND_STRING("Mints can be bought at the\nFLOWER SHOP after the 3rd badge."),
 };
 static const u8 *const sDesc_SurvivePoison[] = {
-    COMPOUND_STRING("Your {PKMN} will faint if they are\nPOISONED."),
-    COMPOUND_STRING("Your {PKMN} will survive the POISON\nstatus with 1HP."),
+    COMPOUND_STRING("Your MOé will faint if they are\nPOISONED."),
+    COMPOUND_STRING("Your MOé will survive the POISON\nstatus with 1HP."),
 };
 static const u8 *const sDesc_Split[] = {
-    COMPOUND_STRING("PHYSICAL and SPECIAL MOVES\ndepend on the {PKMN} TYPE."),
+    COMPOUND_STRING("PHYSICAL and SPECIAL MOVES\ndepend on the MOé TYPE."),
     COMPOUND_STRING("PHYSICAL and SPECIAL MOVES\nare MOVE specific."),
 };
 static const u8 *const sChoices_Gen3Gen7[] = {
@@ -430,7 +430,7 @@ static const struct ChallengeMenuItem sTabItems_Mode[] = {
         .choiceNames  = sChoices_Gamemode,
     },
     [ITEM_MODE_MODERN_MOVES] = {
-        .name         = COMPOUND_STRING("{PKMN} MOVEPOOL"),
+        .name         = COMPOUND_STRING("MOé MOVEPOOL"),
         .descriptions = sDesc_ModernMoves,
         .numChoices   = 2,
         .choiceNames  = sChoices_Gen3Gen7,
@@ -642,16 +642,16 @@ static const u8 *const sDesc_ShinyChance[] = {
     COMPOUND_STRING("Very high chance of SHINY encounter."),
 };
 static const u8 *const sDesc_ItemDrop[] = {
-    COMPOUND_STRING("Wild {PKMN} items will be only\nobtainable via capture or THIEF."),
-    COMPOUND_STRING("Wild {PKMN} will drop their hold\nitem after defeating them."),
+    COMPOUND_STRING("Wild MOé items will be only\nobtainable via capture or THIEF."),
+    COMPOUND_STRING("Wild MOé will drop their hold\nitem after defeating them."),
 };
 static const u8 *const sDesc_FrontierBans[] = {
-    COMPOUND_STRING("Powerful legendary {PKMN} are banned\nin the BATTLE FRONTIER. Default."),
+    COMPOUND_STRING("Powerful legendary MOé are banned\nin the BATTLE FRONTIER. Default."),
     COMPOUND_STRING("All legendaries are allowed to\nparticipate in the BATTLE FRONTIER."),
 };
 static const u8 *const sDesc_ShinyColor[] = {
-    COMPOUND_STRING("Original shiny color palette for\nall {PKMN}. Default."),
-    COMPOUND_STRING("Some shiny {PKMN} have brand new\ncolor palettes."),
+    COMPOUND_STRING("Original shiny color palette for\nall MOé. Default."),
+    COMPOUND_STRING("Some shiny MOé have brand new\ncolor palettes."),
 };
 static const u8 *const sDesc_FeaturesNext[] = {
     COMPOUND_STRING("Continue to Randomizer options."),
@@ -705,16 +705,16 @@ static const u8 *const sDesc_RandomOffOn[] = {
     COMPOUND_STRING("Play the game randomized.\nSettings below!"),
 };
 static const u8 *const sDesc_RandomStarter[] = {
-    COMPOUND_STRING("Standard starter {PKMN}."),
-    COMPOUND_STRING("Randomize starter {PKMN}."),
+    COMPOUND_STRING("Standard starter MOé."),
+    COMPOUND_STRING("Randomize starter MOé."),
 };
 static const u8 *const sDesc_RandomWild[] = {
     COMPOUND_STRING("Same wild encounter as in the\nbase game."),
-    COMPOUND_STRING("Randomize wild {PKMN}."),
+    COMPOUND_STRING("Randomize wild MOé."),
 };
 static const u8 *const sDesc_RandomMapBased[] = {
     COMPOUND_STRING("Wild encounters are fully random\nevery time."),
-    COMPOUND_STRING("Wild encounters are seeded per map.\nSame area always has the same {PKMN}."),
+    COMPOUND_STRING("Wild encounters are seeded per map.\nSame area always has the same MOé."),
 };
 static const u8 *const sDesc_RandomTrainer[] = {
     COMPOUND_STRING("Trainer will have their expected\nparty."),
@@ -722,38 +722,38 @@ static const u8 *const sDesc_RandomTrainer[] = {
 };
 static const u8 *const sDesc_RandomStatic[] = {
     COMPOUND_STRING("Static encounters will be the same\nas in the base game."),
-    COMPOUND_STRING("Named {PKMN}, casino {PKMN}, roamers, and\nsome other special {PKMN} won't change."),
+    COMPOUND_STRING("Named MOé, casino MOé, roamers, and\nsome other special MOé won't change."),
 };
 static const u8 *const sDesc_RandomSimilar[] = {
-    COMPOUND_STRING("{PKMN} replaced with similar tiered\nones. Currently based on evo stages."),
-    COMPOUND_STRING("Distribution of {PKMN} not balanced\naround their strength!"),
+    COMPOUND_STRING("MOé replaced with similar tiered\nones. Currently based on evo stages."),
+    COMPOUND_STRING("Distribution of MOé not balanced\naround their strength!"),
 };
 static const u8 *const sDesc_RandomLegendaries[] = {
-    COMPOUND_STRING("Legendary {PKMN} will not be\nincluded and randomized."),
-    COMPOUND_STRING("Include legendary {PKMN} in\nrandomization!"),
+    COMPOUND_STRING("Legendary MOé will not be\nincluded and randomized."),
+    COMPOUND_STRING("Include legendary MOé in\nrandomization!"),
 };
 static const u8 *const sDesc_RandomGenScope[] = {
-    COMPOUND_STRING("Randomize into {PKMN} from every\ngeneration."),
-    COMPOUND_STRING("Only GEN 1-3 {PKMN} and their\ncross-gen evolutions."),
+    COMPOUND_STRING("Randomize into MOé from every\ngeneration."),
+    COMPOUND_STRING("Only GEN 1-3 MOé and their\ncross-gen evolutions."),
 };
 static const u8 *const sDesc_RandomType[] = {
-    COMPOUND_STRING("{PKMN} types stay the same as in\nthe base game."),
-    COMPOUND_STRING("Randomize all {PKMN} types."),
+    COMPOUND_STRING("MOé types stay the same as in\nthe base game."),
+    COMPOUND_STRING("Randomize all MOé types."),
 };
 static const u8 *const sDesc_RandomMoves[] = {
-    COMPOUND_STRING("{PKMN} moves stay the same as in\nthe base game."),
-    COMPOUND_STRING("Randomize all {PKMN} moves."),
+    COMPOUND_STRING("MOé moves stay the same as in\nthe base game."),
+    COMPOUND_STRING("Randomize all MOé moves."),
 };
 static const u8 *const sDesc_RandomAbilities[] = {
-    COMPOUND_STRING("{PKMN} abilities stay the same as\nin the base game."),
-    COMPOUND_STRING("Randomize all {PKMN} abilities."),
+    COMPOUND_STRING("MOé abilities stay the same as\nin the base game."),
+    COMPOUND_STRING("Randomize all MOé abilities."),
 };
 static const u8 *const sDesc_RandomEvolutions[] = {
-    COMPOUND_STRING("{PKMN} evolutions stay the same as\nin the base game."),
-    COMPOUND_STRING("Randomize all {PKMN} evolutions."),
+    COMPOUND_STRING("MOé evolutions stay the same as\nin the base game."),
+    COMPOUND_STRING("Randomize all MOé evolutions."),
 };
 static const u8 *const sDesc_RandomEvoMethods[] = {
-    COMPOUND_STRING("The {PKMN} that can potentially\nevolve are unchanged."),
+    COMPOUND_STRING("The MOé that can potentially\nevolve are unchanged."),
     COMPOUND_STRING("Randomize evolution lines. Allows\nnew evolution lines to occur!"),
 };
 static const u8 *const sDesc_RandomTypeEffec[] = {
@@ -780,13 +780,13 @@ static const struct ChallengeMenuItem sTabItems_Randomizer[] = {
         .choiceNames  = sChoices_OffRandom,
     },
     [ITEM_RANDOM_STARTER] = {
-        .name         = COMPOUND_STRING("STARTER {PKMN}"),
+        .name         = COMPOUND_STRING("STARTER MOé"),
         .descriptions = sDesc_RandomStarter,
         .numChoices   = 2,
         .choiceNames  = sChoices_OffRandom,
     },
     [ITEM_RANDOM_WILD_PKMN] = {
-        .name         = COMPOUND_STRING("WILD {PKMN}"),
+        .name         = COMPOUND_STRING("WILD MOé"),
         .descriptions = sDesc_RandomWild,
         .numChoices   = 2,
         .choiceNames  = sChoices_OffRandom,
@@ -804,7 +804,7 @@ static const struct ChallengeMenuItem sTabItems_Randomizer[] = {
         .choiceNames  = sChoices_OffRandom,
     },
     [ITEM_RANDOM_STATIC] = {
-        .name         = COMPOUND_STRING("STATIC {PKMN}"),
+        .name         = COMPOUND_STRING("STATIC MOé"),
         .descriptions = sDesc_RandomStatic,
         .numChoices   = 2,
         .choiceNames  = sChoices_OffRandom,
@@ -889,25 +889,25 @@ static const struct ChallengeMenuItem sTabItems_Randomizer[] = {
 
 static const u8 *const sDesc_Nuzlocke[] = {
     COMPOUND_STRING("Nuzlocke mode is disabled."),
-    COMPOUND_STRING("Fainted {PKMN} can't be used anymore!\nNo more rules are enforced."),
-    COMPOUND_STRING("One catch per route! Fainted {PKMN}\ncan't be used anymore."),
+    COMPOUND_STRING("Fainted MOé can't be used anymore!\nNo more rules are enforced."),
+    COMPOUND_STRING("One catch per route! Fainted MOé\ncan't be used anymore."),
     COMPOUND_STRING("Same rules as NORMAL but also\ndeletes SAVE on battle loss!"),
 };
 static const u8 *const sDesc_SpeciesClause[] = {
-    COMPOUND_STRING("Only not prior caught {PKMN} count\nas first encounter. RECOMMENDED!"),
-    COMPOUND_STRING("The player always has to catch the\nfirst {PKMN} per route."),
+    COMPOUND_STRING("Only not prior caught MOé count\nas first encounter. RECOMMENDED!"),
+    COMPOUND_STRING("The player always has to catch the\nfirst MOé per route."),
 };
 static const u8 *const sDesc_ShinyClause[] = {
-    COMPOUND_STRING("The player can always catch shiny\n{PKMN}. RECOMMENDED!"),
-    COMPOUND_STRING("The player can only catch a shiny\n{PKMN} if it's the first encounter."),
+    COMPOUND_STRING("The player can always catch shiny\nMOé. RECOMMENDED!"),
+    COMPOUND_STRING("The player can only catch a shiny\nMOé if it's the first encounter."),
 };
 static const u8 *const sDesc_Nicknaming[] = {
-    COMPOUND_STRING("Forces the player to nickname every\n{PKMN}. RECOMMENDED!"),
+    COMPOUND_STRING("Forces the player to nickname every\nMOé. RECOMMENDED!"),
     COMPOUND_STRING("Nicknames are optional."),
 };
 static const u8 *const sDesc_Deletion[] = {
-    COMPOUND_STRING("Fainted {PKMN} are sent to the PC\nafter battle and can't be retrieved."),
-    COMPOUND_STRING("Fainted {PKMN} are released after\nbattle!"),
+    COMPOUND_STRING("Fainted MOé are sent to the PC\nafter battle and can't be retrieved."),
+    COMPOUND_STRING("Fainted MOé are released after\nbattle!"),
 };
 static const u8 *const sDesc_RareCandy[] = {
     COMPOUND_STRING("Infinite Rare Candy will be in the\nplayer's PC at game start."),
@@ -966,21 +966,21 @@ static const struct ChallengeMenuItem sTabItems_Nuzlocke[] = {
 // DIFFICULTY descriptions + table
 // =============================================================================
 
-static const u8 sText_Desc_PartyLimit[] = _("Limits the amount of {PKMN} in the\nparty. 1 has visual bugs in DOUBLES.");
+static const u8 sText_Desc_PartyLimit[] = _("Limits the amount of MOé in the\nparty. 1 has visual bugs in DOUBLES.");
 static const u8 *const sDesc_PartyLimit[] = {
     sText_Desc_PartyLimit, sText_Desc_PartyLimit, sText_Desc_PartyLimit,
     sText_Desc_PartyLimit, sText_Desc_PartyLimit, sText_Desc_PartyLimit,
 };
 static const u8 *const sDesc_LevelCap[] = {
     COMPOUND_STRING("No level cap. Overleveling possible."),
-    COMPOUND_STRING("Maximum level is based on the next\ngym's highest {PKMN} level."),
-    COMPOUND_STRING("Maximum level is based on the next\ngym's lowest {PKMN} level."),
+    COMPOUND_STRING("Maximum level is based on the next\ngym's highest MOé level."),
+    COMPOUND_STRING("Maximum level is based on the next\ngym's lowest MOé level."),
 };
 static const u8 *const sDesc_ExpMult[] = {
-    COMPOUND_STRING("{PKMN} gain normal EXP. Points.\nStacks with HARD MODE EXP."),
-    COMPOUND_STRING("{PKMN} gain 50 percent more EXP.\nPoints! Stacks with HARD MODE EXP."),
-    COMPOUND_STRING("{PKMN} gain double EXP. Points!\nStacks with HARD MODE EXP."),
-    COMPOUND_STRING("{PKMN} gain ZERO EXP. Points!!!\nApplies to HARD MODE EXP. as well."),
+    COMPOUND_STRING("MOé gain normal EXP. Points.\nStacks with HARD MODE EXP."),
+    COMPOUND_STRING("MOé gain 50 percent more EXP.\nPoints! Stacks with HARD MODE EXP."),
+    COMPOUND_STRING("MOé gain double EXP. Points!\nStacks with HARD MODE EXP."),
+    COMPOUND_STRING("MOé gain ZERO EXP. Points!!!\nApplies to HARD MODE EXP. as well."),
 };
 static const u8 *const sDesc_ItemPlayer[] = {
     COMPOUND_STRING("The player can use battle items."),
@@ -991,23 +991,23 @@ static const u8 *const sDesc_ItemTrainer[] = {
     COMPOUND_STRING("Enemy trainers can NOT use battle\nitems."),
 };
 static const u8 *const sDesc_NoEVs[] = {
-    COMPOUND_STRING("The player's {PKMN} gain effort\nvalues as expected."),
-    COMPOUND_STRING("The player's {PKMN} do NOT gain any\neffort values!"),
+    COMPOUND_STRING("The player's MOé gain effort\nvalues as expected."),
+    COMPOUND_STRING("The player's MOé do NOT gain any\neffort values!"),
 };
 static const u8 *const sDesc_ScalingIVs[] = {
-    COMPOUND_STRING("The {PKMN} of enemy Trainer have\nthe expected IVs."),
-    COMPOUND_STRING("The IVs of Trainer {PKMN} increase\nwith gym badges!"),
-    COMPOUND_STRING("All Trainer {PKMN} have perfect IVs!"),
+    COMPOUND_STRING("The MOé of enemy Trainer have\nthe expected IVs."),
+    COMPOUND_STRING("The IVs of Trainer MOé increase\nwith gym badges!"),
+    COMPOUND_STRING("All Trainer MOé have perfect IVs!"),
 };
 static const u8 *const sDesc_ScalingEVs[] = {
-    COMPOUND_STRING("The {PKMN} of enemy Trainer have\nno EVs."),
-    COMPOUND_STRING("The EVs of Trainer {PKMN} increase\nwith gym badges!"),
-    COMPOUND_STRING("All Trainer {PKMN} have high EVs!"),
-    COMPOUND_STRING("All Trainer {PKMN} have 252 EVs!\nVery Hard!"),
+    COMPOUND_STRING("The MOé of enemy Trainer have\nno EVs."),
+    COMPOUND_STRING("The EVs of Trainer MOé increase\nwith gym badges!"),
+    COMPOUND_STRING("All Trainer MOé have high EVs!"),
+    COMPOUND_STRING("All Trainer MOé have 252 EVs!\nVery Hard!"),
 };
 static const u8 *const sDesc_MaxPartyIVs[] = {
-    COMPOUND_STRING("Your {PKMN} have the expected IVs\n(between 0 and 31)."),
-    COMPOUND_STRING("The IVs of your {PKMN} are set\nalways to the maximum (31)."),
+    COMPOUND_STRING("Your MOé have the expected IVs\n(between 0 and 31)."),
+    COMPOUND_STRING("The IVs of your MOé are set\nalways to the maximum (31)."),
     COMPOUND_STRING("IVs are set between 30 and 31 to\nallow different Hidden Powers."),
 };
 static const u8 *const sDesc_LessEscapes[] = {
@@ -1102,8 +1102,8 @@ static const struct ChallengeMenuItem sTabItems_Difficulty[] = {
 // =============================================================================
 
 static const u8 *const sDesc_Pokecenter[] = {
-    COMPOUND_STRING("The player can visit {PKMN}centers\nand other locations to heal."),
-    COMPOUND_STRING("The player CAN'T visit {PKMN}centers\nor other locations to heal."),
+    COMPOUND_STRING("The player can visit MOécenters\nand other locations to heal."),
+    COMPOUND_STRING("The player CAN'T visit MOécenters\nor other locations to heal."),
 };
 static const u8 *const sDesc_Expensive[] = {
     COMPOUND_STRING("Everything has the usual cost."),
@@ -1112,15 +1112,15 @@ static const u8 *const sDesc_Expensive[] = {
     COMPOUND_STRING("Everything is 50 times more\nexpensive! Ultra capitalism!"),
 };
 static const u8 *const sDesc_EvoLimit[] = {
-    COMPOUND_STRING("{PKMN} evolve as expected."),
-    COMPOUND_STRING("{PKMN} can only evolve into their\nfirst evolution."),
-    COMPOUND_STRING("{PKMN} can NOT evolve at all!"),
+    COMPOUND_STRING("MOé evolve as expected."),
+    COMPOUND_STRING("MOé can only evolve into their\nfirst evolution."),
+    COMPOUND_STRING("MOé can NOT evolve at all!"),
 };
 #define NUM_ONE_TYPE_CHOICES 20
 #define ONE_TYPE_OFF 31
 #define EVO_LINE_TYPE_SEARCH_DEPTH 4 // deepest evolution chain worth walking
 
-static const u8 sText_Desc_OneType[] = _("Allow only one {PKMN} type the\nplayer can capture and use.");
+static const u8 sText_Desc_OneType[] = _("Allow only one MOé type the\nplayer can capture and use.");
 static const u8 *const sDesc_OneType[] = {
     sText_Desc_OneType, sText_Desc_OneType, sText_Desc_OneType, sText_Desc_OneType,
     sText_Desc_OneType, sText_Desc_OneType, sText_Desc_OneType, sText_Desc_OneType,
@@ -1129,10 +1129,10 @@ static const u8 *const sDesc_OneType[] = {
     sText_Desc_OneType, sText_Desc_OneType, sText_Desc_OneType, sText_Desc_OneType,
 };
 static const u8 *const sDesc_BstEqualizer[] = {
-    COMPOUND_STRING("All {PKMN} have their original\nbase stats."),
-    COMPOUND_STRING("{PKMN} stats are calculated with\n100 of each base stat."),
-    COMPOUND_STRING("{PKMN} stats are calculated with\n255 of each base stat."),
-    COMPOUND_STRING("{PKMN} stats are calculated with\n500 of each base stat."),
+    COMPOUND_STRING("All MOé have their original\nbase stats."),
+    COMPOUND_STRING("MOé stats are calculated with\n100 of each base stat."),
+    COMPOUND_STRING("MOé stats are calculated with\n255 of each base stat."),
+    COMPOUND_STRING("MOé stats are calculated with\n500 of each base stat."),
 };
 static const u8 *const sDesc_Mirror[] = {
     COMPOUND_STRING("The player uses their own party."),
@@ -1145,7 +1145,7 @@ static const u8 *const sDesc_MirrorThief[] = {
 
 static const struct ChallengeMenuItem sTabItems_Challenges[] = {
     [ITEM_CHALLENGES_POKECENTER] = {
-        .name         = COMPOUND_STRING("{PKMN}CENTER"),
+        .name         = COMPOUND_STRING("MOéCENTER"),
         .descriptions = sDesc_Pokecenter,
         .numChoices   = 2,
         .choiceNames  = sChoices_PkmnCenter,

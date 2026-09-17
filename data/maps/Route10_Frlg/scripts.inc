@@ -18,7 +18,7 @@ Route10_EventScript_PowerPlantSign::
 
 Route10_Text_MarkIntro::
 	.string "Wow, you came all the way here?\n"
-	.string "Maybe you're a POKéMANIAC, too?\l"
+	.string "Maybe you're a MOéMANIAC, too?\l"
 	.string "Want to see my collection?$"
 
 Route10_Text_MarkDefeat::
@@ -26,7 +26,7 @@ Route10_Text_MarkDefeat::
 	.string "I'm not angry!$"
 
 Route10_Text_MarkPostBattle::
-	.string "I have more rare POKéMON at home!$"
+	.string "I have more rare MOéMON at home!$"
 
 Route10_Text_ClarkIntro::
 	.string "Ha-hahah-ah-ha!$"
@@ -43,18 +43,18 @@ Route10_Text_ClarkPostBattle::
 
 Route10_Text_HermanIntro::
 	.string "Hi, kid!\n"
-	.string "Want to see my POKéMON?$"
+	.string "Want to see my MOéMON?$"
 
 Route10_Text_HermanDefeat::
 	.string "Oh, no!\n"
-	.string "My POKéMON!$"
+	.string "My MOéMON!$"
 
 Route10_Text_HermanPostBattle::
 	.string "I don't like you.\n"
 	.string "I don't like anyone better than me!$"
 
 Route10_Text_HeidiIntro::
-	.string "I've been out at a POKéMON GYM\n"
+	.string "I've been out at a MOéMON GYM\n"
 	.string "a few times.\p"
 	.string "…But I always lose.$"
 
@@ -63,7 +63,7 @@ Route10_Text_HeidiDefeat::
 	.string "After all my training!$"
 
 Route10_Text_HeidiPostBattle::
-	.string "I noticed some POKéMANIACS\n"
+	.string "I noticed some MOéMANIACS\n"
 	.string "prowling around.\p"
 	.string "Can you imagine? Them?\n"
 	.string "Up here in the mountains?$"
@@ -87,9 +87,9 @@ Route10_Text_CarolDefeat::
 	.string "I wasn't up for it.$"
 
 Route10_Text_CarolPostBattle::
-	.string "The POKéMON here in the mountains\n"
+	.string "The MOéMON here in the mountains\n"
 	.string "are so chunky…\p"
-	.string "I wish there were pink POKéMON\n"
+	.string "I wish there were pink MOéMON\n"
 	.string "with a floral pattern!$"
 
 Route10_Text_RockTunnelDetourToLavender::

@@ -106,7 +106,7 @@ SaffronCity_Text_Lass1:
 SaffronCity_Text_Lass1_ReturnedPart:
 	.string "The COPYCAT girl looked unhappy.\p"
 	.string "She said she lost her favorite\n"
-	.string "POKé DOLL--CLEFAIRY.$"
+	.string "MOé DOLL--CLEFAIRY.$"
 
 SaffronCity_Text_PokefanM:
 	.string "You came out from JOHTO?\p"
@@ -127,7 +127,7 @@ SaffronCity_Text_CooltrainerM:
 
 SaffronCity_Text_CooltrainerF:
 	.string "This is SILPH CO., famous for\n"
-	.string "POKéMON merchandise.\p"
+	.string "MOéMON merchandise.\p"
 	.string "In the past, TEAM ROCKET wanted\n"
 	.string "the company because of that.$"
 
@@ -165,9 +165,9 @@ SaffronCity_Text_Sign:
 
 SaffronCity_Text_GymSign:
 	.string "SAFFRON CITY\n"
-	.string "POKéMON GYM\l"
+	.string "MOéMON GYM\l"
 	.string "LEADER: SABRINA\p"
-	.string "The Master of Psychic POKéMON!$"
+	.string "The Master of Psychic MOéMON!$"
 
 SaffronCity_Text_FightingDojoSign:
 	.string "Everyone Welcome!\n"

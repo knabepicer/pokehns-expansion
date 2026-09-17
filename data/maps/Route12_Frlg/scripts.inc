@@ -57,7 +57,7 @@ Route12_EventScript_FishingSign::
 	end
 
 Route12_Text_MonSprawledOutInSlumber::
-	.string "A POKéMON is sprawled out in\n"
+	.string "A MOéMON is sprawled out in\n"
 	.string "a deep and comfortable slumber.$"
 
 Text_SnorlaxWokeUp::
@@ -70,10 +70,10 @@ Text_SnorlaxReturnedToMountains::
 	.string "And returned to the mountains.$"
 
 Text_WantToUsePokeFlute::
-	.string "Want to use the POKé FLUTE?$"
+	.string "Want to use the MOé FLUTE?$"
 
 Text_PlayedPokeFlute::
-	.string "{PLAYER} played the POKé FLUTE.$"
+	.string "{PLAYER} played the MOé FLUTE.$"
 
 Route12_Text_NedIntro::
 	.string "Yeah!\n"
@@ -96,7 +96,7 @@ Route12_Text_ChipDefeat::
 
 Route12_Text_ChipPostBattle::
 	.string "With a better ROD, I could catch\n"
-	.string "better POKéMON…$"
+	.string "better MOéMON…$"
 
 Route12_Text_JustinIntro::
 	.string "I'm searching for a MOON STONE.\n"
@@ -106,13 +106,13 @@ Route12_Text_JustinDefeat::
 	.string "Oww!$"
 
 Route12_Text_JustinPostBattle::
-	.string "I could have made my POKéMON\n"
+	.string "I could have made my MOéMON\n"
 	.string "evolve with a MOON STONE.\p"
 	.string "I would have won then, I bet.$"
 
 Route12_Text_LucaIntro::
 	.string "Electricity is my specialty.\p"
-	.string "I don't know a thing about POKéMON\n"
+	.string "I don't know a thing about MOéMON\n"
 	.string "of the sea, though.$"
 
 Route12_Text_LucaDefeat::
@@ -120,10 +120,10 @@ Route12_Text_LucaDefeat::
 
 Route12_Text_LucaPostBattle::
 	.string "Water conducts electricity, so you\n"
-	.string "should zap sea POKéMON.$"
+	.string "should zap sea MOéMON.$"
 
 Route12_Text_HankIntro::
-	.string "The FISHING FOOL versus POKéMON\n"
+	.string "The FISHING FOOL versus MOéMON\n"
 	.string "KID!$"
 
 Route12_Text_HankDefeat::
@@ -132,7 +132,7 @@ Route12_Text_HankDefeat::
 Route12_Text_HankPostBattle::
 	.string "I guess you get to be good at\n"
 	.string "what you like.\p"
-	.string "Well, you beat me at POKéMON,\n"
+	.string "Well, you beat me at MOéMON,\n"
 	.string "but you can't top me at fishing.$"
 
 Route12_Text_ElliotIntro::
@@ -183,7 +183,7 @@ Route12_Text_JesNotEnoughMons::
 	.string "JES: GIA and I, we'll be\n"
 	.string "together forever.\p"
 	.string "We won't battle unless you have\n"
-	.string "two POKéMON of your own.$"
+	.string "two MOéMON of your own.$"
 
 Route12_Text_GiaIntro::
 	.string "GIA: Hey, JES…\p"
@@ -199,4 +199,4 @@ Route12_Text_GiaPostBattle::
 Route12_Text_GiaNotEnoughMons::
 	.string "GIA: I can't bear to battle\n"
 	.string "without my JES!\p"
-	.string "Don't you have one more POKéMON?$"
+	.string "Don't you have one more MOéMON?$"

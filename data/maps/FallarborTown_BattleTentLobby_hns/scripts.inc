@@ -318,7 +318,7 @@ FallarborTown_BattleTentLobby_hns_Text_FallarborTentMyFavorite:
 	.string "colored TENT.\p"
 	.string "I think it's fantastic how TRAINERS\n"
 	.string "try to win with all their faith in\l"
-	.string "their POKéMON.$"
+	.string "their MOéMON.$"
 
 FallarborTown_BattleTentLobby_hns_Text_CameToCampOut:
 	.string "I heard something about some tent,\n"

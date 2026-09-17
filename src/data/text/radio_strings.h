@@ -8,15 +8,15 @@
 // Station Names (displayed at top of radio UI)
 // ==========================================================
 
-static const u8 sRadioStationName_OaksPkmnTalk[]    = _("OAK's POKéMON Talk");
-static const u8 sRadioStationName_PokedexShow[]     = _("POKéDEX Show");
-static const u8 sRadioStationName_PokemonMusic[]    = _("POKéMON Music");
+static const u8 sRadioStationName_OaksPkmnTalk[]    = _("OAK's MOéMON Talk");
+static const u8 sRadioStationName_PokedexShow[]     = _("MOéDEX Show");
+static const u8 sRadioStationName_PokemonMusic[]    = _("MOéMON Music");
 static const u8 sRadioStationName_LuckyChannel[]    = _("Lucky Channel");
 static const u8 sRadioStationName_BuenasPassword[]  = _("BUENA'S PASSWORD");
 static const u8 sRadioStationName_Unown[]           = _("?????");
 static const u8 sRadioStationName_PlacesAndPeople[] = _("Places & People");
 static const u8 sRadioStationName_LetsAllSing[]     = _("Let's All Sing!");
-static const u8 sRadioStationName_PokeFlute[]       = _("POKé FLUTE");
+static const u8 sRadioStationName_PokeFlute[]       = _("MOé FLUTE");
 
 static const u8 sRadioStationName_HoennSound[]  = _("Hoenn Sound");
 
@@ -24,23 +24,23 @@ static const u8 sRadioStationName_HoennSound[]  = _("Hoenn Sound");
 // Hoenn Sound
 // ==========================================================
 
-static const u8 sRadioText_Hoenn1[] = _("A POKéMON melody from a");
+static const u8 sRadioText_Hoenn1[] = _("A MOéMON melody from a");
 static const u8 sRadioText_Hoenn2[] = _("faraway region called HOENN!");
-static const u8 sRadioText_Hoenn3[] = _("Wild POKéMON from that region");
+static const u8 sRadioText_Hoenn3[] = _("Wild MOéMON from that region");
 static const u8 sRadioText_Hoenn4[] = _("may appear nearby!");
 
 // ==========================================================
-// POKéDEX Show
+// MOéDEX Show
 // ==========================================================
 
-static const u8 sRadioText_PokedexShow_Intro[] = _("OAK's POKéDEX SHOW!");
-static const u8 sRadioText_PokedexShow_TodaysPrefix[] = _("OAK: Today's POKéMON is ");
+static const u8 sRadioText_PokedexShow_Intro[] = _("OAK's MOéDEX SHOW!");
+static const u8 sRadioText_PokedexShow_TodaysPrefix[] = _("OAK: Today's MOéMON is ");
 
 // ==========================================================
-// Oak's POKéMON Talk
+// Oak's MOéMON Talk
 // ==========================================================
 
-static const u8 sRadioText_OPT_Intro[] = _("MARY: PROF.OAK's POKéMON TALK!");
+static const u8 sRadioText_OPT_Intro[] = _("MARY: PROF.OAK's MOéMON TALK!");
 static const u8 sRadioText_OPT_WithMeMary[] = _("With me, MARY!");
 static const u8 sRadioText_OPT_OakPrefix[] = _("OAK: ");
 static const u8 sRadioText_OPT_SeenAround[] = _("may be seen around");
@@ -48,7 +48,7 @@ static const u8 sRadioText_OPT_MaryPrefix[] = _("MARY: ");
 static const u8 sRadioText_OPT_MaryIs[] = _("'s ");
 
 // Pokemon Channel interlude
-static const u8 sRadioText_OPT_PokemonChannel[] = _("POKéMON Channel");
+static const u8 sRadioText_OPT_PokemonChannel[] = _("MOéMON Channel");
 
 // Adverbs (randomly selected)
 static const u8 sRadioText_OPT_Adverb_SweetAdorably[]      = _("sweet and adorably");
@@ -127,19 +127,19 @@ static const u8 *const sRadioText_OPT_Adjectives[] =
 };
 
 // ==========================================================
-// POKéMON Music Channel (Ben & Fern)
+// MOéMON Music Channel (Ben & Fern)
 // ==========================================================
 
-static const u8 sRadioText_BenIntro[] = _("BEN: POKéMON MUSIC CHANNEL!");
+static const u8 sRadioText_BenIntro[] = _("BEN: MOéMON MUSIC CHANNEL!");
 static const u8 sRadioText_BenIntro2[] = _("It's me, DJ BEN!");
-static const u8 sRadioText_FernIntro[] = _("FERN: POKéMUSIC!");
+static const u8 sRadioText_FernIntro[] = _("FERN: MOéMUSIC!");
 static const u8 sRadioText_FernIntro2[] = _("With DJ FERN!");
 // "Today's {DAY}," built dynamically
 static const u8 sRadioText_BenFern_TodayIs[] = _("Today's ");
 static const u8 sRadioText_BenFern_JamTo[] = _("so let us jam to");
 static const u8 sRadioText_BenFern_ChillTo[] = _("so chill out to");
-static const u8 sRadioText_BenFern_March[] = _("POKéMON March!");
-static const u8 sRadioText_BenFern_Lullaby[] = _("POKéMON Lullaby!");
+static const u8 sRadioText_BenFern_March[] = _("MOéMON March!");
+static const u8 sRadioText_BenFern_Lullaby[] = _("MOéMON Lullaby!");
 
 // ==========================================================
 // Lucky Channel
@@ -242,16 +242,16 @@ static const u8 sRadioBuenaPassword_AzaleaTown[]      = _("AZALEA TOWN");
 static const u8 sRadioBuenaPassword_Flying[]          = _("FLYING");
 static const u8 sRadioBuenaPassword_Bug[]             = _("BUG");
 static const u8 sRadioBuenaPassword_Grass[]           = _("GRASS");
-static const u8 sRadioBuenaPassword_PkmnTalk[]        = _("POKéMON Talk");
-static const u8 sRadioBuenaPassword_PkmnMusic[]       = _("POKéMON Music");
+static const u8 sRadioBuenaPassword_PkmnTalk[]        = _("MOéMON Talk");
+static const u8 sRadioBuenaPassword_PkmnMusic[]       = _("MOéMON Music");
 static const u8 sRadioBuenaPassword_LuckyChannel[]    = _("Lucky Channel");
 
 // ==========================================================
-// Oak's POKéMON Talk - Special Reports
+// Oak's MOéMON Talk - Special Reports
 // ==========================================================
 
 static const u8 sOPT_Report_Clefairy_0[]  = _("MARY: Tonight, a rare moonlight");
-static const u8 sOPT_Report_Clefairy_1[]  = _("moment on POKéMON TALK!");
+static const u8 sOPT_Report_Clefairy_1[]  = _("moment on MOéMON TALK!");
 static const u8 sOPT_Report_Clefairy_2[]  = _("OAK: We're spotlighting the");
 static const u8 sOPT_Report_Clefairy_3[]  = _("mystical CLEFAIRY!");
 static const u8 sOPT_Report_Clefairy_4[]  = _("They gather at MT.MOON");
@@ -273,7 +273,7 @@ static const u8 sOPT_Report_Lapras_8[]  = _("OAK: Some say its songs calm");
 static const u8 sOPT_Report_Lapras_9[]  = _("the soul of the sea.");
 
 static const u8 sOPT_Report_Ampharos_0[]  = _("MARY: Welcome back, everyone!");
-static const u8 sOPT_Report_Ampharos_1[]  = _("Time for POKéMON TALK!");
+static const u8 sOPT_Report_Ampharos_1[]  = _("Time for MOéMON TALK!");
 static const u8 sOPT_Report_Ampharos_2[]  = _("OAK: Let's shine a light on");
 static const u8 sOPT_Report_Ampharos_3[]  = _("our friend AMPHAROS!");
 static const u8 sOPT_Report_Ampharos_4[]  = _("Its bright tail glows through");

@@ -59,11 +59,11 @@ SilphCo_4F_Text_Grunt1PostBattle::
 	.string "My BOSS has been after this place!$"
 
 SilphCo_4F_Text_RodneyIntro::
-	.string "My POKéMON is my loyal servant.$"
+	.string "My MOéMON is my loyal servant.$"
 
 SilphCo_4F_Text_RodneyDefeat::
 	.string "Darn!\n"
-	.string "You weak POKéMON!$"
+	.string "You weak MOéMON!$"
 
 SilphCo_4F_Text_RodneyPostBattle::
 	.string "The doors are electronically\n"

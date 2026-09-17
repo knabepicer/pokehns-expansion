@@ -69,11 +69,11 @@ TrainerHill_Courtyard_EventScript_Sailor::
 BattleTowerOutsideYoungsterText:
 	.string "Wow, the TRAINER HILL is huge!\p"
 	.string "There must be many kinds of\n"
-	.string "POKéMON in there!$"
+	.string "MOéMON in there!$"
 
 BattleTowerOutsideBeautyText:
 	.string "In the BATTLE TENTS, you can\n"
-	.string "use only three POKéMON.\p"
+	.string "use only three MOéMON.\p"
 	.string "It's so hard to decide which\n"
 	.string "three should go into battle…$"
 
@@ -90,7 +90,7 @@ BattleTowerOutsideSignText:
 
 BattleTower_Battle_Tent_Text_Factory:
 	.string "BATTLE TENT: FACTORY\n"
-	.string "“Find it! The ultimate POKéMON!”$"
+	.string "“Find it! The ultimate MOéMON!”$"
 
 BattleTower_Battle_Tent_Text_Palace:
 	.string "BATTLE TENT: PALACE\n"
@@ -200,7 +200,7 @@ TrainerHill_Courtyard_ExchangeServiceCorner_EventScript_OldWTMan::
 TrainerHill_Courtyard_ExchangeServiceCorner_EventScript_OldWTMan_Text:
 	.string "Hi! If you are looking for the\n"
 	.string "WONDERTRADE, they're now located in\l"
-	.string "every POKéMON CENTER. Have fun!$"
+	.string "every MOéMON CENTER. Have fun!$"
 
 TrainerHill_Courtyard_ExchangeServiceCorner_Text_WelcomePleaseChoosePrize:
 	.string "Hello, this is the EXCHANGE SERVICE\n"
@@ -224,7 +224,7 @@ TrainerHill_Courtyard_ExchangeServiceCorner_Text_GetYouAnythingYouWant:
 
 TrainerHill_Courtyard_ExchangeServiceCorner_Text_ItemsWillGetMonTougher:
 	.string "If I can get hold of the items here,\n"
-	.string "my POKéMON will get tougher.\p"
+	.string "my MOéMON will get tougher.\p"
 	.string "You bet they will!\n"
 	.string "No question about it!$"
 

@@ -100,7 +100,7 @@ Route38_EventScript_Item_LaxIncense::
 
 Route38_Text_BirdKeeperTobySeen:
 	.string "Fly high into the sky,\n"
-	.string "my beloved bird POKéMON!$"
+	.string "my beloved bird MOéMON!$"
 
 Route38_Text_BirdKeeperTobyBeaten:
 	.string "I feel like just flying\n"
@@ -108,7 +108,7 @@ Route38_Text_BirdKeeperTobyBeaten:
 
 Route38_Text_BirdKeeperTobyAfter:
 	.string "I plan to train in CIANWOOD CITY\n"
-	.string "to teach my POKéMON how to FLY.$"
+	.string "to teach my MOéMON how to FLY.$"
 
 Route38_Text_SchoolboyChad1Seen:
 	.string "Let me try something\n"
@@ -121,14 +121,14 @@ Route38_Text_SchoolboyChad1Beaten:
 Route38_Text_SchoolboyChadAfter:
 	.string "I have to take so many\n"
 	.string "tests, I don't have much\l"
-	.string "time for POKéMON.\p"
+	.string "time for MOéMON.\p"
 	.string "So when I do get to play,\n"
 	.string "I really concentrate.$"
 
 Route38_Text_ChadRegister:
 	.string "I have to take so many\n"
 	.string "tests, I don't have much\l"
-	.string "time for POKéMON.\p"
+	.string "time for MOéMON.\p"
 	.string "So when I do get to play,\n"
 	.string "I really concentrate.$"
 
@@ -143,13 +143,13 @@ Route38_Text_ChadRematchDefeat:
 Route38_Text_ChadPostRematch:
 	.string "I have to take so many\n"
 	.string "tests, I don't have much\l"
-	.string "time for POKéMON.\p"
+	.string "time for MOéMON.\p"
 	.string "So when I do get to play,\n"
 	.string "I really concentrate.$"
 
 Route38_Text_LassDana1Seen:
 	.string "You seem to be good at\n"
-	.string "POKéMON.\p"
+	.string "MOéMON.\p"
 	.string "If you are, how about\n"
 	.string "giving me some advice?$"
 
@@ -165,20 +165,20 @@ Route38_Text_LassDanaAfter:
 Route38_Text_BeautyValerieSeen:
 	.string "Hi! Aren't you a cute\n"
 	.string "trainer!\p"
-	.string "May I see your POKéMON?$"
+	.string "May I see your MOéMON?$"
 
 Route38_Text_BeautyValerieBeaten:
 	.string "I'm glad I got to see\n"
-	.string "your POKéMON!$"
+	.string "your MOéMON!$"
 
 Route38_Text_BeautyValerieAfter:
-	.string "When I see POKéMON, it\n"
+	.string "When I see MOéMON, it\n"
 	.string "seems to soothe my nerves.$"
 
 Route38_Text_SailorHarrySeen:
 	.string "I've been overseas, so I\n"
 	.string "know about all sorts of\l"
-	.string "POKéMON!$"
+	.string "MOéMON!$"
 
 Route38_Text_SailorHarryBeaten:
 	.string "Your skill is world class!$"
@@ -186,10 +186,10 @@ Route38_Text_SailorHarryBeaten:
 Route38_Text_SailorHarryAfter:
 	.string "All kinds of people around\n"
 	.string "the world live happily with\l"
-	.string "POKéMON.$"
+	.string "MOéMON.$"
 
 Route38_Text_BeautyOliviaSeen:
-	.string "Don't you think my POKéMON\n"
+	.string "Don't you think my MOéMON\n"
 	.string "and I are beautiful?$"
 
 Route38_Text_BeautyOliviaBeaten:
@@ -208,11 +208,11 @@ Route38_Text_Sign:
 
 Route38_Text_TrainerTips:
 	.string "TRAINER TIPS\p"
-	.string "If a POKéMON is trying to\n"
+	.string "If a MOéMON is trying to\n"
 	.string "evolve, you can stop it.\p"
 	.string "Press the B Button during\n"
 	.string "evolution to cancel it.\p"
-	.string "That startles the POKéMON\n"
+	.string "That startles the MOéMON\n"
 	.string "and stops its evolution.$"
 
 
@@ -228,7 +228,7 @@ Route38_Text_DanaRegister:
 
 Route38_Text_DanaRematchIntro:
 	.string "You seem to be good at\n"
-	.string "POKéMON.\p"
+	.string "MOéMON.\p"
 	.string "If you are, how about\n"
 	.string "giving me some advice?$"
 

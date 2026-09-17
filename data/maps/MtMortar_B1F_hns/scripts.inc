@@ -69,7 +69,7 @@ MountMortar4_Text_KiyoTyrogueReward:
 	.string "I admit it.\p"
 	.string "As proof that you defeated me,\n"
 	.string "I'll give you a rare fighting\l"
-	.string "POKéMON.$"
+	.string "MOéMON.$"
 
 MountMortar4_Text_ReceiveTyrogue:
 	.string "{PLAYER} received TYROGUE.$"
@@ -77,7 +77,7 @@ MountMortar4_Text_ReceiveTyrogue:
 MountMortar4_Text_KiyoGotTyrogue:
 	.string "TYROGUE is a FIGHTING-type.\p"
 	.string "It evolves into a tougher\n"
-	.string "POKéMON.\p"
+	.string "MOéMON.\p"
 	.string "Keep up the hard work.\n"
 	.string "I'll keep training too.\p"
 	.string "Farewell!$"

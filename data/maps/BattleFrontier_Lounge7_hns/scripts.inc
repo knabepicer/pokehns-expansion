@@ -399,7 +399,7 @@ BattleFrontier_Lounge7_Text_LeftTutorIntro_hns:
 	.string "I'm not like that blowhard woman over\n"
 	.string "there. I'm actually talented!\p"
 	.string "Let me prove it to you.\n"
-	.string "I can teach your POKéMON special and\l"
+	.string "I can teach your MOéMON special and\l"
 	.string "yet cute moves.\p"
 	.string "But my lessons don't come free.\n"
 	.string "How about paying for the moves I teach\l"
@@ -408,7 +408,7 @@ BattleFrontier_Lounge7_Text_LeftTutorIntro_hns:
 BattleFrontier_Lounge7_Text_LeftTutorWelcomeBack_hns:
 	.string "Buhahaha!\p"
 	.string "Are you back to learn special and\n"
-	.string "yet cute POKéMON moves?$"
+	.string "yet cute MOéMON moves?$"
 
 BattleFrontier_Lounge7_Text_TeachWhichMove_hns:
 	.string "Fine, fine, look here!\n"
@@ -419,7 +419,7 @@ BattleFrontier_Lounge7_Text_MoveWillBeXBattlePoints_hns:
 	.string "That will be {STR_VAR_2} Battle Points, okay?$"
 
 BattleFrontier_Lounge7_Text_TeachMoveToWhichMon_hns:
-	.string "Fine, fine, now pick the POKéMON\n"
+	.string "Fine, fine, now pick the MOéMON\n"
 	.string "I should teach the move to.$"
 
 BattleFrontier_Lounge7_Text_HaventGotEnoughPoints_hns:
@@ -448,7 +448,7 @@ BattleFrontier_Lounge7_Text_RightTutorIntro_hns:
 	.string "I'm not like that buffoonish woman over\n"
 	.string "there. I'm actually experienced!\p"
 	.string "I can prove it to you.\n"
-	.string "I can teach your POKéMON hard and\l"
+	.string "I can teach your MOéMON hard and\l"
 	.string "yet pretty moves.\p"
 	.string "But my lessons don't come free.\n"
 	.string "How about paying for the moves I teach\l"
@@ -457,7 +457,7 @@ BattleFrontier_Lounge7_Text_RightTutorIntro_hns:
 BattleFrontier_Lounge7_Text_RightTutorWelcomeBack_hns:
 	.string "Ihihihi!\p"
 	.string "Have you come to learn hard and\n"
-	.string "yet pretty POKéMON moves?$"
+	.string "yet pretty MOéMON moves?$"
 
 BattleFrontier_Lounge7_Text_ThinkLadiesDontGetAlong_hns:
 	.string "Those ladies, the way they bad-mouth\n"
@@ -472,7 +472,7 @@ BattleFrontier_Lounge7_Text_LadiesWereStrongAndBeautiful_hns:
 	.string "They were idols among us TRAINERS.\p"
 	.string "Even now, age hasn't dulled their\n"
 	.string "abilities.\p"
-	.string "In fact, their POKéMON moves have\n"
+	.string "In fact, their MOéMON moves have\n"
 	.string "grown even more polished.\p"
 	.string "But… For some reason, I can't help\n"
 	.string "but feel this…\p"
@@ -586,7 +586,7 @@ BattleFrontier_Lounge7_Text_ElementalTutorIntro::
 	.string "I'm the ELEMENTAL TUTOR.\p"
 	.string "I have the power to teach the most\n"
 	.string "powerful moves to GRASS, FIRE and\l"
-	.string "WATER TYPE POKéMON.\p"
+	.string "WATER TYPE MOéMON.\p"
 	.string "Did you come to learn such a strong\n"
 	.string "power?$"
 
@@ -598,7 +598,7 @@ BattleFrontier_Lounge7_Text_ElementalTutorWelcomeBack:
 
 BattleFrontier_Lounge7_Text_TeachWhichMoveElemental::
 	.string "Which move do you think is suitable\n"
-	.string "for your POKéMON?$"
+	.string "for your MOéMON?$"
 
 BattleFrontier_Lounge7_Text_StrongElementalMoveDesc::
 	.string "Powerful, but\n"

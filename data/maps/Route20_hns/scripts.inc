@@ -100,12 +100,12 @@ Route20_Text_Dennis:
 	.string "DENNIS: SHAAAAAAAA!$"
 
 Route20_Text_Headlocker:
-	.string "There's a rare POKéMON on this\n"
+	.string "There's a rare MOéMON on this\n"
 	.string "route.\p"
 	.string "And sometimes it carries a rare\n"
 	.string "evolution item.\p"
 	.string "That's double rare!\p"
-	.string "I need to finish my POKéDEX, so\n"
+	.string "I need to finish my MOéDEX, so\n"
 	.string "I've been fishing here for hours!$"
 
 Route20_Text_Seel:
@@ -118,19 +118,19 @@ Route20_Text_SeafoamSign:
 	.string "SEAFOAM ISLANDS$"
 
 Route20_Text_NicoleRegister:
-	.string "Your POKéMON swims fast!\n"
+	.string "Your MOéMON swims fast!\n"
 	.string "Let me get your number!$"
 
 Route20_Text_NicoleRematchIntro:
 	.string "All this swimming has made my\n"
-	.string "POKéMON stronger! Let's battle!$"
+	.string "MOéMON stronger! Let's battle!$"
 
 Route20_Text_NicoleRematchDefeat:
 	.string "Swept away again…$"
 
 Route20_Text_NicolePostRematch:
 	.string "Win or lose, I'm getting fit and\n"
-	.string "so are my POKéMON!$"
+	.string "so are my MOéMON!$"
 
 Route20_Text_SwimmerfNicoleSeen:
 	.string "I feel so much lighter in water.$"

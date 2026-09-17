@@ -372,7 +372,7 @@ TrainerHill_Entrance_hns_Text_ExplainTrainerHill:
 
 TrainerHill_Entrance_hns_Text_WhatSortOfTrainersAreAhead:
 	.string "Who knows what sort of TRAINERS\n"
-	.string "and POKéMON combos are ahead?\p"
+	.string "and MOéMON combos are ahead?\p"
 	.string "All I know is that I'll knock aside\n"
 	.string "anyone that stands in my way!$"
 

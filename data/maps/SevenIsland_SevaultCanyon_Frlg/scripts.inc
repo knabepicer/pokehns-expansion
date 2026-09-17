@@ -18,7 +18,7 @@ SevenIsland_SevaultCanyon_Text_CyndyPostBattle::
 
 SevenIsland_SevaultCanyon_Text_EvanIntro::
 	.string "It doesn't matter if you happen to\n"
-	.string "have the strongest POKéMON…\p"
+	.string "have the strongest MOéMON…\p"
 	.string "It doesn't mean a thing if you don't\n"
 	.string "know how to use them properly!$"
 
@@ -27,9 +27,9 @@ SevenIsland_SevaultCanyon_Text_EvanDefeat::
 
 SevenIsland_SevaultCanyon_Text_EvanPostBattle::
 	.string "You see them every so often,\n"
-	.string "TRAINERS with awesome POKéMON\l"
+	.string "TRAINERS with awesome MOéMON\l"
 	.string "who have no idea what to do.\p"
-	.string "Before training POKéMON, TRAINERS\n"
+	.string "Before training MOéMON, TRAINERS\n"
 	.string "themselves need to grow up.$"
 
 SevenIsland_SevaultCanyon_Text_JacksonIntro::

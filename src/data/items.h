@@ -194,7 +194,7 @@ const struct ItemInfo gItemsInfo[] =
 
     [ITEM_POKE_BALL] =
     {
-        .name = ITEM_NAME("POKé BALL"),
+        .name = ITEM_NAME("MOé BALL"),
         .price = 100,
         .description = COMPOUND_STRING(
             "A tool used for\n"
@@ -439,7 +439,7 @@ const struct ItemInfo gItemsInfo[] =
         .description = COMPOUND_STRING(
             "Good for NORMAL,\n"
             "FLYING, ICE, and\n"
-            "low level POKéMON."),
+            "low level MOéMON."),
         .pocket = POCKET_POKE_BALLS,
         .type = ITEM_USE_PARTY_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_PokeBall,
@@ -457,7 +457,7 @@ const struct ItemInfo gItemsInfo[] =
         .description = COMPOUND_STRING(
             "Good for WATER,\n"
             "DRAGON, and fished\n"
-            "up POKéMON."),
+            "up MOéMON."),
         .pocket = POCKET_POKE_BALLS,
         .type = ITEM_USE_PARTY_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_PokeBall,
@@ -493,7 +493,7 @@ const struct ItemInfo gItemsInfo[] =
         .description = COMPOUND_STRING(
             "Good for BUG,\n"
             "GRASS, and making\n"
-            "POKéMON friendly."),
+            "MOéMON friendly."),
         .pocket = POCKET_POKE_BALLS,
         .type = ITEM_USE_PARTY_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_PokeBall,
@@ -529,7 +529,7 @@ const struct ItemInfo gItemsInfo[] =
         .description = COMPOUND_STRING(
             "Good for fast, FIRE,\n"
             "ELECTRIC, and\n"
-            "FIGHTING POKéMON."),
+            "FIGHTING MOéMON."),
         .pocket = POCKET_POKE_BALLS,
         .type = ITEM_USE_PARTY_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_PokeBall,
@@ -547,7 +547,7 @@ const struct ItemInfo gItemsInfo[] =
         .description = COMPOUND_STRING(
             "Good for ROCK,\n"
             "GROUND, STEEL, and\n"
-            "Heavy POKéMON."),
+            "Heavy MOéMON."),
         .pocket = POCKET_POKE_BALLS,
         .type = ITEM_USE_PARTY_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_PokeBall,
@@ -2641,7 +2641,7 @@ const struct ItemInfo gItemsInfo[] =
 
     [ITEM_POKE_DOLL] =
     {
-        .name = ITEM_NAME("POKé DOLL"),
+        .name = ITEM_NAME("MOé DOLL"),
     #if I_PRICE >= GEN_8
         .price = 300,
     #elif I_PRICE == GEN_7
@@ -2677,7 +2677,7 @@ const struct ItemInfo gItemsInfo[] =
 
     [ITEM_POKE_TOY] =
     {
-        .name = ITEM_NAME("POKé TOY"),
+        .name = ITEM_NAME("MOé TOY"),
         .price = (I_PRICE >= GEN_7) ? 100 : 1000,
         .description = sPokeDollDesc,
         .pocket = POCKET_BATTLE_ITEMS,
@@ -3861,7 +3861,7 @@ const struct ItemInfo gItemsInfo[] =
         .price = 20,
         .description = COMPOUND_STRING(
             "Throw into a\n"
-            "{PKMN} Den to attract\n"
+            "MOé Den to attract\n"
             "Dynamax Pokémon."),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_SELLABLE,
@@ -12312,7 +12312,7 @@ const struct ItemInfo gItemsInfo[] =
     #if B_PREFERRED_ICE_WEATHER == B_ICE_WEATHER_SNOW
         .description = COMPOUND_STRING(
             "Raises the Defense\n"
-            "of Ice type {PKMN}\n"
+            "of Ice type MOé\n"
             "for 5 turns."),
     #else
         .description = COMPOUND_STRING(
@@ -13981,7 +13981,7 @@ const struct ItemInfo gItemsInfo[] =
         .price = 0,
         .importance = 1,
         .description = COMPOUND_STRING(
-            "Enables {PKMN} holding\n"
+            "Enables MOé holding\n"
             "their Mega Stone to\n"
             "Mega Evolve."),
         .pocket = POCKET_KEY_ITEMS,
@@ -14214,11 +14214,11 @@ const struct ItemInfo gItemsInfo[] =
 
     [ITEM_POKEMON_BOX_LINK] =
     {
-        .name = ITEM_NAME("{PKMN} BOX LINK"),
+        .name = ITEM_NAME("MOé BOX LINK"),
         .price = 0,
         .description = COMPOUND_STRING(
             "This device grants\n"
-            "access to the {PKMN}\n"
+            "access to the MOé\n"
             "Storage System."),
         .importance = 1,
         .pocket = POCKET_KEY_ITEMS,
@@ -14277,7 +14277,7 @@ const struct ItemInfo gItemsInfo[] =
 
     [ITEM_POKE_RADAR] =
     {
-        .name = ITEM_NAME("POKé RADAR"),
+        .name = ITEM_NAME("MOé RADAR"),
         .price = 0,
         .description = COMPOUND_STRING(
             "A tool used to\n"
@@ -14325,7 +14325,7 @@ const struct ItemInfo gItemsInfo[] =
 
     [ITEM_POKE_FLUTE] =
     {
-        .name = ITEM_NAME("POKé FLUTE"),
+        .name = ITEM_NAME("MOé FLUTE"),
         .price = 0,
         .description = COMPOUND_STRING(
             "A sweet-sounding\n"
@@ -14797,7 +14797,7 @@ const struct ItemInfo gItemsInfo[] =
         .description = COMPOUND_STRING(
             "Silph Co's scope\n"
             "makes unseeable\n"
-            "POKéMON visible."),
+            "MOéMON visible."),
         .importance = 1,
         .pocket = POCKET_KEY_ITEMS,
         .type = ITEM_USE_BAG_MENU,
@@ -16046,7 +16046,7 @@ const struct ItemInfo gItemsInfo[] =
 
     [ITEM_POKESHI_DOLL] =
     {
-        .name = ITEM_NAME("POKéSHI DOLL"),
+        .name = ITEM_NAME("MOéSHI DOLL"),
         .price = 2000,
         .description = COMPOUND_STRING(
             "A wooden toy\n"

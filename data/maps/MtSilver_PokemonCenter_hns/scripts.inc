@@ -78,7 +78,7 @@ MtSilver_PokemonCenter_Text_Meara2:
 	.string "You have the spirit of a true\n"
 	.string "archaeologist!\p"
 	.string "There's a branch of the cave\n"
-	.string "where the POKéMON are too strong\l"
+	.string "where the MOéMON are too strong\l"
 	.string "for me to safely explore.\p"
 	.string "If I take you there, would you\n"
 	.string "explore it for more artifacts?$"

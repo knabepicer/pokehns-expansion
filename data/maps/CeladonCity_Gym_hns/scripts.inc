@@ -60,7 +60,7 @@ CeladonCity_Gym_Text_Erika_ExplainTM:
 	.string "It is GIGA DRAIN.\p"
 	.string "It is a wonderful move that\n"
 	.string "drains half the damage it inflicts\l"
-	.string "to heal your POKéMON.\p"
+	.string "to heal your MOéMON.\p"
 	.string "Please use it if it pleases you…$"
 
 CeladonCity_Gym_Text_ErikaAfterBattle:
@@ -144,7 +144,7 @@ CeladonCity_Gym_EventScript_Zoe::
 	end
 
 CeladonCity_Gym_Text_TwinsJoAndZoe1Seen:
-	.string "We'll show you POKéMON moves that\n"
+	.string "We'll show you MOéMON moves that\n"
 	.string "ERIKA taught us!$"
 
 CeladonCity_Gym_Text_TwinsJoAndZoe1Beaten:
@@ -175,13 +175,13 @@ CeladonCity_Gym_EventScript_GymStatuePostVictory::
 	end
 
 CeladonCity_Gym_Text_GymStatue::
-    .string "CELADON POKéMON GYM\n"
+    .string "CELADON MOéMON GYM\n"
     .string "LEADER: ERIKA\p"
 	.string "WINNING TRAINERS:\n"
 	.string "BLUE, RED$"
 
 CeladonCity_Gym_Text_GymStatuePlayerWon::
-    .string "CELADON POKéMON GYM\n"
+    .string "CELADON MOéMON GYM\n"
     .string "LEADER: ERIKA\p"
     .string "WINNING TRAINERS:\n"
 	.string "BLUE, RED, {PLAYER}$"

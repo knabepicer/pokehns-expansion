@@ -117,7 +117,7 @@ GoldenrodCity_UndergroundTunnel_Text_Kimono1:
 	.string "So, you took on Team Rocket?\l"
 	.string "You are impressive!\p"
 	.string "You may be able to face the\n"
-	.string "legendary POKé...$"
+	.string "legendary MOé...$"
 
 GoldenrodCity_UndergroundTunnel_Text_Kimono2:
 	.string "Hahaha! Never mind.\n"
@@ -321,15 +321,15 @@ GoldenrodCity_UndergroundTunnel_EventScript_Item_Antidote::
 
 
 GoldenrodUnderground_Text_YoungerBrotherOffer:
-    .string "Welcome to the POKéMON SALON!\p"
+    .string "Welcome to the MOéMON SALON!\p"
     .string "I'm the younger and less expensive\n"
     .string "of the two HAIRCUT BROTHERS.\p"
-    .string "I'll spiff up your POKéMON for just\n"
+    .string "I'll spiff up your MOéMON for just\n"
     .string "¥300.\p"
     .string "So? How about it?$"
 
 GoldenrodUnderground_Text_YoungerBrotherAskWhich:
-    .string "OK, which POKéMON should I do?$"
+    .string "OK, which MOéMON should I do?$"
 
 GoldenrodUnderground_Text_YoungerBrotherLookCool:
     .string "OK! I'll make it look cool!$"
@@ -351,15 +351,15 @@ GoldenrodUnderground_Text_YoungerBrotherOnePerDay:
 
 GoldenrodUnderground_Text_OlderBrotherOffer:
     .string "Welcome!\p"
-    .string "I run the POKéMON SALON!\p"
+    .string "I run the MOéMON SALON!\p"
     .string "I'm the older and better of the two\n"
     .string "HAIRCUT BROTHERS.\p"
-    .string "I can make your POKéMON beautiful\n"
+    .string "I can make your MOéMON beautiful\n"
     .string "for just ¥500.\p"
     .string "Would you like me to do that?$"
 
 GoldenrodUnderground_Text_OlderBrotherAskWhich:
-    .string "Which POKéMON should I work on?$"
+    .string "Which MOéMON should I work on?$"
 
 GoldenrodUnderground_Text_OlderBrotherWatchItBeautiful:
     .string "OK! Watch it become beautiful!$"
@@ -380,7 +380,7 @@ GoldenrodUnderground_Text_OlderBrotherOnePerDay:
 GoldenrodUnderground_Text_SupernerdEricSeen:
     .string "I got booted out of the GAME CORNER.\p"
     .string "I was trying to cheat using my\n"
-    .string "POKéMON…$"
+    .string "MOéMON…$"
 
 GoldenrodUnderground_Text_SupernerdEricBeaten:
     .string "…Grumble…$"
@@ -399,22 +399,22 @@ GoldenrodUnderground_Text_SupernerdTeruBeaten:
     .string "Ow, ow, ow!$"
 
 GoldenrodUnderground_Text_SupernerdTeruAfterBattle:
-    .string "I know my POKéMON type alignments.\p"
-    .string "But I only use one type of POKéMON.$"
+    .string "I know my MOéMON type alignments.\p"
+    .string "But I only use one type of MOéMON.$"
 
 GoldenrodUnderground_Text_PokemaniacIssacSeen:
-    .string "My POKéMON just got a haircut!\p"
+    .string "My MOéMON just got a haircut!\p"
     .string "I'll show you how strong it is!$"
 
 GoldenrodUnderground_Text_PokemaniacIssacBeaten:
     .string "Aiyeeee!$"
 
 GoldenrodUnderground_Text_PokemaniacIssacAfterBattle:
-    .string "Your POKéMON will like you more if\n"
+    .string "Your MOéMON will like you more if\n"
     .string "you give them haircuts.$"
 
 GoldenrodUnderground_Text_PokemaniacDonaldSeen:
-    .string "I think you have some rare POKéMON\n"
+    .string "I think you have some rare MOéMON\n"
     .string "with you.\p"
     .string "Let me see them!$"
 
@@ -427,12 +427,12 @@ GoldenrodUnderground_Text_PokemaniacDonaldAfterBattle:
 	.string "being watched from the rooftops...$"
 
 GoldenrodUnderground_Text_PokemaniacDonaldAfterBattleOld:
-    .string "Are you making a POKéDEX? Here's a\n"
+    .string "Are you making a MOéDEX? Here's a\n"
     .string "hot tip.\p"
     .string "The HIKER on ROUTE 33, ANTHONY, is a\n"
     .string "good guy.\p"
     .string "He'll phone you if he sees any rare\n"
-    .string "POKéMON.$"
+    .string "MOéMON.$"
 
 GoldenrodUnderground_Text_DoorsLocked:
     .string "The door's locked…$"

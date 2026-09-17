@@ -100,7 +100,7 @@ LavenderTown_RadioStation_Text_Gentleman_GotExpnCard:
 LavenderTown_RadioStation_Text_SuperNerd2:
 	.string "Hey there!\p"
 	.string "I am the super MUSIC DIRECTOR!\p"
-	.string "Huh? Your RADIO can't tune into\n" @POKéGEAR
+	.string "Huh? Your RADIO can't tune into\n" @MOéGEAR
 	.string "my music programs. How unfortunate!\p"
 	.string "If you get an EXPN CARD upgrade,\n"
 	.string "you can tune in. You'd better get\l"
@@ -120,12 +120,12 @@ LavenderTown_RadioStation_Text_Directory:
 	.string "5F DIRECTOR'S OFFICE$"
 
 LavenderTown_RadioStation_Text_PokeFluteSign:
-	.string "Perk Up POKéMON with Mellow\n"
-	.string "Sounds of the POKé FLUTE on\l"
+	.string "Perk Up MOéMON with Mellow\n"
+	.string "Sounds of the MOé FLUTE on\l"
 	.string "CHANNEL 20$"
 
 LavenderTown_RadioStation_Text_ReferenceLibrary:
-	.string "Wow! A full rack of POKéMON CDs\n"
+	.string "Wow! A full rack of MOéMON CDs\n"
 	.string "and videos.\p"
 	.string "This must be the reference\n"
 	.string "library.$"

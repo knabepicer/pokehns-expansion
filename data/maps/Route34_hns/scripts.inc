@@ -136,7 +136,7 @@ Route34_Text_YoungsterSamuel_After:
 
 Route34_Text_YoungsterIan_Seen:
 	.string "I'm the best in my class at\n"
-	.string "POKéMON.$"
+	.string "MOéMON.$"
 
 Route34_Text_YoungsterIan_Beaten:
 	.string "No! There are better trainers…$"
@@ -147,7 +147,7 @@ Route34_Text_YoungsterIan_After:
 
 Route34_Text_CamperTodd_Seen:
 	.string "I'm confident in my ability to\n"
-	.string "raise POKéMON.\p"
+	.string "raise MOéMON.\p"
 	.string "Want to see?$"
 
 Route34_Text_CamperTodd_Beaten:
@@ -163,7 +163,7 @@ Route34_Text_ToddRegister:
 
 Route34_Text_ToddRematchIntro:
 	.string "I'm confident in my ability to\n"
-	.string "raise POKéMON.\p"
+	.string "raise MOéMON.\p"
 	.string "Want to see?$"
 
 Route34_Text_ToddRematchDefeat:
@@ -204,7 +204,7 @@ Route34_Text_OfficerKeith_Daytime:
 	.string "individuals.$"
 
 Route34_Text_PokefanBrandon_Seen:
-	.string "I just got my POKéMON back from\n"
+	.string "I just got my MOéMON back from\n"
 	.string "DAY-CARE.\p"
 	.string "Let's see how much stronger it got!$"
 
@@ -212,7 +212,7 @@ Route34_Text_PokefanBrandon_Beaten:
 	.string "Why does it end this way?$"
 
 Route34_Text_PokefanBrandon_After:
-	.string "My POKéMON came back with new moves.\p"
+	.string "My MOéMON came back with new moves.\p"
 	.string "That confounded me to no end!$"
 
 Route34_Text_Sign_IlexForest:
@@ -280,4 +280,4 @@ Route34_Text_CooltrainerKate_After:
 
 Route34_Text_Sign_DayCare:
 	.string "DAY-CARE\p"
-	.string "LET US RAISE YOUR POKéMON FOR YOU!$"
+	.string "LET US RAISE YOUR MOéMON FOR YOU!$"

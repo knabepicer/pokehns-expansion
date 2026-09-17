@@ -2450,7 +2450,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
         .name = COMPOUND_STRING("EARTHQUAKE"),
         .description = COMPOUND_STRING(
             "A powerful quake that\n"
-            "hits all other POKéMON."),
+            "hits all other MOéMON."),
         .effect = EFFECT_EARTHQUAKE,
         .power = 100,
         .type = TYPE_GROUND,
@@ -2736,7 +2736,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
         #if B_TELEPORT_BEHAVIOR >= GEN_8
         .description = COMPOUND_STRING(
             "Switches the user out last.\n"
-            "Flees when used by wild {PKMN}."),
+            "Flees when used by wild MOé."),
         #else
         .description = COMPOUND_STRING(
             "A psychic move for fleeing\n"
@@ -11478,7 +11478,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("DISCHARGE"),
         .description = COMPOUND_STRING(
-            "Zaps all other {PKMN} with\n"
+            "Zaps all other MOé with\n"
             "electricity. May paralyze."),
         .effect = EFFECT_HIT,
         .power = 80,
@@ -12694,7 +12694,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
         .name = COMPOUND_STRING("SYNCHRONOISE"),
         .description = COMPOUND_STRING(
             "An odd shock wave that only\n"
-            "damages same-type {PKMN}."),
+            "damages same-type MOé."),
         .effect = EFFECT_SYNCHRONOISE,
         .power = B_UPDATED_MOVE_DATA >= GEN_6 ? 120 : 70,
         .type = TYPE_PSYCHIC,
@@ -20143,7 +20143,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("REVIVAL BLESSING"),
         .description = COMPOUND_STRING(
-            "Revives a fainted party {PKMN}\n"
+            "Revives a fainted party MOé\n"
             "and restores half of its HP."),
         .effect = EFFECT_REVIVAL_BLESSING,
         .power = 0,

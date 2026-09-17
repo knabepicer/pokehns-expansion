@@ -208,7 +208,7 @@ SaffronCity_FightingDojo_Text_WouldYouLikeToBattle:
 SaffronCity_FightingDojo_Text_BlackBelt:
 	.string "You enter the FIGHTING DOJO!\p"
 	.string "Here, you may hone the stats of\n"
-	.string "of your POKéMON by battle!$"
+	.string "of your MOéMON by battle!$"
 
 SaffronCity_FightingDojo_Text_Sign1:
 	.string "Left: HP, DEFENSE, SPECIAL DEFENSE$"
@@ -288,21 +288,21 @@ SaffronCity_FightingDojo_Ability_Finish_Text:
 
 SaffronCity_FightingDojo_Ability_Text1:
 	.string "Welcome! I'm the ABILITY EXPERT!\p"
-	.string "I can swap POKéMON's abilities in\n"
+	.string "I can swap MOéMON's abilities in\n"
 	.string "a heartbeat, only for 25.000¥!\p"
 	.string "Would you like me to swap any\n"
-	.string "POKéMON's ability?$"
+	.string "MOéMON's ability?$"
 
 SaffronCity_FightingDojo_Ability_Text_No:
 	.string "Sure. I'll be here if you need me.$"
 
 SaffronCity_FightingDojo_Ability_Text_Cant:
-	.string "I cannot do that. This POKéMON\n"
+	.string "I cannot do that. This MOéMON\n"
 	.string "does not have a second ABILITY!$"
 
 SaffronCity_FightingDojo_Ability_Text_NoChampion:
 	.string "Welcome! I'm the ABILITY EXPERT!\p"
-	.string "I can swap POKéMON's abilities\n"
+	.string "I can swap MOéMON's abilities\n"
 	.string "in a heartbeat.\p"
 	.string "Unfortunately, my back hurts and\n"
 	.string "I can't work today.\p"

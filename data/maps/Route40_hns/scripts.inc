@@ -35,7 +35,7 @@ Route40_EventScript_Randall::
 
 Route40_Text_SwimmermRandallSeen:
 	.string "Hey, you're young and fit!\p"
-	.string "Don't ride your POKéMON!\n"
+	.string "Don't ride your MOéMON!\n"
 	.string "Swim!$"
 
 Route40_Text_SwimmermRandallBeaten:
@@ -70,7 +70,7 @@ Route40_EventScript_Paula::
 Route40_Text_SwimmerfPaulaSeen:
 	.string "No inner tube for me.\p"
 	.string "I'm hanging on to a sea\n"
-	.string "POKéMON!$"
+	.string "MOéMON!$"
 
 Route40_Text_SwimmerfPaulaBeaten:
 	.string "Ooh, I'm feeling dizzy!$"
@@ -137,7 +137,7 @@ Route40_Text_MonicaGaveGift:
 	.string "MONICA: It's an item that raises\n"
 	.string "the power of FLYING-type moves.\p"
 	.string "You should equip a bird\n"
-	.string "POKéMON with that item.$"
+	.string "MOéMON with that item.$"
 
 Route40_Text_MonicaMonday:
 	.string "MONICA: My brothers and\n"

@@ -20,7 +20,7 @@ CeladonCity_PokemonCenter_EventScript_Eusine::
 
 CeladonCity_PokemonCenter1F_Text_CooltrainerF:
 	.string "ERIKA is a master of grass\n"
-	.string "POKéMON.\p"
+	.string "MOéMON.\p"
 	.string "She'll make you pay if you don't\n"
 	.string "watch yourself.$"
 
@@ -38,7 +38,7 @@ Celadon_Text_Eusine1:
 Celadon_Text_EusineLeaves:
 	.string "{PLAYER}, have you heard?\p"
 	.string "There have been fresh rumors of a\n"
-	.string "rainbow-colored POKéMON\n"
+	.string "rainbow-colored MOéMON\n"
 	.string "appearing at TIN TOWER.\p"
 	.string "I've just had my party healed,\n"
 	.string "so now I'm headed to ECRUTEAK.\p"
@@ -47,7 +47,7 @@ Celadon_Text_EusineLeaves:
 Celadon_Text_NoBeasts:
 	.string "Oh, by the way, {PLAYER}.\p"
 	.string "Have you caught the legendary\n"
-	.string "POKéMON RAIKOU and ENTEI?\p"
+	.string "MOéMON RAIKOU and ENTEI?\p"
 	.string "<……><……><……>\p"
 	.string "Okay…\p"
 	.string "If you catch even one, I hope\n"

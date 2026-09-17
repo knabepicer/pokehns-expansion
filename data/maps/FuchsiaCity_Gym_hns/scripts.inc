@@ -276,13 +276,13 @@ FuchsiaCity_Gym_EventScript_GymStatuePostVictory::
 	end
 
 FuchsiaCity_Gym_Text_GymStatue::
-    .string "FUCHSIA POKéMON GYM\n"
+    .string "FUCHSIA MOéMON GYM\n"
     .string "LEADER: JANINE\p"
 	.string "WINNING TRAINERS:\n"
 	.string "BLUE, RED$"
 
 FuchsiaCity_Gym_Text_GymStatuePlayerWon::
-    .string "FUCHSIA POKéMON GYM\n"
+    .string "FUCHSIA MOéMON GYM\n"
     .string "LEADER: JANINE\p"
     .string "WINNING TRAINERS:\n"
     .string "BLUE, RED, {PLAYER}$"

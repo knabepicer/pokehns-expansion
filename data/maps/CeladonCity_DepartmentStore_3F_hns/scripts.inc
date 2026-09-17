@@ -43,11 +43,11 @@ CeladonDept3_EventScript_Directory::
 	end
 
 CeladonDeptStore3F_Text_Youngster:
-	.string "I can't decide which POKéMON I\n"
+	.string "I can't decide which MOéMON I\n"
 	.string "should use this TM on…$"
 
 CeladonDeptStore3F_Text_GameboyKid1:
-	.string "Uh-oh! I traded my POKéMON without\n"
+	.string "Uh-oh! I traded my MOéMON without\n"
 	.string "removing the UPGRADE from it.$"
 
 CeladonDeptStore3F_Text_GameboyKid2:
@@ -57,12 +57,12 @@ CeladonDeptStore3F_Text_GameboyKid2:
 	.string "could never get enough coins…\p"
 	.string "…Huh?\p"
 	.string "The traded PORYGON turned into a\n"
-	.string "different POKéMON!$"
+	.string "different MOéMON!$"
 
 CeladonDeptStore3F_Text_SuperNerd:
 	.string "The TM SHOP sells some rare moves.$"
 
 CeladonDeptStore3F_Text_Directory:
 	.string "3F: TM SHOP\p"
-	.string "Make Your POKéMON Stronger!$"
+	.string "Make Your MOéMON Stronger!$"
 

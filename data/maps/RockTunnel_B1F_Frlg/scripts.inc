@@ -67,7 +67,7 @@ RockTunnel_B1F_Text_DudleyPostBattle::
 	.string "thinking.$"
 
 RockTunnel_B1F_Text_CooperIntro::
-	.string "You have a POKéDEX?\n"
+	.string "You have a MOéDEX?\n"
 	.string "I want one, too.$"
 
 RockTunnel_B1F_Text_CooperDefeat::
@@ -75,23 +75,23 @@ RockTunnel_B1F_Text_CooperDefeat::
 	.string "I am so jealous!$"
 
 RockTunnel_B1F_Text_CooperPostBattle::
-	.string "When you finish your POKéDEX,\n"
+	.string "When you finish your MOéDEX,\n"
 	.string "can I have it?$"
 
 RockTunnel_B1F_Text_SteveIntro::
-	.string "Um… Do you know about POKéMON\n"
+	.string "Um… Do you know about MOéMON\n"
 	.string "cosplay?$"
 
 RockTunnel_B1F_Text_SteveDefeat::
 	.string "Well, that's that.$"
 
 RockTunnel_B1F_Text_StevePostBattle::
-	.string "POKéMON cosplay is dressing up as\n"
-	.string "POKéMON for fun.\p"
+	.string "MOéMON cosplay is dressing up as\n"
+	.string "MOéMON for fun.\p"
 	.string "CLEFAIRY is a favorite.$"
 
 RockTunnel_B1F_Text_AllenIntro::
-	.string "My POKéMON techniques will leave\n"
+	.string "My MOéMON techniques will leave\n"
 	.string "you crying!$"
 
 RockTunnel_B1F_Text_AllenDefeat::
@@ -100,7 +100,7 @@ RockTunnel_B1F_Text_AllenDefeat::
 
 RockTunnel_B1F_Text_AllenPostBattle::
 	.string "In mountains, you'll often find\n"
-	.string "ROCK-type POKéMON.$"
+	.string "ROCK-type MOéMON.$"
 
 RockTunnel_B1F_Text_MarthaIntro::
 	.string "I don't often come here, but I will\n"
@@ -111,7 +111,7 @@ RockTunnel_B1F_Text_MarthaDefeat::
 	.string "I lost!$"
 
 RockTunnel_B1F_Text_MarthaPostBattle::
-	.string "I like tiny POKéMON.\n"
+	.string "I like tiny MOéMON.\n"
 	.string "Big ones are too scary!$"
 
 RockTunnel_B1F_Text_EricIntro::
@@ -121,11 +121,11 @@ RockTunnel_B1F_Text_EricDefeat::
 	.string "Fired away!$"
 
 RockTunnel_B1F_Text_EricPostBattle::
-	.string "I'll raise my POKéMON to beat\n"
+	.string "I'll raise my MOéMON to beat\n"
 	.string "yours, kid.$"
 
 RockTunnel_B1F_Text_WinstonIntro::
-	.string "I draw illustrations of POKéMON\n"
+	.string "I draw illustrations of MOéMON\n"
 	.string "when I'm home.$"
 
 RockTunnel_B1F_Text_WinstonDefeat::

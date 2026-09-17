@@ -66,18 +66,18 @@ OlivineCity_PortInside_Text_Nationaldex1:
 	.string "PROF.OAK: Hello!\n"
 	.string "You are starting to have the\l"
 	.string "attitude of a CHAMPION, {PLAYER}!\p"
-	.string "It's time for your POKéDEX to\n"
+	.string "It's time for your MOéDEX to\n"
 	.string "match who you are.\p"
-	.string "Let me see your POKéDEX for a\n"
+	.string "Let me see your MOéDEX for a\n"
 	.string "second.\p"
-	.string "I'll upgrade your POKéDEX with the\n"
+	.string "I'll upgrade your MOéDEX with the\n"
 	.string "NATIONAL MODE.$"
 OlivineCity_PortInside_Text_Nationaldex2:
-	.string "{PLAYER}'s POKéDEX was upgraded\n"
+	.string "{PLAYER}'s MOéDEX was upgraded\n"
 	.string "with the NATIONAL MODE!$"
 OlivineCity_PortInside_Text_Nationaldex3:
 	.string "PROF.OAK: It won't be easy to\n"
-	.string "complete the NATIONAL POKéDEX...\p"
+	.string "complete the NATIONAL MOéDEX...\p"
 	.string "However, I'm sure you will make\n"
 	.string "honest attempt on our behalf!$"
 OlivineCity_PortInside_Text_Nationaldex4:
@@ -86,7 +86,7 @@ OlivineCity_PortInside_Text_Nationaldex4:
 	.string "GOLDENROD RADIO TOWER.\p"
 	.string "You must be heading for KANTO.\p"
 	.string "If you come near PALLET TOWN, do\n"
-	.string "drop by my POKéMON RESEARCH LAB!$"
+	.string "drop by my MOéMON RESEARCH LAB!$"
 
 OlivinePort_EventScript_CooltrainerF::
 	msgbox OlivinePort_Text_CooltrainerF, MSGBOX_NPC
@@ -300,14 +300,14 @@ OlivinePort_Text_FishingGuru1:
 OlivinePort_Text_FishingGuru2:
     .string "How many RODS do you have?\p"
     .string "Different RODS catch different\n"
-    .string "POKéMON.$"
+    .string "MOéMON.$"
 
 OlivinePort_Text_Youngster:
     .string "S.S.AQUA uses jets to skim\n"
     .string "over the waves!$"
 
 OlivinePort_Text_CooltrainerF:
-    .string "There are lots of POKéMON in KANTO.\p"
+    .string "There are lots of MOéMON in KANTO.\p"
     .string "I wish I could go…$"
 
 OlivinePort_Text_SailorBeforeHOF:

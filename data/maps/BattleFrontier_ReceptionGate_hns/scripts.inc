@@ -301,7 +301,7 @@ BattleFrontier_ReceptionGate_Text_FirstTimeHereThisWay_hns:
 	.string "Please step this way!$"
 
 BattleFrontier_ReceptionGate_Text_WelcomeToBattleFrontier_hns:
-	.string "The front lines of POKéMON battling!\n"
+	.string "The front lines of MOéMON battling!\n"
 	.string "Welcome to the BATTLE FRONTIER!$"
 
 BattleFrontier_ReceptionGate_Text_IssueFrontierPass_hns:
@@ -388,7 +388,7 @@ BattleFrontier_ReceptionGate_Text_BattleFactoryInfo_hns:
 
 BattleFrontier_ReceptionGate_Text_BattlePikeInfo_hns:
 	.string "The BATTLE PIKE is the building shaped\n"
-	.string "like a POKéMON at the center-left of\l"
+	.string "like a MOéMON at the center-left of\l"
 	.string "the BATTLE FRONTIER.\p"
 	.string "An event called the Battle Choice\n"
 	.string "is conducted there.$"
@@ -429,11 +429,11 @@ BattleFrontier_ReceptionGate_Text_LevelModeInfo_hns:
 	.string "two courses--Level 50 and Open Level.$"
 
 BattleFrontier_ReceptionGate_Text_Level50Info_hns:
-	.string "The Level 50 course is open to POKéMON\n"
+	.string "The Level 50 course is open to MOéMON\n"
 	.string "up to and including Level 50.\p"
 	.string "Please keep in mind, however, that\n"
 	.string "no TRAINER you face will have any\l"
-	.string "POKéMON below Level 50.\p"
+	.string "MOéMON below Level 50.\p"
 	.string "This course is the entry level for\n"
 	.string "battles at the BATTLE FRONTIER.\p"
 	.string "To begin, we hope you will challenge\n"
@@ -441,30 +441,30 @@ BattleFrontier_ReceptionGate_Text_Level50Info_hns:
 
 BattleFrontier_ReceptionGate_Text_OpenLevelInfo_hns:
 	.string "The Open Level course places no limit\n"
-	.string "on the levels of POKéMON entering\l"
+	.string "on the levels of MOéMON entering\l"
 	.string "challenges.\p"
 	.string "The levels of your opponents will\n"
 	.string "be adjusted to match the levels of\l"
-	.string "your POKéMON.\p"
+	.string "your MOéMON.\p"
 	.string "However, no TRAINER you face will\n"
-	.string "have any POKéMON below Level 60.$"
+	.string "have any MOéMON below Level 60.$"
 
 BattleFrontier_ReceptionGate_Text_MonEntryInfo_hns:
-	.string "Virtually any kind of POKéMON may take\n"
+	.string "Virtually any kind of MOéMON may take\n"
 	.string "on the challenges at all facilities.\p"
-	.string "EGGS and certain kinds of POKéMON,\n"
+	.string "EGGS and certain kinds of MOéMON,\n"
 	.string "however, are not permitted.\p"
-	.string "The numbers of POKéMON required for\n"
+	.string "The numbers of MOéMON required for\n"
 	.string "challenges will depend on the facility.\p"
 	.string "At all facilities, however, two or more\n"
-	.string "of the same kind of POKéMON are not\l"
+	.string "of the same kind of MOéMON are not\l"
 	.string "permitted.$"
 
 BattleFrontier_ReceptionGate_Text_HoldItemsInfo_hns:
 	.string "When entering a challenge at a BATTLE\n"
-	.string "FRONTIER facility, POKéMON may not\l"
+	.string "FRONTIER facility, MOéMON may not\l"
 	.string "be holding the same kind of item.\p"
-	.string "Please make sure that all POKéMON\n"
+	.string "Please make sure that all MOéMON\n"
 	.string "entering a challenge are holding\l"
 	.string "different items.$"
 

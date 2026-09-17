@@ -120,7 +120,7 @@ LakeOfRage_House2_Text_MenInBlack:
 
 LakeOfRage_House2_Text_LastMon:
     .string "Well don't let me take your last\n"
-    .string "POKéMON!$"
+    .string "MOéMON!$"
 
 LakeOfRage_House2_Text_WorldsLargest:
     .string "LAKE OF RAGE is back to normal.\p"

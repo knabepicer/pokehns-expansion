@@ -123,7 +123,7 @@ Route13_EventScript_DirectionsSign::
 	end
 
 Route13_Text_PokefanmAlexSeen:
-	.string "Bow down before my regal POKéMON!$"
+	.string "Bow down before my regal MOéMON!$"
 
 Route13_Text_PokefanmAlexBeaten:
 	.string "How… How dare you mock royalty!$"
@@ -155,22 +155,22 @@ Route13_Text_PokefanmJoshuaBeaten:
 
 Route13_Text_PokefanmJoshuaAfterBattle:
 	.string "You look like you have many\n"
-	.string "POKéMON, but PIKACHU\l"
+	.string "MOéMON, but PIKACHU\l"
 	.string "is still the best.$"
 
 Route13_Text_BirdKeeperPerrySeen:
 	.string "Agility is the key attribute of\n"
-	.string "bird POKéMON.$"
+	.string "bird MOéMON.$"
 
 Route13_Text_BirdKeeperPerryBeaten:
 	.string "You beat me with your speed…$"
 
 Route13_Text_BirdKeeperPerryAfterBattle:
-	.string "Your POKéMON are remarkably well-\n"
+	.string "Your MOéMON are remarkably well-\n"
 	.string "trained.$"
 
 Route13_Text_BirdKeeperBretSeen:
-	.string "Check out my POKéMON. Just look\n"
+	.string "Check out my MOéMON. Just look\n"
 	.string "at their coloring and their\l"
 	.string "plumage.$"
 
@@ -178,7 +178,7 @@ Route13_Text_BirdKeeperBretBeaten:
 	.string "Shoot! Not good enough!$"
 
 Route13_Text_BirdKeeperBretAfterBattle:
-	.string "If you groom them, POKéMON get\n"
+	.string "If you groom them, MOéMON get\n"
 	.string "happy.$"
 
 Route13_Text_HikerKennySeen:
@@ -195,7 +195,7 @@ Route13_Text_HikerKennyAfterBattle:
 	.string "by little.$"
 
 Route13_Text_KennyRegister:
-	.string "Maybe POKéMON change over time too.\n"
+	.string "Maybe MOéMON change over time too.\n"
 	.string "Let's battle again sometime!$"
 
 Route13_Text_KennyRematchIntro:
@@ -206,7 +206,7 @@ Route13_Text_KennyRematchDefeat:
 	.string "Still not enough…$"
 
 Route13_Text_KennyPostRematch:
-	.string "The power of POKéMON is like\n"
+	.string "The power of MOéMON is like\n"
 	.string "erosion. We will persevere!$"
 
 Route13_Text_TrainerTips:

@@ -442,7 +442,7 @@ BattleFrontier_BattlePalaceBattleRoom_Movement_SpenserEnter_hns:
 
 BattleFrontier_BattlePalaceBattleRoom_Text_LetMeRestoreYourMons_hns:
 	.string "Excellent…\n"
-	.string "Let me restore your POKéMON.$"
+	.string "Let me restore your MOéMON.$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_PreparedFor2ndOpponent_hns:
 	.string "The 2nd opponent is next.\n"
@@ -499,18 +499,18 @@ BattleFrontier_BattlePalaceBattleRoom_Text_AnnounceArrivalOfSpenser_hns:
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserFirstIntro_hns:
 	.string "SPENSER: My physical being is with\n"
-	.string "POKéMON always!\p"
+	.string "MOéMON always!\p"
 	.string "My heart beats as one with\n"
-	.string "POKéMON always!\p"
+	.string "MOéMON always!\p"
 	.string "Young one of a TRAINER!\n"
-	.string "Do you believe in your POKéMON?\p"
+	.string "Do you believe in your MOéMON?\p"
 	.string "Can you believe them through\n"
 	.string "and through?\p"
 	.string "If your bonds of trust are frail,\n"
 	.string "you will never beat my brethren!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_ProveYourBondWithMons_hns:
-	.string "The bond you share with your POKéMON!\n"
+	.string "The bond you share with your MOéMON!\n"
 	.string "Prove it to me here!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserPostSilverBattle_hns:
@@ -531,7 +531,7 @@ BattleFrontier_BattlePalaceBattleRoom_Text_ReceivedSpiritsSymbol_hns:
 	.string "the FRONTIER PASS!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserAwaitNextTime_hns:
-	.string "SPENSER: Your POKéMON's eyes are \n"
+	.string "SPENSER: Your MOéMON's eyes are \n"
 	.string "truly clear and unclouded.\p"
 	.string "I will eagerly await the next\n"
 	.string "opportunity to see you.$"
@@ -540,7 +540,7 @@ BattleFrontier_BattlePalaceBattleRoom_Text_SpenserThisTimeWontHoldBack_hns:
 	.string "SPENSER: Gwahahah!\n"
 	.string "You've battled your way up again?\p"
 	.string "You must have developed a truly\n"
-	.string "formidable bond with your POKéMON.\p"
+	.string "formidable bond with your MOéMON.\p"
 	.string "So be it!\p"
 	.string "This time, I won't bluster or hold back.\n"
 	.string "This time, there's no fooling around.\p"

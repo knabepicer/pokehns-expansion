@@ -55,7 +55,7 @@ OlivineCity_EventScript_SailorB::
 	end
 
 OlivineCity_Text_CafeSailorStrength:
-	.string "Hah! Your POKéMON sure look like\n"
+	.string "Hah! Your MOéMON sure look like\n"
 	.string "lightweights!\p"
 	.string "They don't have the power to\n"
 	.string "move boulders aside.\p"

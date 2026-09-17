@@ -453,14 +453,14 @@ BattleFrontier_BattleFactoryPreBattleRoom_Movement_AttendantReturnToPlayer_hns:
 	step_end
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_HoldMonsChooseFromSelection_hns:
-	.string "First, we will hold your POKéMON for\n"
+	.string "First, we will hold your MOéMON for\n"
 	.string "safekeeping.\p"
 	.string "You may then choose from our\n"
-	.string "selection of POKéMON.$"
+	.string "selection of MOéMON.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_LetUsRestoreMons_hns:
 	.string "Thank you for competing!\n"
-	.string "Let us restore your POKéMON!$"
+	.string "Let us restore your MOéMON!$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor2ndOpponent_hns:
 	.string "The 2nd match is next!\n"
@@ -612,11 +612,11 @@ BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleUnrestrained_hns:
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_LikeToSwapMon_hns:
 	.string "Before starting the battle, would you\n"
-	.string "like to swap a POKéMON?$"
+	.string "like to swap a MOéMON?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_YourSwapIsComplete_hns:
 	.string "Thank you!\n"
-	.string "Your POKéMON swap is complete.$"
+	.string "Your MOéMON swap is complete.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_RightThisWay_hns:
 	.string "Right this way, please!$"

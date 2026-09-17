@@ -47,7 +47,7 @@ Route49_Text_SkylarBeforeBattle:
 	.string "You want the PLATE?\n"
 	.string "It's an artifact imbued with an\l"
 	.string "ancient power with a connection\l"
-	.string "to the legendary POKéMON?!\p"
+	.string "to the legendary MOéMON?!\p"
 	.string "Well now I'm definitely keeping it.\p"
 	.string "Fine.\p"
 	.string "You'll just have to battle me for it.$"

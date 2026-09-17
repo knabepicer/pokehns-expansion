@@ -26,12 +26,12 @@ FallarborTown_BattleTentLobby_Text_ExplainFallarborTent:
 #endif
 	.string "we undertake the Set KO Tourney.\p"
 	.string "All participants enter with a team of\n"
-	.string "three POKéMON.\p"
-	.string "The three POKéMON must be lined up\n"
+	.string "three MOéMON.\p"
+	.string "The three MOéMON must be lined up\n"
 	.string "in the order that they are to appear in.\p"
-	.string "During battle, the POKéMON will appear\n"
+	.string "During battle, the MOéMON will appear\n"
 	.string "one at a time in the preset order.\p"
-	.string "Once a POKéMON enters battle, it must\n"
+	.string "Once a MOéMON enters battle, it must\n"
 	.string "remain out until the match is decided.\p"
 	.string "If a match remains undecided in\n"
 	.string "three turns, it goes to judging.\p"
@@ -55,11 +55,11 @@ FallarborTown_BattleTentLobby_Text_WhichLevelMode:
 
 FallarborTown_BattleTentLobby_Text_SelectThreeMons:
 	.string "Very well, now select your\n"
-	.string "three POKéMON, please.$"
+	.string "three MOéMON, please.$"
 
 FallarborTown_BattleTentLobby_Text_NotEnoughValidMonsLv50:
 	.string "My dear challenger!\p"
-	.string "You do not have the three POKéMON\n"
+	.string "You do not have the three MOéMON\n"
 	.string "required for entry.\p"
 	.string "They also must not hold the same\n"
 	.string "kinds of items.\p"
@@ -69,10 +69,10 @@ FallarborTown_BattleTentLobby_Text_NotEnoughValidMonsLv50:
 
 FallarborTown_BattleTentLobby_Text_NotEnoughValidMonsLvOpen:
 	.string "My dear challenger!\p"
-	.string "You do not have the three POKéMON\n"
+	.string "You do not have the three MOéMON\n"
 	.string "required for entry.\p"
 	.string "To qualify, you must bring three\n"
-	.string "different kinds of POKéMON.\p"
+	.string "different kinds of MOéMON.\p"
 	.string "They also must not hold the same\n"
 	.string "kinds of items.\p"
 	.string "EGGS{STR_VAR_1} ineligible.\p"
@@ -132,13 +132,13 @@ FallarborTown_BattleTentLobby_Text_LookingForwardToArrival:
 VerdanturfTown_BattleTentLobby_Text_WelcomeToBattleTent:
 	.string "I welcome you to the BATTLE TENT!\p"
 	.string "Here, the TRAINER's trust toward\n"
-	.string "POKéMON is tested.$"
+	.string "MOéMON is tested.$"
 #else
 VerdanturfTown_BattleTentLobby_Text_WelcomeToBattleTent:
 	.string "I welcome you to the BATTLE TENT\n"
 	.string "VERDANTURF SITE!\p"
 	.string "Here, the TRAINER's trust toward\n"
-	.string "POKéMON is tested.$"
+	.string "MOéMON is tested.$"
 #endif
 VerdanturfTown_BattleTentLobby_Text_TakeChallenge:
 #if IS_HNS
@@ -157,13 +157,13 @@ VerdanturfTown_BattleTentLobby_Text_ExplainVerdanturfTent:
 	.string "there is one crucial rule that must\l"
 	.string "be obeyed.\p"
 	.string "TRAINERS are permitted only to switch\n"
-	.string "their POKéMON in and out.\p"
+	.string "their MOéMON in and out.\p"
 	.string "TRAINERS are otherwise forbidden to\n"
-	.string "command their POKéMON.\p"
-	.string "The POKéMON are to behave according\n"
+	.string "command their MOéMON.\p"
+	.string "The MOéMON are to behave according\n"
 	.string "to their nature and battle on their own.\p"
 	.string "You must put your trust in your\n"
-	.string "POKéMON and watch over them.\p"
+	.string "MOéMON and watch over them.\p"
 	.string "If you achieve the honor of beating\n"
 	.string "three TRAINERS in succession,\l"
 	.string "we will present you with a prize.\p"
@@ -174,7 +174,7 @@ VerdanturfTown_BattleTentLobby_Text_ExplainVerdanturfTent:
 
 VerdanturfTown_BattleTentLobby_Text_ReturnFortified:
 	.string "When you have fortified your heart\n"
-	.string "and POKéMON, you must return.$"
+	.string "and MOéMON, you must return.$"
 
 @ Unused
 VerdanturfTown_BattleTentLobby_Text_WhichLevelMode:
@@ -184,10 +184,10 @@ VerdanturfTown_BattleTentLobby_Text_WhichLevelMode:
 
 VerdanturfTown_BattleTentLobby_Text_NotEnoughValidMonsLv50:
 	.string "Sigh…\p"
-	.string "You do not have the three POKéMON\n"
+	.string "You do not have the three MOéMON\n"
 	.string "required for the challenge.\p"
 	.string "To enter, you must provide three\n"
-	.string "different kinds of POKéMON.\p"
+	.string "different kinds of MOéMON.\p"
 	.string "They also must not be holding\n"
 	.string "the same kinds of items.\p"
 	.string "EGGS{STR_VAR_1} ineligible.\p"
@@ -196,10 +196,10 @@ VerdanturfTown_BattleTentLobby_Text_NotEnoughValidMonsLv50:
 
 VerdanturfTown_BattleTentLobby_Text_NotEnoughValidMonsLvOpen:
 	.string "Sigh…\p"
-	.string "You do not have the three POKéMON\n"
+	.string "You do not have the three MOéMON\n"
 	.string "required for the challenge.\p"
 	.string "To enter, you must provide three\n"
-	.string "different kinds of POKéMON.\p"
+	.string "different kinds of MOéMON.\p"
 	.string "They also must not be holding\n"
 	.string "the same kinds of items.\p"
 	.string "EGGS{STR_VAR_1} ineligible.\p"
@@ -208,7 +208,7 @@ VerdanturfTown_BattleTentLobby_Text_NotEnoughValidMonsLvOpen:
 
 VerdanturfTown_BattleTentLobby_Text_SelectThreeMons:
 	.string "Good. Now, you must select your\n"
-	.string "three POKéMON.$"
+	.string "three MOéMON.$"
 
 VerdanturfTown_BattleTentLobby_Text_SaveBeforeChallenge:
 	.string "I must save before I show you to\n"
@@ -220,14 +220,14 @@ VerdanturfTown_BattleTentLobby_Text_NowFollowMe:
 
 VerdanturfTown_BattleTentLobby_Text_ResultsWillBeRecorded:
 	.string "I feel privileged for having seen\n"
-	.string "your POKéMON's exploits.\p"
+	.string "your MOéMON's exploits.\p"
 	.string "The results will be recorded.\n"
 	.string "I must ask you to briefly wait.$"
 
 VerdanturfTown_BattleTentLobby_Text_AchievedThreeWinStreak:
 	.string "To achieve a 3-win streak…\p"
 	.string "The bonds that bind your heart with\n"
-	.string "your POKéMON seem firm and true.$"
+	.string "your MOéMON seem firm and true.$"
 
 VerdanturfTown_BattleTentLobby_Text_FeatWillBeRecorded:
 	.string "Your feat will be recorded.\n"
@@ -263,13 +263,13 @@ SlateportCity_BattleTentLobby_Text_ExplainSlateportTent:
 	.string "Here at the SLATEPORT BATTLE TENT,\n"
 #endif
 	.string "we hold Battle Swap events\l"
-	.string "using rental POKéMON.\p"
+	.string "using rental MOéMON.\p"
 	.string "First, you will be loaned three\n"
-	.string "POKéMON specifically for this event.\p"
-	.string "Using the supplied rental POKéMON,\n"
+	.string "MOéMON specifically for this event.\p"
+	.string "Using the supplied rental MOéMON,\n"
 	.string "you must conduct a SINGLE BATTLE.\p"
 	.string "If you win, you are permitted to trade\n"
-	.string "one of your rental POKéMON.\p"
+	.string "one of your rental MOéMON.\p"
 	.string "Repeat this cycle of battling and\n"
 	.string "trading--if you win three times in\l"
 	.string "a row, you will earn a fine prize.\p"
@@ -292,7 +292,7 @@ SlateportCity_BattleTentLobby_Text_SaveBeforeChallenge:
 
 @ Unused
 SlateportCity_BattleTentLobby_Text_HoldMonsForSafekeeping:
-	.string "Okay, I will hold your POKéMON for\n"
+	.string "Okay, I will hold your MOéMON for\n"
 	.string "safekeeping while you compete.$"
 
 SlateportCity_BattleTentLobby_Text_StepThisWay:
@@ -300,21 +300,21 @@ SlateportCity_BattleTentLobby_Text_StepThisWay:
 
 SlateportCity_BattleTentLobby_Text_ReturnRentalMonsSaveResults:
 	.string "Thank you for participating!\p"
-	.string "I will return your POKéMON in exchange\n"
-	.string "for our rental POKéMON.\p"
+	.string "I will return your MOéMON in exchange\n"
+	.string "for our rental MOéMON.\p"
 	.string "I must also save your event results.\n"
 	.string "Please wait.$"
 
 @ Unused
 SlateportCity_BattleTentLobby_Text_ReturnMonsExchangeRentals:
-	.string "I will return your POKéMON in exchange\n"
-	.string "for our rental POKéMON.$"
+	.string "I will return your MOéMON in exchange\n"
+	.string "for our rental MOéMON.$"
 
 SlateportCity_BattleTentLobby_Text_WonThreeMatchesReturnMons:
 	.string "Congratulations!\n"
 	.string "You've won three straight matches!\p"
-	.string "I will return your POKéMON in exchange\n"
-	.string "for our rental POKéMON.\p"
+	.string "I will return your MOéMON in exchange\n"
+	.string "for our rental MOéMON.\p"
 	.string "I must also save your event results.\n"
 	.string "Please wait.$"
 
@@ -341,7 +341,7 @@ SlateportCity_BattleTentLobby_Text_DidntSaveBeforeQuitting:
 
 @ Unused
 SlateportCity_BattleTentLobby_Text_ReturnPersonalMons:
-	.string "We'll return your personal POKéMON.$"
+	.string "We'll return your personal MOéMON.$"
 
 @ Unused
 SlateportCity_BattleTentLobby_Text_ReceivedPrize:
@@ -358,40 +358,40 @@ SlateportCity_BattleTentLobby_Text_ReadWhichHeading:
 
 SlateportCity_BattleTentLobby_Text_ExplainBasicRules:
 	.string "In a Battle Swap event, you may use\n"
-	.string "only three POKéMON.\p"
+	.string "only three MOéMON.\p"
 	.string "Whether you are renting or swapping,\n"
 	.string "your team may not have two or more\l"
-	.string "of the same POKéMON.$"
+	.string "of the same MOéMON.$"
 
 SlateportCity_BattleTentLobby_Text_ExplainSwapPartnerRules:
-	.string "You may swap POKéMON only with\n"
+	.string "You may swap MOéMON only with\n"
 	.string "the TRAINER you have just defeated.\p"
-	.string "You may swap for only those POKéMON\n"
+	.string "You may swap for only those MOéMON\n"
 	.string "used by the beaten TRAINER.$"
 
 SlateportCity_BattleTentLobby_Text_ExplainSwapNumberRules:
 	.string "After every battle you win, you may\n"
 	.string "swap for one of your defeated\l"
-	.string "opponent's POKéMON.\p"
-	.string "You will not be able to swap POKéMON\n"
+	.string "opponent's MOéMON.\p"
+	.string "You will not be able to swap MOéMON\n"
 	.string "with the third TRAINER in the event.$"
 
 SlateportCity_BattleTentLobby_Text_ExplainSwapNotes:
 	.string "There are two key points to be aware\n"
-	.string "of when swapping POKéMON.\p"
+	.string "of when swapping MOéMON.\p"
 	.string "First, when swapping, you can't check\n"
-	.string "the stats of the POKéMON you are\l"
+	.string "the stats of the MOéMON you are\l"
 	.string "about to receive.\p"
-	.string "Second, the POKéMON on your team\n"
+	.string "Second, the MOéMON on your team\n"
 	.string "are lined up in sequence, depending on\l"
 	.string "the order in which you rented them.\p"
 	.string "This sequence remains unchanged\n"
 	.string "even when swaps are made.$"
 
 SlateportCity_BattleTentLobby_Text_ExplainMonRules:
-	.string "The POKéMON of the SLATEPORT\n"
+	.string "The MOéMON of the SLATEPORT\n"
 	.string "BATTLE TENT are all rentals.\p"
-	.string "All rental POKéMON are kept at\n"
+	.string "All rental MOéMON are kept at\n"
 	.string "Level 30.$"
 
 @ Unused
@@ -406,21 +406,21 @@ VerdanturfTown_BattleTentLobby_Text_ReadWhichHeading:
 @ Unused
 VerdanturfTown_BattleTentLobby_Text_ExplainBasicRules:
 	.string "Here at the VERDANTURF BATTLE TENT,\n"
-	.string "POKéMON are required to think and\l"
+	.string "MOéMON are required to think and\l"
 	.string "battle by themselves.\p"
-	.string "Unlike in the wild, POKéMON that live\n"
+	.string "Unlike in the wild, MOéMON that live\n"
 	.string "with people behave differently\l"
 	.string "depending on their nature.$"
 
 @ Unused
 VerdanturfTown_BattleTentLobby_Text_ExplainNatureRules:
-	.string "Depending on its nature, a POKéMON\n"
+	.string "Depending on its nature, a MOéMON\n"
 	.string "may prefer to attack no matter what.\p"
-	.string "Another POKéMON may prefer to protect\n"
+	.string "Another MOéMON may prefer to protect\n"
 	.string "itself from any harm.\p"
 	.string "Yet another may enjoy vexing or\n"
 	.string "confounding its foes.\p"
-	.string "Depending on its nature, a POKéMON\n"
+	.string "Depending on its nature, a MOéMON\n"
 	.string "will have favorite moves that it is good\l"
 	.string "at using.\p"
 	.string "It may also dislike certain moves that\n"
@@ -437,34 +437,34 @@ VerdanturfTown_BattleTentLobby_Text_ExplainMoveRules:
 	.string "moves that may enfeeble the foes with\l"
 	.string "stat problems including poison and \l"
 	.string "paralysis.\p"
-	.string "POKéMON will consider using moves in\n"
+	.string "MOéMON will consider using moves in\n"
 	.string "these three categories.$"
 
 @ Unused
 VerdanturfTown_BattleTentLobby_Text_ExplainUnderpoweredRules:
 	.string "When not under command by its TRAINER,\n"
-	.string "a POKéMON may be unable to effectively\l"
+	.string "a MOéMON may be unable to effectively\l"
 	.string "use certain moves.\p"
-	.string "A POKéMON is not good at using any\n"
+	.string "A MOéMON is not good at using any\n"
 	.string "move that it dislikes.\p"
-	.string "If a POKéMON only knows moves that\n"
+	.string "If a MOéMON only knows moves that\n"
 	.string "do not match its nature, it will often\l"
 	.string "be unable to live up to its potential.$"
 
 @ Unused
 VerdanturfTown_BattleTentLobby_Text_ExplainWhenInDangerRules:
-	.string "Depending on its nature, a POKéMON may\n"
+	.string "Depending on its nature, a MOéMON may\n"
 	.string "start using moves that don't match its\l"
 	.string "nature when it is in trouble.\p"
-	.string "If a POKéMON begins behaving oddly\n"
+	.string "If a MOéMON begins behaving oddly\n"
 	.string "in a pinch, watch it carefully.$"
 
 BattleTentLobby_Text_ExplainLevelRules:
 	.string "At this BATTLE TENT, the levels of\n"
 	.string "your opponents will be adjusted to\l"
-	.string "match the levels of your POKéMON.\p"
+	.string "match the levels of your MOéMON.\p"
 	.string "However, no TRAINER you face will\n"
-	.string "have any POKéMON below Level 30.$"
+	.string "have any MOéMON below Level 30.$"
 
 VerdanturfTown_BattleTentLobby_Text_RulesAreListed:
 	.string "The VERDANTURF BATTLE TENT\n"

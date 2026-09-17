@@ -351,13 +351,13 @@ AzaleaTown_Text_RivalBefore:
 	.string "Then let's see how good you are.$"
 
 AzaleaTown_Text_RivalWin:
-	.string "…Humph! Useless POKéMON!\p"
+	.string "…Humph! Useless MOéMON!\p"
 	.string "Listen, you. You only won because\n"
-	.string "my POKéMON were weak.$"
+	.string "my MOéMON were weak.$"
 
 AzaleaTown_Text_RivalAfter:
 	.string "I hate the weak.\p"
-	.string "POKéMON, trainers. It doesn't\n"
+	.string "MOéMON, trainers. It doesn't\n"
 	.string "matter who or what.\p"
 	.string "I'm going to be strong and wipe\n"
 	.string "out the weak.\p"
@@ -402,7 +402,7 @@ AzaleaTown_Text_Youngster:
 	.string "in ILEX FOREST.\p"
 	.string "But these skinny trees make it\n"
 	.string "impossible to get through.\p"
-	.string "The CHARCOAL MAN's POKéMON\n"
+	.string "The CHARCOAL MAN's MOéMON\n"
 	.string "can CUT down trees.$"
 
 AzaleaTown_Text_Slowpoke1:
@@ -422,7 +422,7 @@ AzaleaTown_Text_Kurt3:
 
 AzaleaTown_Text_Sign:
 	.string "AZALEA TOWN\n"
-	.string "Where People and POKéMON Live in\l"
+	.string "Where People and MOéMON Live in\l"
 	.string "Happy Harmony.$"
 
 AzaleaTown_Text_KurtsHouseSign:
@@ -430,9 +430,9 @@ AzaleaTown_Text_KurtsHouseSign:
 
 AzaleaTown_Text_GymSign:
 	.string "AZALEA TOWN\n"
-	.string "POKéMON GYM\p"
+	.string "MOéMON GYM\p"
 	.string "LEADER: BUGSY\p"
-	.string "The Walking Bug POKéMON\n"
+	.string "The Walking Bug MOéMON\n"
 	.string "Encyclopedia$"
 
 AzaleaTown_Text_SlowpokeWellSign:

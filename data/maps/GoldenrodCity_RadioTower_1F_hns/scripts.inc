@@ -174,14 +174,14 @@ RadioTower1F_Text_RadioCardWomanOfferQuiz:
     .string "We have a special QUIZ campaign on\n"
     .string "right now.\p"
     .string "Answer five questions correctly to\n"
-    .string "win a POKéGEAR RADIO CARD.\p"
-    .string "You and your POKéMON can use it to\n"
+    .string "win a MOéGEAR RADIO CARD.\p"
+    .string "You and your MOéMON can use it to\n"
     .string "play music anytime, anywhere.\p"
     .string "Would you like to take the QUIZ?$"
 
 RadioTower1F_Text_QuizQuestion1:
     .string "Question 1:\p"
-    .string "Is there a POKéMON that appears only\n"
+    .string "Is there a MOéMON that appears only\n"
     .string "in the daytime?$"
 
 RadioTower1F_Text_QuizQuestion2:
@@ -193,14 +193,14 @@ RadioTower1F_Text_QuizQuestion2:
 RadioTower1F_Text_QuizQuestion3:
     .string "Bull's-eye!\n"
     .string "Question 3:\p"
-    .string "KURT, the POKéBALL creator, uses\n"
+    .string "KURT, the MOéBALL creator, uses\n"
 	.string "apricorns as ingredients?$"
 
 RadioTower1F_Text_QuizQuestion4:
     .string "So far so good!\n"
     .string "Question 4:\p"
     .string "Is FALKNER the VIOLET GYM LEADER\n"
-    .string "who uses bird POKéMON?$"
+    .string "who uses bird MOéMON?$"
 
 RadioTower1F_Text_QuizQuestion5:
     .string "Wow! Right again!\n"
@@ -214,7 +214,7 @@ RadioTower1F_Text_QuizWin:
     .string "Here's your prize, a RADIO CARD!$"
 
 RadioTower1F_Text_PokegearRadio:
-    .string "{PLAYER}'s POKéGEAR can now double as\n"
+    .string "{PLAYER}'s MOéGEAR can now double as\n"
     .string "a RADIO!$"
 
 RadioTower1F_Text_TuneIn:
@@ -234,7 +234,7 @@ RadioTower1F_Text_Lass:
     .string "His sweet voice makes me melt!$"
 
 RadioTower1F_Text_Youngster:
-    .string "I love MARY, from POKéMON TALK.\p"
+    .string "I love MARY, from MOéMON TALK.\p"
     .string "I only know what she sounds like,\n"
     .string "though.$"
 
@@ -262,7 +262,7 @@ RadioTower1F_Text_Directory:
 
 RadioTower1F_Text_GotRadio:
 	.string "{PLAYER} got the RADIO CARD\n"
-	.string "for the POKéGEAR!$"
+	.string "for the MOéGEAR!$"
 
 GoldenrodCity_RadioTower_1F_EventScript_LotteryClerk::
 	lock
@@ -368,11 +368,11 @@ GoldenrodCity_RadioTower_1F_EventScript_GivePrizeFromEarlier::
 	end
 
 GoldenrodCity_RadioTower_1F_Text_LotteryCornerDrawTicket:
-	.string "This is the POKéMON LOTTERY CORNER.\p"
+	.string "This is the MOéMON LOTTERY CORNER.\p"
 	.string "If the LOTO TICKET's number matches\n"
-	.string "the ID number of any of your POKéMON,\l"
+	.string "the ID number of any of your MOéMON,\l"
 	.string "you will receive a fabulous gift.\p"
-	.string "Would you like to draw a POKéMON\n"
+	.string "Would you like to draw a MOéMON\n"
 	.string "LOTO TICKET?$"
 
 GoldenrodCity_RadioTower_1F_Text_ComeBackTomorrow:
@@ -389,7 +389,7 @@ GoldenrodCity_RadioTower_1F_Text_TicketNumberIsXPleaseWait:
 	.string "The LOTO TICKET number is {STR_VAR_1}.\p"
 	.string "I need to run a check on this number\n"
 	.string "to see if it matches any of your\l"
-	.string "POKéMON's ID numbers. Please wait.$"
+	.string "MOéMON's ID numbers. Please wait.$"
 
 GoldenrodCity_RadioTower_1F_Text_TicketMatchesPartyMon:
 	.string "Congratulations!\p"

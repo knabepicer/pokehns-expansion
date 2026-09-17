@@ -177,7 +177,7 @@ SSAqua_B1F_EventScript_Kenneth::
 
 SSAqua_B1F_Text_SailorKennethSeen:
 	.string "I'm a sailor man!\p"
-	.string "But I'm training POKéMON, so I\n"
+	.string "But I'm training MOéMON, so I\n"
 	.string "can become the CHAMP!$"
 
 SSAqua_B1F_Text_SailorKennethBeaten:

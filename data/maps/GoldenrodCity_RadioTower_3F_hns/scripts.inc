@@ -143,19 +143,19 @@ GoldenrodCity_RadioTower_3F_Text_PersonnelSign:
 	.string "3F PERSONNEL$"
 
 GoldenrodCity_RadioTower_3F_Text_PokemonMusicSign:
-	.string "POKéMON MUSIC with Host DJ BEN$"
+	.string "MOéMON MUSIC with Host DJ BEN$"
 
 GoldenrodCity_RadioTower_3F_Text_SuperNerd:
 	.string "We have recordings of the cries\n"
-	.string "of all POKéMON that have been\l"
+	.string "of all MOéMON that have been\l"
 	.string "found.\p"
 	.string "We must have about 400 kinds.$"
 
 GoldenrodCity_RadioTower_3F_Text_GymGuideRockets:
-	.string "To trainers, POKéMON are their\n"
+	.string "To trainers, MOéMON are their\n"
 	.string "beloved partners.\p"
 	.string "It's terrible how TEAM ROCKET is\n"
-	.string "trying to control POKéMON.$"
+	.string "trying to control MOéMON.$"
 
 GoldenrodCity_RadioTower_3F_Text_GymGuide:
 	.string "We run 24 hours a day to broadcast\n"
@@ -198,7 +198,7 @@ GoldenrodCity_RadioTower_3F_Text_GruntM7After:
 	.string "ARCHER will be so upset...$"
 
 GoldenrodCity_RadioTower_3F_Text_GruntM8Seen:
-	.string "It feels great ordering POKéMON\n"
+	.string "It feels great ordering MOéMON\n"
 	.string "to commit crimes.$"
 
 GoldenrodCity_RadioTower_3F_Text_GruntM8Beaten:
@@ -206,7 +206,7 @@ GoldenrodCity_RadioTower_3F_Text_GruntM8Beaten:
 
 GoldenrodCity_RadioTower_3F_Text_GruntM8After:
 	.string "I feel lousy over losing!\p"
-	.string "Darn it! I hate useless POKéMON!$"
+	.string "Darn it! I hate useless MOéMON!$"
 
 GoldenrodCity_RadioTower_3F_Text_GruntM9Seen:
 	.string "Why did the shutter open? Did you\n"

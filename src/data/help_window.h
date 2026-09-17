@@ -18,7 +18,7 @@ const struct HelpWindow gHelpWindowInfo[] =
     {
         .header = COMPOUND_STRING("Information: More Options"),
         .desc = COMPOUND_STRING("The clock can be changed from any\n"
-                                "POKéMON CENTER with no penalty.\n"
+                                "MOéMON CENTER with no penalty.\n"
                                 "Make sure to check your BAG's KEY ITEMS\n"
                                 "and your OPTIONS MENU for even more\n"
                                 "ways to customize your experience.\n"
@@ -47,10 +47,10 @@ const struct HelpWindow gHelpWindowInfo[] =
     {
         .header = COMPOUND_STRING("OPTIONAL BONUS CONTENT: TELEPORTER"),
         .desc = COMPOUND_STRING("The TELEPORTER can PERMANENTLY change\n"
-                                "POKéMON into their GALARIAN forms.\n"
+                                "MOéMON into their GALARIAN forms.\n"
                                 "GALARIAN forms are NOT required\n"
                                 "for story progression or\n"
-                                "NATIONAL POKéDEX completion.\n"
+                                "NATIONAL MOéDEX completion.\n"
                             ),
         .headerFont = FONT_NORMAL,
         .descFont = FONT_NORMAL,
@@ -62,7 +62,7 @@ const struct HelpWindow gHelpWindowInfo[] =
         .desc = COMPOUND_STRING("This NPC grants access to optional\n"
                                 "bonus content: SINJOH.\n"
                                 "It is NOT required for story\n"
-                                "or NATIONAL POKéDEX completion.\n"
+                                "or NATIONAL MOéDEX completion.\n"
                                 "\n"
                                 "It's just a bonus. If you want it."
                             ),
@@ -76,7 +76,7 @@ const struct HelpWindow gHelpWindowInfo[] =
         .desc = COMPOUND_STRING("This NPC grants access to optional\n"
                                 "bonus content: ISLES.\n"
                                 "It is NOT required for story\n"
-                                "or NATIONAL POKéDEX completion.\n"
+                                "or NATIONAL MOéDEX completion.\n"
                                 "\n"
                                 "It's just a bonus. If you want it."
                             ),
@@ -86,7 +86,7 @@ const struct HelpWindow gHelpWindowInfo[] =
     },
     [HELP_DAYCARE1_WINDOW] =
     {
-        .header = COMPOUND_STRING("BABY POKéMON ABILITIES"),
+        .header = COMPOUND_STRING("BABY MOéMON ABILITIES"),
         .desc = COMPOUND_STRING("PICHU's ability is STATIC.\n"
                                 "CLEFFA's ability is CUTE CHARM.\n"
                                 "IGGLYBUFF's ability is CUTE CHARM.\n"
@@ -101,7 +101,7 @@ const struct HelpWindow gHelpWindowInfo[] =
     },
     [HELP_DAYCARE2_WINDOW] =
     {
-        .header = COMPOUND_STRING("BABY POKéMON TYPES"),
+        .header = COMPOUND_STRING("BABY MOéMON TYPES"),
         .desc = COMPOUND_STRING("PICHU is ELECTRIC type.\n"
                                 "CLEFFA is NORMAL type.\n"
                                 "IGGLYBUFF is NORMAL type.\n"
@@ -116,7 +116,7 @@ const struct HelpWindow gHelpWindowInfo[] =
     },
     [HELP_DAYCARE3_WINDOW] =
     {
-        .header = COMPOUND_STRING("BABY POKéMON CRIES"),
+        .header = COMPOUND_STRING("BABY MOéMON CRIES"),
         .desc = COMPOUND_STRING("PICHU says WAAAH.\n"
                                 "CLEFFA says EEK.\n"
                                 "IGGLYBUFF says LALALA.\n"
@@ -131,7 +131,7 @@ const struct HelpWindow gHelpWindowInfo[] =
     },
     [HELP_DAYCARE4_WINDOW] =
     {
-        .header = COMPOUND_STRING("BABY POKéMON ACTIONS"),
+        .header = COMPOUND_STRING("BABY MOéMON ACTIONS"),
         .desc = COMPOUND_STRING("PICHU likes to PLAY all day.\n"
                                 "CLEFFA LOOKS at the moon.\n"
                                 "IGGLYBUFF puts them to SLEEP.\n"
@@ -146,15 +146,15 @@ const struct HelpWindow gHelpWindowInfo[] =
     },
     [HELP_POKEBLOCK_WINDOW] =
     {
-        .header = COMPOUND_STRING("FEEDERS: REGULAR POKéBLOCKS"),
-        .desc = COMPOUND_STRING("POKéBLOCK colors attract perfect IVs:\n"
+        .header = COMPOUND_STRING("FEEDERS: REGULAR MOéBLOCKS"),
+        .desc = COMPOUND_STRING("MOéBLOCK colors attract perfect IVs:\n"
                                 "RED: HP,ATK,SPE   BLU: HP,SPA,SPE\n"
                                 "PNK: ATK,SPA,SPE  GRN: HP,DEF,SPD\n"
                                 "YEL: HP,ATK,DEF   PUR: ATK,DEF,SPD\n"
                                 "IND: HP,SPA,SPD   BRN: DEF,SPE,SPD\n"
                                 "LBL: SPA,SPE,SPD  OLV: ATK,DEF,SPE\n"
                                 "GRY: HP,ATK,SPA\n"
-                                "Every POKéBLOCK attracts HIDDEN ABILITY."
+                                "Every MOéBLOCK attracts HIDDEN ABILITY."
 
                             ),
         .headerFont = FONT_NORMAL,
@@ -163,14 +163,14 @@ const struct HelpWindow gHelpWindowInfo[] =
     },
     [HELP_GOLD_POKEBLOCK_WINDOW] =
     {
-        .header = COMPOUND_STRING("FEEDERS: GOLD POKéBLOCKS"),
-        .desc = COMPOUND_STRING("GOLD POKéBLOCKS attract POKéMON with\n"
+        .header = COMPOUND_STRING("FEEDERS: GOLD MOéBLOCKS"),
+        .desc = COMPOUND_STRING("GOLD MOéBLOCKS attract MOéMON with\n"
                                 "5 perfect IVs. Flavor determines which\n"
                                 "IV is not perfect.\n"
                                 "SPICY: no SP.ATK    DRY:    no ATTACK\n"
                                 "SWEET: no SP.DEF   BITTER: no SPEED\n"
                                 "SOUR:  no HP\n"
-                                "Every POKéBLOCK attracts HIDDEN ABILITY."
+                                "Every MOéBLOCK attracts HIDDEN ABILITY."
                             ),
         .headerFont = FONT_NORMAL,
         .descFont = FONT_SMALL,

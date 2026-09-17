@@ -69,8 +69,8 @@ ViridianForest_EventScript_Bugsy::
 
 ViridianForest_Text_Bugsy:
 	.string "BUGSY: I came to KANTO to look for\n"
-	.string "BUG-TYPE POKéMON, so I can become\l"
-	.string "a stronger BUG-TYPE POKéMON\l"
+	.string "BUG-TYPE MOéMON, so I can become\l"
+	.string "a stronger BUG-TYPE MOéMON\l"
 	.string "TRAINER!\p"
     .string "If you're ready for another match,\n"
     .string "I'll be at the DOJO in SAFFRON!$"

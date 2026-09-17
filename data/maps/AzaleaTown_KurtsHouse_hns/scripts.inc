@@ -272,7 +272,7 @@ KurtsHouse_Text_KurtMakingBallsMustWait:
 	.string "Ah, don't worry.\p"
 	.string "I'll tell you anyhow.\p"
 	.string "TEAM ROCKET's an evil gang that\n"
-	.string "uses POKéMON for their dirty work.\p"
+	.string "uses MOéMON for their dirty work.\p"
 	.string "They're supposed to have disbanded\n"
 	.string "three years ago.\p"
 	.string "Anyway, they're at the WELL,\n"
@@ -296,11 +296,11 @@ KurtsHouse_Text_KurtBallsFromApricorns:
 	.string "KURT: I make BALLS from BERRIES.\p"
 	.string "Collect them from trees and bring\n"
 	.string "'em to me.\p"
-	.string "I'll make POKé BALLS out of them.$"
+	.string "I'll make MOé BALLS out of them.$"
 
 KurtsHouse_Text_KurtAskYouHaveAnApricorn:
 	.string "KURT: You have BERRIES for me?\p"
-	.string "Fine! I'll turn them into POKé BALLS.$"
+	.string "Fine! I'll turn them into MOé BALLS.$"
 
 KurtsHouse_Text_KurtThatsALetdown:
 	.string "KURT: I don't see any {STR_VAR_1}s!$"
@@ -323,12 +323,12 @@ KurtsHouse_Text_KurtObtainedSingular:
 
 KurtsHouse_Text_KurtTurnedOutGreat:
 	.string "KURT: That turned out great.\p"
-	.string "Try catching POKéMON with it.$"
+	.string "Try catching MOéMON with it.$"
 
 KurtsHouse_Text_KurtWhatIsThat:
 	.string "Wh-what is that?\p"
 	.string "I've never seen one before.\p"
-	.string "It looks a like a POKé BALL, but\n"
+	.string "It looks a like a MOé BALL, but\n"
 	.string "it appears to be something else.\p"
 	.string "Let me check it for you.$"
 
@@ -361,7 +361,7 @@ KurtsHouse_Text_GranddaughterSlowpokeBack:
 
 KurtsHouse_Text_GranddaughterDad:
 	.string "Dad works at SILPH where\n"
-	.string "he studies POKé BALLS.\p"
+	.string "he studies MOé BALLS.\p"
 	.string "I have to stay home\n"
 	.string "with Grandpa and SLOWPOKE.$"
 

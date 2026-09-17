@@ -641,7 +641,7 @@ GoldenrodCity_GameCorner_Text_CooltrainerF:
     .string "I won't quit until I win!$"
 
 GoldenrodCity_GameCorner_Text_Gentleman:
-    .string "I taught ICE BEAM to my POKéMON.\p"
+    .string "I taught ICE BEAM to my MOéMON.\p"
     .string "It was hard to get enough coins for\n"
     .string "it, but it was worth it.$"
 

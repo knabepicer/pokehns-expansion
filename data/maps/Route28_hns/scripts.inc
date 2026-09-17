@@ -76,12 +76,12 @@ Route28_Text_Scientist:
 	.string "Yes, I've found several artifacts,\n"
 	.string "but no sign of the AZURE FLUTE.\p"
 	.string "It may be inside the MOUNTAIN, but\n"
-	.string "the wild POKéMON here are strong,\l"
+	.string "the wild MOéMON here are strong,\l"
 	.string "and my team needs some rest...\p"
 	.string "..................\p"
 	.string "You're breaking up...\l"
 	.string "Boss....?\p"
-	.string "I'm going to the POKéMON CENTER.\p"
+	.string "I'm going to the MOéMON CENTER.\p"
 	.string "I'll call back if I find the FLUTE.$"
 
 Route28_Text_Scientist2:

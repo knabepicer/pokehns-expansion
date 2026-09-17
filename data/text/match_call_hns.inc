@@ -5,7 +5,7 @@
 MatchCall_HNS_Joey_General1::
 	.string "Yo, {PLAYER}!\n"
 	.string "How're you doing?\p"
-	.string "How are your POKéMON doing?\p"
+	.string "How are your MOéMON doing?\p"
 	.string "My {STR_VAR_3}'s raring to go,\n"
 	.string "just like always.\p"
 	.string "It's the only one I have.\n"
@@ -17,7 +17,7 @@ MatchCall_HNS_Joey_General2::
 	.string "Got a minute?\p"
 	.string "My {STR_VAR_3}'s looking\n"
 	.string "sharper than before!\p"
-	.string "I doubt there's a POKéMON\n"
+	.string "I doubt there's a MOéMON\n"
 	.string "as cool as this guy in\l"
 	.string "your party!$"
 
@@ -40,11 +40,11 @@ MatchCall_HNS_Joey_Battle::
 @ Wade - Bug Catcher, Route 31
 MatchCall_HNS_Wade_General1::
 	.string "{PLAYER}, howdy!\p"
-	.string "How are your POKéMON doing?\p"
-	.string "My POKéMON have too much\n"
+	.string "How are your MOéMON doing?\p"
+	.string "My MOéMON have too much\n"
 	.string "energy to burn.\p"
 	.string "It gets to be a problem.\p"
-	.string "Of all my POKéMON,\n"
+	.string "Of all my MOéMON,\n"
 	.string "{STR_VAR_3} is the hardest\l"
 	.string "to handle.\p"
 	.string "Working with it is\n"
@@ -53,8 +53,8 @@ MatchCall_HNS_Wade_General1::
 MatchCall_HNS_Wade_General2::
 	.string "{PLAYER}, howdy!\n"
 	.string "Isn't it nice out?\p"
-	.string "Are your POKéMON growing?\p"
-	.string "My POKéMON are growing a\n"
+	.string "Are your MOéMON growing?\p"
+	.string "My MOéMON are growing a\n"
 	.string "bit too quickly for me.\l"
 	.string "It's overwhelming!\p"
 	.string "{STR_VAR_3}'s growing\n"
@@ -81,7 +81,7 @@ MatchCall_HNS_Wade_FoundItem::
 
 MatchCall_HNS_Wade_Battle::
 	.string "{PLAYER}, howdy!\p"
-	.string "Do you feel like a POKéMON\n"
+	.string "Do you feel like a MOéMON\n"
 	.string "battle?\p"
 	.string "It won't be like last\n"
 	.string "time!$"
@@ -91,7 +91,7 @@ MatchCall_HNS_Ralph_General1::
 	.string "Hey, {PLAYER}!\n"
 	.string "How's the fishing?\p"
 	.string "Are you taking good care of\n"
-	.string "your POKéMON?\p"
+	.string "your MOéMON?\p"
 	.string "You have to be good to\n"
 	.string "your partners!$"
 
@@ -125,9 +125,9 @@ MatchCall_HNS_Liz_General1::
 	.string "I had some time, so I\l"
 	.string "called you.\p"
 	.string "So anyway, how are your\n"
-	.string "POKéMON?\p"
+	.string "MOéMON?\p"
 	.string "Me, I take my {STR_VAR_3}\n"
-	.string "to the POKéMON CENTER in\l"
+	.string "to the MOéMON CENTER in\l"
 	.string "VIOLET every day,\p"
 	.string "so it's doing just\n"
 	.string "fantastic!\p"
@@ -162,7 +162,7 @@ MatchCall_HNS_Liz_Battle::
 @ Anthony - Hiker, Route 33
 MatchCall_HNS_Anthony_General1::
 	.string "Hey there, {PLAYER}!\p"
-	.string "Are your POKéMON as feisty\n"
+	.string "Are your MOéMON as feisty\n"
 	.string "as ever?\p"
 	.string "My {STR_VAR_3} and me--we\n"
 	.string "have energy to burn.\p"
@@ -200,7 +200,7 @@ MatchCall_HNS_Todd_General1::
 	.string "Hey, {PLAYER}!\n"
 	.string "What's up?\p"
 	.string "How do you raise your\n"
-	.string "POKéMON?\p"
+	.string "MOéMON?\p"
 	.string "I do all sorts of things,\n"
 	.string "like leaving them in\l"
 	.string "DAY-CARE and\p"
@@ -232,7 +232,7 @@ MatchCall_HNS_Todd_Battle::
 MatchCall_HNS_Gina_General1::
 	.string "Hi, {PLAYER}!\n"
 	.string "How are you?\p"
-	.string "Are your POKéMON still\n"
+	.string "Are your MOéMON still\n"
 	.string "tough?\p"
 	.string "I train every day\n"
 	.string "with {STR_VAR_3}.$"
@@ -294,7 +294,7 @@ MatchCall_HNS_Irwin_Battle::
 MatchCall_HNS_Arnie_General1::
 	.string "Hey, {PLAYER}!\n"
 	.string "How's it going?\p"
-	.string "I bet your POKéMON are a\n"
+	.string "I bet your MOéMON are a\n"
 	.string "lot stronger than before.$"
 
 MatchCall_HNS_Arnie_General2::
@@ -324,9 +324,9 @@ MatchCall_HNS_Alan_General1::
 	.string "Hi, {PLAYER}!\n"
 	.string "It's ALAN!\p"
 	.string "{PLAYER}, are you raising\n"
-	.string "your POKéMON properly?\p"
+	.string "your MOéMON properly?\p"
 	.string "I read in a book that you\n"
-	.string "should raise any POKéMON\l"
+	.string "should raise any MOéMON\l"
 	.string "you catch with love and\l"
 	.string "care.$"
 
@@ -368,7 +368,7 @@ MatchCall_HNS_Dana_General1::
 	.string "My {STR_VAR_3} is so full\n"
 	.string "of energy, it's a little\l"
 	.string "scary.\p"
-	.string "How are your POKéMON\n"
+	.string "How are your MOéMON\n"
 	.string "doing?$"
 
 MatchCall_HNS_Dana_General2::
@@ -408,15 +408,15 @@ MatchCall_HNS_Dana_Battle::
 MatchCall_HNS_Chad_General1::
 	.string "Hello, {PLAYER}!\n"
 	.string "It's CHAD!\p"
-	.string "How are your POKéMON\n"
+	.string "How are your MOéMON\n"
 	.string "doing?\p"
 	.string "You know PROF. OAK, so of\n"
-	.string "course your POKéMON are\l"
+	.string "course your MOéMON are\l"
 	.string "fine!\p"
-	.string "My POKéMON are doing well\n"
+	.string "My MOéMON are doing well\n"
 	.string "too.\p"
 	.string "But then, I am trying to\n"
-	.string "become a POKéMON\l"
+	.string "become a MOéMON\l"
 	.string "professor.$"
 
 MatchCall_HNS_Chad_General2::
@@ -428,7 +428,7 @@ MatchCall_HNS_Chad_General2::
 	.string "sorts of new things\l"
 	.string "through my observations.\p"
 	.string "I wish I could become a\n"
-	.string "POKéMON researcher like\l"
+	.string "MOéMON researcher like\l"
 	.string "PROF. OAK soon.$"
 
 MatchCall_HNS_Chad_General3::
@@ -537,21 +537,21 @@ MatchCall_HNS_Brent_General1::
 	.string "Hey, {PLAYER}!\n"
 	.string "It's BRENT!\p"
 	.string "Oh yeah, I saw you coming\n"
-	.string "out of a POKéMON CENTER\l"
+	.string "out of a MOéMON CENTER\l"
 	.string "the other day.\p"
-	.string "You heal your POKéMON\n"
+	.string "You heal your MOéMON\n"
 	.string "regularly, don't you?\l"
 	.string "I'm impressed.\p"
 	.string "Heh, my {STR_VAR_3} is\n"
 	.string "so tough, it doesn't need\l"
-	.string "to go to POKéMON CENTERS\l"
+	.string "to go to MOéMON CENTERS\l"
 	.string "often. Heheh!$"
 
 MatchCall_HNS_Brent_General2::
 	.string "Hey, {PLAYER}!\n"
 	.string "It's BRENT!\p"
 	.string "Oh yeah, I got an\n"
-	.string "extremely rare POKéMON in\l"
+	.string "extremely rare MOéMON in\l"
 	.string "a trade a while back.\p"
 	.string "Do you want to know what\n"
 	.string "it is?\p"
@@ -577,14 +577,14 @@ MatchCall_HNS_Brent_Battle::
 MatchCall_HNS_Tiffany_General1::
 	.string "Hi, {PLAYER}!\n"
 	.string "It's TIFFANY!\p"
-	.string "Are your POKéMON doing\n"
+	.string "Are your MOéMON doing\n"
 	.string "well?\p"
 	.string "I hope you take them to a\n"
-	.string "POKéMON CENTER every day.\p"
+	.string "MOéMON CENTER every day.\p"
 	.string "Don't push them too hard.\p"
 	.string "My {STR_VAR_3} is cute and\n"
 	.string "lively precisely because I\l"
-	.string "take it to a POKéMON\l"
+	.string "take it to a MOéMON\l"
 	.string "CENTER every day.$"
 
 MatchCall_HNS_Tiffany_General2::
@@ -617,12 +617,12 @@ MatchCall_HNS_Tiffany_Battle::
 MatchCall_HNS_Vance_General1::
 	.string "Hey, {PLAYER}!\n"
 	.string "It's VANCE!\p"
-	.string "Are you and your POKéMON\n"
+	.string "Are you and your MOéMON\n"
 	.string "fine?\p"
 	.string "My {STR_VAR_3} looks like\n"
 	.string "it will get tough enough\p"
 	.string "to face and beat the\n"
-	.string "legendary bird POKéMON!$"
+	.string "legendary bird MOéMON!$"
 
 MatchCall_HNS_Vance_General2::
 	.string "Hey, {PLAYER}!\n"
@@ -649,7 +649,7 @@ MatchCall_HNS_Vance_Battle::
 MatchCall_HNS_Wilton_General1::
 	.string "Hey, {PLAYER}!\n"
 	.string "It's WILTON!\p"
-	.string "Have your POKéMON grown\n"
+	.string "Have your MOéMON grown\n"
 	.string "any?\p"
 	.string "My {STR_VAR_3} has grown\n"
 	.string "quite a bit.$"
@@ -669,7 +669,7 @@ MatchCall_HNS_Wilton_General3::
 	.string "{STR_VAR_3}…\p"
 	.string "You know, I have more fun\n"
 	.string "fishing than beating wild\l"
-	.string "POKéMON.$"
+	.string "MOéMON.$"
 
 MatchCall_HNS_Wilton_FoundItem::
 	.string "Hey, {PLAYER}!\n"
@@ -728,7 +728,7 @@ MatchCall_HNS_Kenji_FoundItem::
 MatchCall_HNS_Parry_General1::
 	.string "Hey, {PLAYER}!\n"
 	.string "It's PARRY!\p"
-	.string "Are your POKéMON looking\n"
+	.string "Are your MOéMON looking\n"
 	.string "good?\p"
 	.string "My {STR_VAR_3} and me--\n"
 	.string "we're looking mighty\l"
@@ -759,7 +759,7 @@ MatchCall_HNS_Erin_General1::
 	.string "Hi, {PLAYER}!\n"
 	.string "It's ERIN!\p"
 	.string "Are you raising your\n"
-	.string "POKéMON?\p"
+	.string "MOéMON?\p"
 	.string "My {STR_VAR_3} is looking\n"
 	.string "good!$"
 
@@ -774,14 +774,14 @@ MatchCall_HNS_Erin_General3::
 	.string "It's ERIN!\p"
 	.string "And, and… I just battled\n"
 	.string "and beat {STR_VAR_3}!\p"
-	.string "I've raised my POKéMON\n"
+	.string "I've raised my MOéMON\n"
 	.string "properly!$"
 
 MatchCall_HNS_Erin_Battle::
 	.string "Hi, {PLAYER}!\n"
 	.string "It's ERIN!\p"
 	.string "I'm working hard to raise\n"
-	.string "my POKéMON!\p"
+	.string "my MOéMON!\p"
 	.string "Come back for another\n"
 	.string "battle!$"
 
@@ -789,7 +789,7 @@ MatchCall_HNS_Erin_Battle::
 MatchCall_HNS_Jack_General1::
 	.string "Hey, {PLAYER}!\n"
 	.string "It's JACK!\p"
-	.string "How are your POKéMON\n"
+	.string "How are your MOéMON\n"
 	.string "doing?\p"
 	.string "My {STR_VAR_3} is so\n"
 	.string "curious, it's a problem.\p"
@@ -824,7 +824,7 @@ MatchCall_HNS_Jack_Battle::
 MatchCall_HNS_Beverly_General1::
 	.string "Hello, {PLAYER}!\n"
 	.string "It's BEVERLY!\p"
-	.string "Keeping your POKéMON\n"
+	.string "Keeping your MOéMON\n"
 	.string "happy?\p"
 	.string "My {STR_VAR_3} is healthy.\n"
 	.string "It eats a lot every day.$"
@@ -839,9 +839,9 @@ MatchCall_HNS_Beverly_General2::
 MatchCall_HNS_Beverly_General3::
 	.string "Hello, {PLAYER}!\n"
 	.string "It's BEVERLY!\p"
-	.string "Are your POKéMON in prime\n"
+	.string "Are your MOéMON in prime\n"
 	.string "form?\p"
-	.string "Let's chat about POKéMON\n"
+	.string "Let's chat about MOéMON\n"
 	.string "again.$"
 
 MatchCall_HNS_Beverly_FoundItem::
@@ -887,12 +887,12 @@ MatchCall_HNS_Huey_Battle::
 MatchCall_HNS_Gaven_General1::
 	.string "Hey, {PLAYER}!\n"
 	.string "It's GAVEN!\p"
-	.string "How are your POKéMON\n"
+	.string "How are your MOéMON\n"
 	.string "doing?\p"
 	.string "My {STR_VAR_3}'s doing as\n"
 	.string "great as ever.\p"
 	.string "Let's keep at it and\n"
-	.string "become POKéMON CHAMPS!$"
+	.string "become MOéMON CHAMPS!$"
 
 MatchCall_HNS_Gaven_General2::
 	.string "Hey, {PLAYER}!\n"
@@ -900,7 +900,7 @@ MatchCall_HNS_Gaven_General2::
 	.string "My {STR_VAR_3} might be\n"
 	.string "greater than I imagined.\p"
 	.string "I doubt I'll see a\n"
-	.string "POKéMON that's better\l"
+	.string "MOéMON that's better\l"
 	.string "than mine.$"
 
 MatchCall_HNS_Gaven_General3::
@@ -920,12 +920,12 @@ MatchCall_HNS_Beth_General1::
 	.string "Hi, {PLAYER}!\n"
 	.string "It's BETH!\p"
 	.string "Are you the kind of person\n"
-	.string "who goes to POKéMON\l"
+	.string "who goes to MOéMON\l"
 	.string "CENTERS often?\p"
 	.string "I go every day. Watching\n"
 	.string "out for the health of your\l"
-	.string "POKéMON is a basic part of\l"
-	.string "being a POKéMON trainer.$"
+	.string "MOéMON is a basic part of\l"
+	.string "being a MOéMON trainer.$"
 
 MatchCall_HNS_Beth_General2::
 	.string "Hi, {PLAYER}!\n"
@@ -954,7 +954,7 @@ MatchCall_HNS_Beth_Battle::
 MatchCall_HNS_Jose_General1::
 	.string "Hey, {PLAYER}!\n"
 	.string "It's JOSE!\p"
-	.string "Are your POKéMON still\n"
+	.string "Are your MOéMON still\n"
 	.string "cooking?\p"
 	.string "My {STR_VAR_3} has too\n"
 	.string "much energy.\p"
@@ -1004,10 +1004,10 @@ MatchCall_HNS_Jose_Battle::
 MatchCall_HNS_Reena_General1::
 	.string "Hello, {PLAYER}.\n"
 	.string "It's REENA.\p"
-	.string "Hey, how are your POKéMON\n"
+	.string "Hey, how are your MOéMON\n"
 	.string "doing?\p"
 	.string "What? Great? I see…\p"
-	.string "What? My POKéMON?\p"
+	.string "What? My MOéMON?\p"
 	.string "Of course they're doing\n"
 	.string "great! What kind of a\l"
 	.string "question is that?$"
@@ -1041,7 +1041,7 @@ MatchCall_HNS_Reena_Battle::
 MatchCall_HNS_Alex_General1::
 	.string "Hey, {PLAYER}!\n"
 	.string "It's ALEX!\p"
-	.string "My regal POKéMON\n"
+	.string "My regal MOéMON\n"
 	.string "grow sharper by the day.\p"
 	.string "{STR_VAR_3} is getting\n"
 	.string "really tough!$"
@@ -1056,7 +1056,7 @@ MatchCall_HNS_Alex_General2::
 MatchCall_HNS_Alex_Battle::
 	.string "Hey, {PLAYER}!\n"
 	.string "It's ALEX!\p"
-	.string "My regal POKéMON are ready\n"
+	.string "My regal MOéMON are ready\n"
 	.string "for a rematch! Come to ROUTE 13!$"
 
 @ Riley - Biker, Route 17
@@ -1086,7 +1086,7 @@ MatchCall_HNS_Riley_Battle::
 MatchCall_HNS_Trevor_General1::
 	.string "Hi, {PLAYER}!\n"
 	.string "It's TREVOR.\p"
-	.string "Did you know POKéMON get\n"
+	.string "Did you know MOéMON get\n"
 	.string "friendlier when you train\l"
 	.string "in memorable places?\p"
 	.string "{STR_VAR_3} seems to\n"
@@ -1094,9 +1094,9 @@ MatchCall_HNS_Trevor_General1::
 
 MatchCall_HNS_Trevor_General2::
 	.string "Hi, {PLAYER}!\p"
-	.string "Some POKéMON moves\n"
+	.string "Some MOéMON moves\n"
 	.string "are stronger when your\p"
-	.string "POKéMON feels more\n"
+	.string "MOéMON feels more\n"
 	.string "friendly toward you!$"
 
 MatchCall_HNS_Trevor_Battle::
@@ -1120,7 +1120,7 @@ MatchCall_HNS_Kyle_Battle::
 	.string "Hey, {PLAYER}!\n"
 	.string "KYLE here.\p"
 	.string "I've reeled in some tough\n"
-	.string "new POKéMON!\p"
+	.string "new MOéMON!\p"
 	.string "Come to ROUTE 12 for\n"
 	.string "a battle!$"
 
@@ -1129,14 +1129,14 @@ MatchCall_HNS_Carter_General1::
 	.string "Hi there, {PLAYER}!\n"
 	.string "CARTER here.\p"
 	.string "I've been collecting rare\n"
-	.string "starter POKéMON.\p"
+	.string "starter MOéMON.\p"
 	.string "My {STR_VAR_3} is my\n"
 	.string "newest pride and joy!$"
 
 MatchCall_HNS_Carter_General2::
 	.string "Hi, {PLAYER}!\p"
 	.string "Did you know there are\n"
-	.string "starter POKéMON from many\l"
+	.string "starter MOéMON from many\l"
 	.string "different regions?\p"
 	.string "I want to collect them\n"
 	.string "all!$"
@@ -1162,7 +1162,7 @@ MatchCall_HNS_Hillary_General2::
 MatchCall_HNS_Hillary_Battle::
 	.string "Hello, {PLAYER}.\n"
 	.string "It's HILLARY.\p"
-	.string "My POKéMON have graduated\n"
+	.string "My MOéMON have graduated\n"
 	.string "to the next level!\p"
 	.string "Come test us on ROUTE 15!$"
 
@@ -1191,20 +1191,20 @@ MatchCall_HNS_Nicole_General1::
 	.string "Hi, {PLAYER}!\n"
 	.string "It's NICOLE!\p"
 	.string "The waves are great today!\n"
-	.string "My POKéMON love swimming\l"
+	.string "My MOéMON love swimming\l"
 	.string "in the open sea.\p"
 	.string "{STR_VAR_3} is getting\n"
 	.string "so fast!$"
 
 MatchCall_HNS_Nicole_General2::
 	.string "Hi, {PLAYER}!\p"
-	.string "Swimming with POKéMON is\n"
+	.string "Swimming with MOéMON is\n"
 	.string "the best exercise.$"
 
 MatchCall_HNS_Nicole_Battle::
 	.string "Hi, {PLAYER}!\n"
 	.string "It's NICOLE!\p"
-	.string "My water POKéMON are\n"
+	.string "My water MOéMON are\n"
 	.string "raring to battle!\p"
 	.string "Come to ROUTE 20!$"
 

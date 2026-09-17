@@ -114,7 +114,7 @@ CeladonGameCorner_Text_GymGuide:
 	.string "Hey! CHAMP in making!\p"
 	.string "Are you playing the slots too?\p"
 	.string "I'm trying to get enough coins for\n"
-	.string "a prize POKéMON.\p"
+	.string "a prize MOéMON.\p"
 	.string "But I don't have enough coins yet…$"
 
 CeladonGameCorner_Text_PokefanF:

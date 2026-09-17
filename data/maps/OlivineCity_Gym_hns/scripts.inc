@@ -214,7 +214,7 @@ OlivineCity_Gym_Text_GymGuideWinText:
 OlivineCity_Gym_Text_GymGuidePreText:
 	.string "JASMINE, the GYM LEADER, is at the\n"
 	.string "LIGHTHOUSE.\p"
-	.string "She's been tending to a sick POKéMON.\p"
+	.string "She's been tending to a sick MOéMON.\p"
 	.string "A strong trainer has to be\n"
 	.string "compassionate.$"
 
@@ -296,7 +296,7 @@ OlivineCity_Gym_Text_ReceivedMineralBadge:
 	.string "{PLAYER} received MINERALBADGE.$"
 
 OlivineCity_Gym_Text_JasmineBadgeSpeech:
-	.string "MINERALBADGE raises POKéMON's \n"
+	.string "MINERALBADGE raises MOéMON's \n"
 	.string "SPECIAL DEFENSE.\p"
 	.string "…Um… Please take this too…$"
 
@@ -334,10 +334,10 @@ OlivineCity_Gym_EventScript_Statue2::
 	end
 
 OlivineCity_Gym_Text_GymStatue:
-	.string "OLIVINE CITY POKéMON GYM$"
+	.string "OLIVINE CITY MOéMON GYM$"
 
 OlivineCity_Gym_Text_GymStatueCertified:
-	.string "OLIVINE CITY POKéMON GYM\p"
+	.string "OLIVINE CITY MOéMON GYM\p"
 	.string "JASMINE'S CERTIFIED TRAINERS:\n"
 	.string "{PLAYER}$"
 
@@ -376,7 +376,7 @@ OlivineCity_Gym_Text_JasmineWantToTrade:
 	.string "But I think RUSTY would be happier\n"
 	.string "with a trainer like you.\p"
 	.string "Would you trade any of your\n"
-	.string "POKéMON for my RUSTY?$"
+	.string "MOéMON for my RUSTY?$"
 
 OlivineCity_Gym_Text_JasmineTakeCare:
 	.string "…Thank you.\n"

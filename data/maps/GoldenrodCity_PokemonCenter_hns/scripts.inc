@@ -196,7 +196,7 @@ GoldenrodCity_PokemonCenter_GrannyText:
     .string "trainer, like you!$"
 
 GoldenrodCity_PokemonCenter_GameboyKidText1:
-    .string "This is a special POKéMON CENTER.\n"
+    .string "This is a special MOéMON CENTER.\n"
     .string "The roof is made of gold!$"
 
 GoldenrodCity_PokemonCenter_GameboyKidText2:
@@ -205,12 +205,12 @@ GoldenrodCity_PokemonCenter_GameboyKidText2:
 	.string "anything!$"
 
 GoldenrodCity_PokemonCenter_LassText:
-    .string "A higher level POKéMON doesn't\n"
+    .string "A higher level MOéMON doesn't\n"
     .string "always win.\p"
     .string "After all, it may have a type\n"
     .string "disadvantage.\p"
     .string "I don't think there is a single\n"
-    .string "POKéMON that is the toughest.$"
+    .string "MOéMON that is the toughest.$"
 
 GoldenrodPokeCenter_LinkReceptionistPleaseAcceptGSBallText:
     .string "{PLAYER}, isn't it?\p"

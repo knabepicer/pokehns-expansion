@@ -84,7 +84,7 @@ NewSinjoh_Text_FemAce:
 	.string "We don't have many modern\n"
 	.string "commodities in NEW SINJOH.\p"
 	.string "But at least we have this\n"
-	.string "POKéMON CENTER.$"
+	.string "MOéMON CENTER.$"
 
 
 NewSinjoh_PokemonCenter_hns_Text_0:

@@ -365,7 +365,7 @@ Route32_Text_CooltrainerM_AideIsWaiting:
 	.string "Some guy wearing glasses\p"
 	.string "was looking for you.\p"
 	.string "See for yourself. He's waiting for\n"
-	.string "you at the POKéMON CENTER.$"
+	.string "you at the MOéMON CENTER.$"
 
 Route32_Text_CooltrainerM_SproutTower:
 	.string "Have you gone to SPROUT TOWER?\n"
@@ -375,14 +375,14 @@ Route32_Text_CooltrainerM_SproutTower:
 	.string "Go to SPROUT TOWER!$"
 
 Route32_Text_CooltrainerM_VioletGym:
-	.string "Have you gone to the POKéMON GYM?\n"
-	.string "You can test your POKéMON and\p"
+	.string "Have you gone to the MOéMON GYM?\n"
+	.string "You can test your MOéMON and\p"
 	.string "yourself there.\n"
 	.string "It's a rite of passage for all\p"
 	.string "trainers!$"
 
 Route32_Text_CooltrainerM_HaveThisSeed:
-	.string "You have some good POKéMON there.\n"
+	.string "You have some good MOéMON there.\n"
 	.string "It must be from the training you\p"
 	.string "gave them around VIOLET CITY.\n"
 	.string "The training at the GYM must have\p"
@@ -419,11 +419,11 @@ Route32_Text_FisherJustin_Beaten:
 
 Route32_Text_FisherJustin_After:
 	.string "Calm, collected… The essence of\n"
-	.string "fishing and POKéMON is the same.$"
+	.string "fishing and MOéMON is the same.$"
 
 Route32_Text_FisherRalph1_Seen:
 	.string "I'm really good at both\n"
-	.string "fishing and POKéMON.\p"
+	.string "fishing and MOéMON.\p"
 	.string "I'm not about to lose to any kid!$"
 
 Route32_Text_FisherRalph1_Beaten:
@@ -433,16 +433,16 @@ Route32_Text_FisherRalph1_Beaten:
 Route32_Text_FisherRalph1_After:
 	.string "Fishing is a lifelong\n"
 	.string "passion.\p"
-	.string "POKéMON are lifelong friends!$"
+	.string "MOéMON are lifelong friends!$"
 
 Route32_Text_RalphRegister:
 	.string "Fishing is a lifelong\n"
 	.string "passion.\p"
-	.string "POKéMON are lifelong friends!$"
+	.string "MOéMON are lifelong friends!$"
 
 Route32_Text_RalphRematchIntro:
 	.string "I'm really good at both\n"
-	.string "fishing and POKéMON.\p"
+	.string "fishing and MOéMON.\p"
 	.string "I'm not about to lose to any kid!$"
 
 Route32_Text_RalphRematchDefeat:
@@ -452,16 +452,16 @@ Route32_Text_RalphRematchDefeat:
 Route32_Text_RalphPostRematch:
 	.string "Fishing is a lifelong\n"
 	.string "passion.\p"
-	.string "POKéMON are lifelong friends!$"
+	.string "MOéMON are lifelong friends!$"
 
 Route32_Text_FisherHenry_Seen:
-	.string "My POKéMON? Freshly caught!$"
+	.string "My MOéMON? Freshly caught!$"
 
 Route32_Text_FisherHenry_Beaten:
 	.string "SPLASH?$"
 
 Route32_Text_FisherHenry_After:
-	.string "Freshly caught POKéMON are\n"
+	.string "Freshly caught MOéMON are\n"
 	.string "no match for properly raised ones.$"
 
 Route32_Text_YoungsterAlbert_Seen:
@@ -475,10 +475,10 @@ Route32_Text_YoungsterAlbert_After:
 	.string "I'm going to try to be the\n"
 	.string "best with my favorites.\p"
 	.string "I'm not using the same tough\n"
-	.string "POKéMON as everyone else.$"
+	.string "MOéMON as everyone else.$"
 
 Route32_Text_YoungsterGordon_Seen:
-	.string "I found some good POKéMON\n"
+	.string "I found some good MOéMON\n"
 	.string "in the grass!\p"
 	.string "I think they'll do it for me!$"
 
@@ -544,7 +544,7 @@ Route32_Text_RoarIntro:
 
 Route32_Text_RoarOutro:
 	.string "WROOOOAR! IT'S ROAR!\p"
-	.string "EVEN POKéMON RUN FROM A GOOD\n"
+	.string "EVEN MOéMON RUN FROM A GOOD\n"
 	.string "ROAR!$"
 
 Route32_Text_MeetFrieda:
@@ -558,7 +558,7 @@ Route32_Text_FriedaGivesGift:
 	.string "Here's a POISON BARB for you!$"
 
 Route32_Text_FriedaGaveGift:
-	.string "FRIEDA: Give it to a POKéMON\n"
+	.string "FRIEDA: Give it to a MOéMON\n"
 	.string "that has POISON-type moves.\p"
 	.string "Oh!\p"
 	.string "It's wicked!\p"

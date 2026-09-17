@@ -13,7 +13,7 @@ VermilionPortPassage_Text_Teacher:
 
 VermilionPort_Text_SuperNerd:
 	.string "You came from JOHTO?\p"
-	.string "I hear many rare POKéMON live\n"
+	.string "I hear many rare MOéMON live\n"
 	.string "over there.$"
 
 VermilionPort_EventScript_Sailor::

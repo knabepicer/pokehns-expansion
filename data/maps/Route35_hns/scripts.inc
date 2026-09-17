@@ -109,7 +109,7 @@ Route35_EventScript_Item_ParalyzeHeal::
 	end
 
 Route35_Text_CamperIvanSeen:
-	.string "I've been getting POKéMON data off\n"
+	.string "I've been getting MOéMON data off\n"
 	.string "my radio. I think I'm good.$"
 
 Route35_Text_CamperIvanBeaten:
@@ -117,7 +117,7 @@ Route35_Text_CamperIvanBeaten:
 
 Route35_Text_CamperIvanAfter:
 	.string "Music on the radio changes the\n"
-	.string "moods of wild POKéMON.$"
+	.string "moods of wild MOéMON.$"
 
 Route35_Text_CamperElliotSeen:
 	.string "I'm gonna show my girlfriend I'm\n"
@@ -138,7 +138,7 @@ Route35_Text_PicnickerBrookeBeaten:
 	.string "Oh, my! You're so strong!$"
 
 Route35_Text_PicnickerBrookeAfter:
-	.string "I can count on my POKéMON more than\n"
+	.string "I can count on my MOéMON more than\n"
 	.string "my boyfriend.$"
 
 Route35_Text_PicnickerKimSeen:
@@ -158,7 +158,7 @@ Route35_Text_BirdKeeperBryanBeaten:
 	.string "Yikes! Not fast enough!$"
 
 Route35_Text_BirdKeeperBryanAfter:
-	.string "Some POKéMON flee right away.\p"
+	.string "Some MOéMON flee right away.\p"
 	.string "Try catching them with KURT's\n"
 	.string "FAST BALL.\p"
 	.string "Whenever I find a ASPEAR BERRY, I\n"
@@ -173,11 +173,11 @@ Route35_Text_JugglerIrwinBeaten:
 
 Route35_Text_JugglerIrwinAfter:
 	.string "I was going to dazzle you with my\n"
-	.string "prize POKéMON.\p"
+	.string "prize MOéMON.\p"
 	.string "But your prowess electrified me!$"
 
 Route35_Text_BugCatcherArnieSeen:
-	.string "I'll go anywhere if bug POKéMON\n"
+	.string "I'll go anywhere if bug MOéMON\n"
 	.string "appear there.$"
 
 Route35_Text_BugCatcherArnieBeaten:
@@ -189,7 +189,7 @@ Route35_Text_BugCatcherArnieAfter:
 
 Route35_Text_IrwinRegister:
 	.string "I was going to dazzle you with my\n"
-	.string "prize POKéMON.\p"
+	.string "prize MOéMON.\p"
 	.string "But your prowess electrified me!$"
 
 Route35_Text_ArnieRegister:
@@ -197,7 +197,7 @@ Route35_Text_ArnieRegister:
 	.string "Contest at the NATIONAL PARK.$"
 
 Route35_Text_ArnieRematchIntro:
-	.string "I'll go anywhere if bug POKéMON\n"
+	.string "I'll go anywhere if bug MOéMON\n"
 	.string "appear there.$"
 
 Route35_Text_ArnieRematchDefeat:
@@ -218,8 +218,8 @@ Route35_Text_FirebreatherWaltBeaten:
 	.string "Ow! I scorched the tip of my nose!$"
 
 Route35_Text_FirebreatherWaltAfter:
-	.string "The POKéMON March on the radio\n"
-	.string "lures wild POKéMON.$"
+	.string "The MOéMON March on the radio\n"
+	.string "lures wild MOéMON.$"
 
 Route35_Text_OfficerDirkSeen:
 	.string "Danger lurks in the night!$"
@@ -233,7 +233,7 @@ Route35_Text_OfficerDirkAfter:
 	.string "But don't overdo it, OK?$"
 
 Route35_Text_OfficerDirkTough:
-	.string "Your POKéMON look pretty tough.\p"
+	.string "Your MOéMON look pretty tough.\p"
 	.string "You could go anywhere safely.$"
 
 Route35_Text_Sign:

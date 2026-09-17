@@ -102,7 +102,7 @@ SaffronCity_Gym_Text_Sabrina_ExplainTM:
 
 SaffronCity_Gym_Text_SabrinaPostBattle:
 	.string "SABRINA: Your love for your\n"
-	.string "POKéMON overwhelmed my psychic\l"
+	.string "MOéMON overwhelmed my psychic\l"
 	.string "power…\p"
 	.string "The power of love, I think, is\n"
 	.string "also a kind of psychic power…$"
@@ -116,7 +116,7 @@ SaffronCity_Gym_Text_SabrinaRematch:
 
 SaffronCity_Gym_Text_SabrinaRematchDefeat:
 	.string "SABRINA: Your love for your\n"
-	.string "POKéMON again overwhelmed my\l"
+	.string "MOéMON again overwhelmed my\l"
 	.string "psychic power…$"
 
 SaffronCity_Gym_Text_MediumRebeccaSeen:
@@ -168,7 +168,7 @@ SaffronCity_Gym_Text_GymGuideIntro:
 	.string "Yo, CHAMP in making!\p"
 	.string "A trainer as skilled as you\n"
 	.string "doesn't need to be told how to\l"
-	.string "deal with PSYCHIC-type POKéMON,\l"
+	.string "deal with PSYCHIC-type MOéMON,\l"
 	.string "right?\p"
 	.string "I expect great things from you!\p"
 	.string "Good luck!$"
@@ -190,13 +190,13 @@ SaffronCity_Gym_EventScript_GymStatuePostVictory::
 
 
 SaffronCity_Gym_Text_GymStatue::
-    .string "SAFFRON POKéMON GYM\n"
+    .string "SAFFRON MOéMON GYM\n"
     .string "LEADER: SABRINA\p"
 	.string "WINNING TRAINERS:\n"
 	.string "BLUE, RED$"
 
 SaffronCity_Gym_Text_GymStatuePlayerWon::
-    .string "SAFFRON POKéMON GYM\n"
+    .string "SAFFRON MOéMON GYM\n"
     .string "LEADER: SABRINA\p"
     .string "WINNING TRAINERS:\n"
 	.string "BLUE, RED, {PLAYER}$"

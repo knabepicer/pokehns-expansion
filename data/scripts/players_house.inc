@@ -367,7 +367,7 @@ PlayersHouse_1F_EventScript_MomHealsParty_PokecenterChallenge::
 
 PlayersHouse_1F_Text_YouShouldRestABit_PokecenterChallenge:
 	.string "MOM: Sorry honey, you are playing\n"
-	.string "with the POKéCENTER challenge!$"
+	.string "with the MOéCENTER challenge!$"
 
 PlayersHouse_1F_EventScript_SeeYouHoney::
 	msgbox PlayersHouse_1F_Text_SeeYouHoney, MSGBOX_DEFAULT

@@ -310,16 +310,16 @@ Text_WantToSmash:
 	.string "Would you like to use ROCK SMASH?$"
 
 Text_CantSmash:
-	.string "It's a rugged rock, but a POKéMON\n"
+	.string "It's a rugged rock, but a MOéMON\n"
 	.string "may be able to smash it.$"
 
 Text_WantToHeadbutt:
-	.string "This tree may house POKéMON.\n"
+	.string "This tree may house MOéMON.\n"
 	.string "Would you like to use HEADBUTT?$"
 
 Text_CantHeadbutt:
 	.string "It's a small tree, but a wild\n"
-	.string "POKéMON may be living within.$"
+	.string "MOéMON may be living within.$"
 
 EventScript_StrengthBoulder::
 	lockall
@@ -368,7 +368,7 @@ EventScript_CancelStrength::
 	end
 
 Text_WantToStrength:
-	.string "It's a big boulder, but a POKéMON\n"
+	.string "It's a big boulder, but a MOéMON\n"
 	.string "may be able to push it aside.\p"
 	.string "Would you like to use STRENGTH?$"
 
@@ -376,7 +376,7 @@ Text_MonUsedStrength:
 	.string "{STR_VAR_1} used STRENGTH!$"
 
 Text_CantStrength:
-	.string "It's a big boulder, but a POKéMON\n"
+	.string "It's a big boulder, but a MOéMON\n"
 	.string "may be able to push it aside.$"
 
 Text_StrengthActivated:
@@ -537,7 +537,7 @@ Text_CantWhirlpool:
 	.string "around with a mighty roar.$"
 
 Text_CantDive:
-	.string "The sea is deep here. A POKéMON\n"
+	.string "The sea is deep here. A MOéMON\n"
 	.string "may be able to go underwater.$"
 
 Text_WantToDive:
@@ -549,7 +549,7 @@ Text_MonUsedDive:
 
 Text_CantSurface:
 	.string "Light is filtering down from above.\n"
-	.string "A POKéMON may be able to surface.$"
+	.string "A MOéMON may be able to surface.$"
 
 Text_WantToSurface:
 	.string "Light is filtering down from above.\n"

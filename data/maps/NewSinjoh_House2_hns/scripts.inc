@@ -48,6 +48,6 @@ NewSinjoh_House2_EventScript_BookShelf_South::
 	end
 
 NewSinjoh_House2_Text_Bookshelf_South:
-    .string "It's crammed full of POKéMON\n"
+    .string "It's crammed full of MOéMON\n"
 	.string "books.\p"
 	.string "These look newer and more familiar.$"

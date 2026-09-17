@@ -35,23 +35,23 @@ GoldenrodDeptStore4_EventScript_Sign::
 	end
 
 GoldenrodDeptStore_Text_4FCooltrainerM:
-    .string "Hey. I love strong POKéMON.\p"
+    .string "Hey. I love strong MOéMON.\p"
     .string "I feed them PROTEIN to crank up\n"
     .string "their ATTACK.$"
 
 GoldenrodDeptStore_Text_4FBugCatcher:
-    .string "IRON adds to your POKéMON's\n"
+    .string "IRON adds to your MOéMON's\n"
     .string "DEFENSE.$"
 
 GoldenrodDeptStore_Text_4FGameboyKid:
     .string "There were rumours that some\n"
-    .string "POKéMON evolve only by\l"
+    .string "MOéMON evolve only by\l"
     .string "being traded via a Game Link\l"
     .string "cable.\p"
     .string "Pfft...\p"
     .string "Such misinformation.\p"
     .string "I know some of the rumoured\n"
-    .string "POKéMON:\l"
+    .string "MOéMON:\l"
     .string "MACHOKE, KADABRA, HAUNTER and,\l"
     .string "um, GRAVELER,\l"
     .string "but they all evolve through\l"
@@ -78,5 +78,5 @@ GoldenrodDeptStore4_Pokemart:
 	pokemartlistend
 
 GoldenrodDeptStore_Text_4FDirectory:
-    .string "Let Us Pump Up Your POKéMON!\p"
+    .string "Let Us Pump Up Your MOéMON!\p"
     .string "4F MEDICINE BOX$"

@@ -98,7 +98,7 @@ NewSinjoh_KimonoHideout_Text_PlayerMeetsMiharu:
 	.string "{PLAYER}.\p"
 	.string "For generations, this village has\n"
 	.string "peacefully coexisted with immensely\l"
-	.string "powerful POKéMON, in isolation from\l"
+	.string "powerful MOéMON, in isolation from\l"
 	.string "the prying eyes of outsiders.\p"
 	.string "Recent events at our sacred temple\n"
 	.string "and a subsequent influx of uninvited\l"
@@ -109,7 +109,7 @@ NewSinjoh_KimonoHideout_Text_PlayerMeetsMiharu:
 NewSinjoh_KimonoHideout_Text_PlayerMeetsShizuko:
 	.string "SHIZUKO: Our cousins in ECRUTEAK\n"
 	.string "CITY made us aware of your\l"
-	.string "connection to the LEGENDARY POKéMON\l"
+	.string "connection to the LEGENDARY MOéMON\l"
 	.string "of the JOHTO REGION, and your\l"
 	.string "prowess as a trainer.\p"
 	.string "We believe you can help us in these\n"
@@ -122,7 +122,7 @@ NewSinjoh_KimonoHideout_Text_PlayerMeetsYouko:
 	.string "investigate the events that invoked\l"
 	.string "their presence.\p"
 	.string "It is imperative that the LEGENDARY\n"
-	.string "POKéMON there are not disturbed\l"
+	.string "MOéMON there are not disturbed\l"
 	.string "by the unworthy.$"
 
 
@@ -281,7 +281,7 @@ NewSinjoh_KimonoHideout_Text_ShizukoBeforeBattle:
 
 NewSinjoh_KimonoHideout_Text_ShizukoAfter:
 	.string "SHIZUKO: The bond you share\n"
-	.string "with your POKéMON is quite strong.\p"
+	.string "with your MOéMON is quite strong.\p"
 	.string "You have earned this PLATE.$"
 
 NewSinjoh_KimonoHideout_EventScript_ShizukoFinal::

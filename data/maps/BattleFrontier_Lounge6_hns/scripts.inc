@@ -27,7 +27,7 @@ BattleFrontier_Lounge6_EventScript_TradeCompleted_hns::
 	end
 
 BattleFrontier_Lounge6_Text_WouldYouLikeToTrade_hns:
-	.string "My POKéMON is a {STR_VAR_2}.\n"
+	.string "My MOéMON is a {STR_VAR_2}.\n"
 	.string "Do you know it?\l"
 	.string "It's quite cute and rather nice.\p"
 	.string "This little one, I could trade with\n"

@@ -262,7 +262,7 @@ BattleFrontier_OutsideWest_Text_BattleDomeSign_hns:
 
 BattleFrontier_OutsideWest_Text_BattleFactorySign_hns:
 	.string "This is the BATTLE FACTORY!\n"
-	.string "Seek out the toughest POKéMON!$"
+	.string "Seek out the toughest MOéMON!$"
 
 BattleFrontier_OutsideWest_Text_BattlePikeSign_hns:
 	.string "This is the BATTLE PIKE!\n"
@@ -271,7 +271,7 @@ BattleFrontier_OutsideWest_Text_BattlePikeSign_hns:
 BattleFrontier_OutsideWest_Text_ThisIsBattleTower_hns:
 	.string "This is the BATTLE TOWER.\p"
 	.string "TRAINERS bring their best-raised\n"
-	.string "POKéMON for elimination-style matches.$"
+	.string "MOéMON for elimination-style matches.$"
 
 BattleFrontier_OutsideWest_Text_MayISeeYourTicket_hns:
 	.string "Hello, are you here for the ferry?\n"
@@ -332,20 +332,20 @@ BattleFrontier_OutsideWest_Text_OnlyToughTrainersBroughtHere_hns:
 BattleFrontier_OutsideWest_Text_SureWeCanChallengeWithNoMons_hns:
 	.string "Hey, bro…\p"
 	.string "Are you sure we can make challenges\n"
-	.string "even if we don't have any POKéMON?$"
+	.string "even if we don't have any MOéMON?$"
 
 BattleFrontier_OutsideWest_Text_BigGuySaidIllLendYouMons_hns:
 	.string "Uh…\n"
 	.string "I'm sure it'll be okay.\p"
 	.string "I think…\p"
 	.string "But remember that big scary guy?\n"
-	.string "He said, “I'll lend you POKéMON!”$"
+	.string "He said, “I'll lend you MOéMON!”$"
 
 BattleFrontier_OutsideWest_Text_WhosRaisingThoseRentalMons_hns:
 	.string "That's the BATTLE FACTORY.\n"
-	.string "You can rent strong POKéMON there.\p"
+	.string "You can rent strong MOéMON there.\p"
 	.string "But it makes me wonder.\n"
-	.string "Who's raising those rental POKéMON?$"
+	.string "Who's raising those rental MOéMON?$"
 
 BattleFrontier_OutsideWest_Text_ScaredOfPikeBecauseSeviper_hns:
 	.string "I'm scared of going into the BATTLE\n"
@@ -467,7 +467,7 @@ BattleFrontier_OutsideWest_Text_FansOverThereUsedToBeTrainers_hns:
 
 BattleFrontier_OutsideWest_Text_MonWithLongTailInFrontier_hns:
 	.string "I heard a rumor that someone saw\n"
-	.string "a POKéMON with an unusually long tail\l"
+	.string "a MOéMON with an unusually long tail\l"
 	.string "somewhere in the BATTLE FRONTIER.\p"
 	.string "It must be adorable. I'm sure of it…\p"
 	.string "Oh, challenges can wait. I feel driven\n"

@@ -570,14 +570,14 @@ Alola_Akala_TrainerBattlePicnicker_Text_2:
 	.string "I can easily hide in the trees!$"
 
 Alola_Akala_TrainerBattleCamper_Text_0:
-	.string "I want to be the first to prove myself\nto the Totem POKéMON!$"
+	.string "I want to be the first to prove myself\nto the Totem MOéMON!$"
 
 Alola_Akala_TrainerBattleCamper_Text_1:
 	.string "Drat,\nthat's not going to help my case.$"
 
 Alola_Akala_TrainerBattleCamper_Text_2:
 	.string "There's a weird Totem further ahead but\n"
-	.string "I haven't seen a Totem POKéMON.$"
+	.string "I haven't seen a Totem MOéMON.$"
 
 Alola_Akala_TrainerBattleSwimmerLand_Text_0:
 	.string "Hey! No shoes on the beach!$"
@@ -600,14 +600,14 @@ Alola_Akala_TrainerBattleSwimmerWater_Text_2:
 	.string "Ignore anyone who says otherwise!$"
 
 Alola_Akala_TrainerBattleSwimmerWaterM_Text_0:
-	.string "Hah!\nYou need to ride a POKéMON to surf?$"
+	.string "Hah!\nYou need to ride a MOéMON to surf?$"
 
 Alola_Akala_TrainerBattleSwimmerWaterM_Text_1:
 	.string "If I hadn't swam myself\nmaybe I would've had the energy to win…$"
 
 Alola_Akala_TrainerBattleSwimmerWaterM_Text_2:
 	.string "The current out here is strong!\n"
-	.string "A POKéMON must be really powerful to\l"
+	.string "A MOéMON must be really powerful to\l"
 	.string "migrate all the way out to the ISLES!$"
 
 Alola_Akala_Bench_Heal_Text_0:

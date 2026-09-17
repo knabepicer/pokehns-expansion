@@ -28,12 +28,12 @@ CeladonCity_Apartments_3F_EventScript_CharacterDesigner::
 GameFreak_Text_GameDesigner:
 	.string "Is that right?\p"
 	.string "I'm the GAME DESIGNER!\p"
-	.string "Filling up your POKéDEX is tough,\n"
+	.string "Filling up your MOéDEX is tough,\n"
 	.string "but don't give up!$"
 
 GameFreak_Text_GameDesignerCompletedPokedex:
 	.string "Wow! Excellent! You completed\n"
-	.string "your POKéDEX!\p"
+	.string "your MOéDEX!\p"
 	.string "Congratulations!$"
 
 GameFreak_Text_GraphicArtist:
@@ -42,7 +42,7 @@ GameFreak_Text_GraphicArtist:
 
 GameFreak_Text_GraphicArtistPrintDiploma:
 	.string "I'm the GRAPHIC ARTIST.\p"
-	.string "Oh, you completed your POKéDEX?\p"
+	.string "Oh, you completed your MOéDEX?\p"
 	.string "Want me to print out your\n"
 	.string "DIPLOMA?$"
 
@@ -78,4 +78,4 @@ CeladonMansion3F_Text_GameProgram:
 CeladonMansion3F_Text_ReferenceMaterial:
 	.string "It's crammed with reference\n"
 	.string "materials. There's even a\n"
-	.string "POKé DOLL.$"
+	.string "MOé DOLL.$"

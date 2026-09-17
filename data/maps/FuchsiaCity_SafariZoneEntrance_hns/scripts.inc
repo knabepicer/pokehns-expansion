@@ -226,7 +226,7 @@ FuchsiaCity_SafariZoneEntrance_Text_StevenWelcome:
 	.string "We encourage trainers to capture\n"
 	.string "as many as they can to safely\l"
 	.string "remove them from the environment.\p"
-	.string "You'll find very rare POKéMON\n"
+	.string "You'll find very rare MOéMON\n"
 	.string "here. Especially if you increase\l"
 	.string "your SAFARI LEVEL.\p"
 	.string "Just speak to the attendant here\n"
@@ -371,7 +371,7 @@ FuchsiaCity_SafariZoneEntrance_Text_StevenNotRequestedMon:
 
 FuchsiaCity_SafariZoneEntrance_Text_StevenTradeCompleted:
 	.string "How is IRON doing?\n"
-	.string "BELDUM are fascinating POKéMON.\p"
+	.string "BELDUM are fascinating MOéMON.\p"
 	.string "They communicate with each other\n"
 	.string "using magnetic pulses.$"
 

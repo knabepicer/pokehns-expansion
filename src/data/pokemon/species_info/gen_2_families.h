@@ -1290,7 +1290,7 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
             ANIMCMD_FRAME(0, 25),
         ),
         .frontAnimId = P_GBA_STYLE_SPECIES_GFX ? ANIM_V_SLIDE_SLOW : ANIM_V_SLIDE_WOBBLE,
-        .enemyMonElevation = P_GBA_STYLE_SPECIES_GFX ? 8 : 10,
+        .enemyMonElevation = 0,
         .backPic = gMonBackPic_Ledian,
         .backPicSize = MON_COORDS_SIZE(64, 64),
         .backPicYOffset = 0,
@@ -2757,7 +2757,7 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
             ANIMCMD_FRAME(0, 25),
         ),
         .frontAnimId = ANIM_V_SLIDE_WOBBLE,
-        .enemyMonElevation = 1,
+        .enemyMonElevation = 0,
         .backPic = gMonBackPic_Hoppip,
         .backPicSize = MON_COORDS_SIZE(64, 64),
         .backPicYOffset = 0,
@@ -4119,7 +4119,7 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
         .frontPicYOffset = 2,                                                                          \
         .frontAnimFrames = sAnims_SingleFramePlaceHolder,                                               \
         .frontAnimId = ANIM_ZIGZAG_FAST,                                                                \
-        .enemyMonElevation = 8,                                                                         \
+        .enemyMonElevation = 0,                                                                         \
         .backPic = gMonBackPic_Unown ##letter,                                                          \
         .backPicSize = MON_COORDS_SIZE(64, 64),                                                         \
         .backPicYOffset = 0,                                                                            \
@@ -5287,7 +5287,7 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
         .frontPicYOffset = 16,
         .frontAnimFrames = sAnims_SingleFramePlaceHolder,
         //.frontAnimId = ANIM_V_SQUISH_AND_BOUNCE,
-        .enemyMonElevation = 9,
+        .enemyMonElevation = 0,
         .backPic = gMonBackPic_QwilfishHisui,
         .backPicSize = MON_COORDS_SIZE(64, 64),
         .backPicYOffset = 0,

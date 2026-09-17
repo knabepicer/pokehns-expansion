@@ -63,7 +63,7 @@ CeladonMansionRoofHouse_Text_PharmacistStory:
 
 CeladonMansionRoofHouse_Text_PharmacistCurse:
 	.string "TM82 is SLEEP TALK.\p"
-	.string "It will allow your POKéMON to use\n"
+	.string "It will allow your MOéMON to use\n"
 	.string "a random move while asleep.\p"
 	.string "But good luck sleeping after that\n"
 	.string "terrifying tale!$"

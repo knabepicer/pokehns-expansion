@@ -209,7 +209,7 @@ SaffronCity_CopyCatsHouse_2F_EventScript_CopycatAfterDollReturned_Female::
 	end
 
 Copycat_Text_Male_1:
-	.string "{PLAYER}: Hi! Do you like POKéMON?\p"
+	.string "{PLAYER}: Hi! Do you like MOéMON?\p"
 	.string "{PLAYER}: Uh, no, I just asked you.\p"
 	.string "{PLAYER}: Huh? You're strange!$"
 
@@ -219,7 +219,7 @@ Copycat_Text_QuickMimicking:
 
 Copycat_Text_Male_2:
 	.string "{PLAYER}: Hi! I heard that you\n"
-	.string "lost your favorite POKé DOLL.\p"
+	.string "lost your favorite MOé DOLL.\p"
 	.string "{PLAYER}: If I find it, you'll give\n"
 	.string "me a rail PASS?\p"
 	.string "{PLAYER}: I'll go find it for you.\p"
@@ -235,7 +235,7 @@ Copycat_Text_Worried:
 
 Copycat_Text_GiveDoll:
 	.string "COPYCAT: Yay! That's my CLEFAIRY\n"
-	.string "POKé DOLL!\p"
+	.string "MOé DOLL!\p"
 	.string "See the tear where the right leg\n"
 	.string "is sewn on? That's proof!$"
 
@@ -268,5 +268,5 @@ Copycat_Text_Dodrio2:
 	.string "WHO'S THE FAIREST ONE OF ALL?$"
 
 Copycat_Text_2FDoll:
-	.string "This is a rare POKéMON! Huh?\p"
+	.string "This is a rare MOéMON! Huh?\p"
 	.string "It's only a doll…$"

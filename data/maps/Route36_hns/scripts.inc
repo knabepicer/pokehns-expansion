@@ -266,7 +266,7 @@ Route36_Text_OddTree:
 
 Route36_Text_Lass1:
 	.string "Be careful at night on this route!\p"
-	.string "I saw a POKéMON that looked like\n"
+	.string "I saw a MOéMON that looked like\n"
 	.string "GROWLITHE, but it had a scary aura\l"
 	.string "to it.$"
 
@@ -274,7 +274,7 @@ Route36_Text_Lass2_ClearedSudowoodo:
 	.string "That odd tree disappeared without\n"
 	.string "a trace.\p"
 	.string "Oh! That tree was really a\n"
-	.string "POKéMON?$"
+	.string "MOéMON?$"
 
 Route36_Text_PsychicMarkSeen:
 	.string "I'm going to read your thoughts!$"
@@ -288,7 +288,7 @@ Route36_Text_PsychicMarkAfter:
 
 Route36_Text_SchoolboyAlan1Seen:
 	.string "Thanks to my studies, I'm ready\n"
-	.string "for any POKéMON!$"
+	.string "for any MOéMON!$"
 
 Route36_Text_SchoolboyAlan1Beaten:
 	.string "Oops! Computation error?$"
@@ -311,7 +311,7 @@ Route36_Text_ArthurGivesGift:
 	.string "Here. You can have this.$"
 
 Route36_Text_ArthurGaveGift:
-	.string "ARTHUR: A POKéMON that uses ROCK-\n"
+	.string "ARTHUR: A MOéMON that uses ROCK-\n"
 	.string "type moves should hold on to that.\p"
 	.string "It pumps up ROCK-type attacks.$"
 
@@ -328,11 +328,11 @@ Route36_Text_Sign_RuinsNorth:
 
 Route36_Text_Tips1:
 	.string "TRAINER TIPS\n"
-	.string "POKéMON stats vary--even within\l"
+	.string "MOéMON stats vary--even within\l"
 	.string "the same species.\p"
 	.string "Their stats may be similar at first.\p"
 	.string "However, differences will become\n"
-	.string "pronounced as the POKéMON grow.$"
+	.string "pronounced as the MOéMON grow.$"
 
 Route36_Text_Tips2:
 	.string "TRAINER TIPS\n"
@@ -348,7 +348,7 @@ Route36_Text_AlanRegister:
 
 Route36_Text_AlanRematchIntro:
 	.string "Thanks to my studies, I'm ready\n"
-	.string "for any POKéMON!$"
+	.string "for any MOéMON!$"
 
 Route36_Text_AlanRematchDefeat:
 	.string "Oops! Computation error?$"

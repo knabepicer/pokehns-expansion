@@ -163,11 +163,11 @@ OlivineCity_Text_SilverEncounter:
 	.string "Speaking of weaklings, the\n"
 	.string "city's GYM LEADER isn't here,\l"
 	.string "and is supposedly taking care\l"
-	.string "of a sick POKéMON at the\l"
+	.string "of a sick MOéMON at the\l"
 	.string "LIGHTHOUSE.\p"
 	.string "Humph! Boo-hoo!\n"
-	.string "Just let sick POKéMON go!\p"
-	.string "A POKéMON that can't battle\n"
+	.string "Just let sick MOéMON go!\p"
+	.string "A MOéMON that can't battle\n"
 	.string "is worthless!\p"
 	.string "Why don't you go train at the\n"
 	.string "LIGHTHOUSE?\p"
@@ -293,11 +293,11 @@ OlivineCity_Text_Sailor1:
 
 OlivineCity_Text_YoungsterPokegear:
 	.string "That thing you have--\n"
-	.string "it's a POKéGEAR, right?\l"
+	.string "it's a MOéGEAR, right?\l"
 	.string "Wow, that's cool.$"
 
 OlivineCity_Text_YoungsterPokedex:
-	.string "Wow, you have a POKéDEX!\p"
+	.string "Wow, you have a MOéDEX!\p"
 	.string "That is just so awesome.$"
 
 OlivineCity_Text_Sailor2:
@@ -307,7 +307,7 @@ OlivineCity_Text_Sailor2:
 	.string "Hah! That's a load of crud.\p"
 	.string "There's no way PRYCE could\n"
 	.string "hurt JASMINE's STEEL-type\l"
-	.string "POKéMON!\p"
+	.string "MOéMON!\p"
 	.string "Bureaucracy if you ask me.\p"
 	.string "She's something to be feared,\n"
 	.string "that's for sure!$"
@@ -321,7 +321,7 @@ OlivineCity_Text_PortSign:
 	.string "FAST SHIP PIER$"
 
 OlivineCity_Text_GymSign:
-	.string "OLIVINE CITY POKéMON GYM\n"
+	.string "OLIVINE CITY MOéMON GYM\n"
 	.string "LEADER: JASMINE\p"
 	.string "The Steel-Clad Defense Girl$"
 

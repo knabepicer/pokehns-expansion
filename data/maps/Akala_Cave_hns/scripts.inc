@@ -128,7 +128,7 @@ Alola_AkalaCave_TrainerBattlePicnicker_Text_2:
 	.string "the heat in this cave is exhausting!$"
 
 Alola_AkalaCave_TrainerBattleCamper_Text_0:
-	.string "Check me out!\nI caught some strong POKéMON!$"
+	.string "Check me out!\nI caught some strong MOéMON!$"
 
 Alola_AkalaCave_TrainerBattleCamper_Text_1:
 	.string "Not bad,\nbut not good enough!$"

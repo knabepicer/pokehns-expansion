@@ -20,7 +20,7 @@ SSAquaRooms_EventScript_Bed_PokecenterChallenge::
 
 SSAquaRooms_Text_TakeRestOnBed_PokecenterChallenge:
 	.string "Sorry, you are playing with\n"
-	.string "the POKéCENTER challenge!$"
+	.string "the MOéCENTER challenge!$"
 
 SSAquaRooms_Text_TakeRestOnBed:
 	.string "There's a bed…\n"

@@ -141,7 +141,7 @@ Route44_Text_WiltonPostRematch:
 
 Route44_Text_WiltonHasItem:
     .string "Hey! I reeled in something\n"
-    .string "other than a POKéMON!\p"
+    .string "other than a MOéMON!\p"
     .string "Here, you can have it!$"
 
 Route44_Text_WiltonGaveItem:
@@ -156,7 +156,7 @@ Route44_Text_FisherEdgarSeen:
     .string "I fish until I can't anymore.\p"
     .string "I also battle until I drop.\p"
     .string "That's my relationship with my\n"
-    .string "POKéMON.$"
+    .string "MOéMON.$"
 
 Route44_Text_FisherEdgarBeaten:
     .string "Hmmmm… This isn't right.$"
@@ -167,33 +167,33 @@ Route44_Text_FisherEdgarAfter:
 
 Route44_Text_BirdKeeperVance1Seen:
     .string "Do you know about the legendary\n"
-    .string "bird POKéMON?$"
+    .string "bird MOéMON?$"
 
 Route44_Text_BirdKeeperVance1Beaten:
     .string "Whew! You're hot stuff.$"
 
 Route44_Text_BirdKeeperVanceBirds:
     .string "ARTICUNO, ZAPDOS and MOLTRES are\n"
-    .string "the three legendary bird POKéMON.\p"
+    .string "the three legendary bird MOéMON.\p"
     .string "I heard there are other legendary\n"
     .string "birds, though.$"
 
 Route44_Text_VanceRegister:
     .string "ARTICUNO, ZAPDOS and MOLTRES are\n"
-    .string "the three legendary bird POKéMON.\p"
+    .string "the three legendary bird MOéMON.\p"
     .string "I heard there are other legendary\n"
     .string "birds, though.$"
 
 Route44_Text_VanceRematchIntro:
     .string "Do you know about the legendary\n"
-    .string "bird POKéMON?$"
+    .string "bird MOéMON?$"
 
 Route44_Text_VanceRematchDefeat:
     .string "Whew! You're hot stuff.$"
 
 Route44_Text_VancePostRematch:
     .string "ARTICUNO, ZAPDOS and MOLTRES are\n"
-    .string "the three legendary bird POKéMON.\p"
+    .string "the three legendary bird MOéMON.\p"
     .string "I heard there are other legendary\n"
     .string "birds, though.$"
 
@@ -209,21 +209,21 @@ Route44_Text_PsychicPhilAfter:
 
 Route44_Text_PokemaniacZachSeen:
     .string "I'll do anything to get my hands\n"
-    .string "on rare POKéMON!$"
+    .string "on rare MOéMON!$"
 
 Route44_Text_PokemaniacZachBeaten:
-    .string "Oooh, your POKéMON are so\n"
+    .string "Oooh, your MOéMON are so\n"
     .string "appealing.$"
 
 Route44_Text_PokemaniacZachAfter:
-    .string "If a POKéMON has different colors\n"
+    .string "If a MOéMON has different colors\n"
     .string "from usual, it's more valuable.\p"
     .string "What? You mean that's not true?$"
 
 Route44_Text_CooltrainermAllenSeen:
     .string "I can tell you're a good trainer\n"
     .string "by looking at you.\p"
-    .string "I'm good at POKéMON, and I can\n"
+    .string "I'm good at MOéMON, and I can\n"
     .string "see that you are too.$"
 
 Route44_Text_CooltrainermAllenBeaten:

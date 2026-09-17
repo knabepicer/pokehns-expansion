@@ -383,11 +383,11 @@ RuinsOfAlph_PuzzleAndRewardChambers_Text_Solved:
 RuinsOfAlph_PuzzleAndRewardChambers_Text_Receptionist1:
 	.string "Welcome to this chamber.\p"
 	.string "There are sliding panels that depict\n"
-	.string "a POKéMON drawn by the ancients.\p"
+	.string "a MOéMON drawn by the ancients.\p"
 	.string "Slide the panels around to form\n"
 	.string "the picture.\p"
 	.string "To the left is a description of\n"
-	.string "the POKéMON.\p"
+	.string "the MOéMON.\p"
 	.string "Scientists in the lab are examin-\n"
 	.string "-ing some newly found patterns.$"
 
@@ -401,7 +401,7 @@ RuinsOfAlph_PuzzleAndRewardChambers_Text_Receptionist3:
 
 
 RuinsOfAlph_PuzzleAndRewardChambers_Text_Kabuto:
-	.string "A POKéMON that hid on the sea floor.\n"
+	.string "A MOéMON that hid on the sea floor.\n"
 	.string "Eyes on its back scanned the area.$"
 
 RuinsOfAlph_PuzzleAndRewardChambers_Text_UnownText:
@@ -409,18 +409,18 @@ RuinsOfAlph_PuzzleAndRewardChambers_Text_UnownText:
 
 RuinsOfAlph_PuzzleAndRewardChambers_Text_Statue:
 	.string "It's a replica of an ancient\n"
-	.string "POKéMON.$"
+	.string "MOéMON.$"
 
 RuinsOfAlph_PuzzleAndRewardChambers_Text_Aerodactyl:
-	.string "This flying POKéMON attacked its\n"
+	.string "This flying MOéMON attacked its\n"
 	.string "prey with saw-like fangs.$"
 
 RuinsOfAlph_PuzzleAndRewardChambers_Text_Omanyte:
-	.string "This POKéMON drifted in the sea\n"
+	.string "This MOéMON drifted in the sea\n"
 	.string "by twisting its ten tentacles.$"
 
 RuinsOfAlph_PuzzleAndRewardChambers_Text_Hooh:
-	.string "A POKéMON that flew gracefully on\n"
+	.string "A MOéMON that flew gracefully on\n"
 	.string "rainbow-colored wings.$"
 
 @==========================================================================================================================================================

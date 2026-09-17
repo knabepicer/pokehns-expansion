@@ -290,25 +290,25 @@ CherrygroveCity_Text_GuideGentTourStart:
 	.string "Follow me!$"
 
 CherrygroveCity_Text_GuideGentPokecenter:
-	.string "This is a POKéMON CENTER.\p"
-	.string "They heal your POKéMON in no\n"
+	.string "This is a MOéMON CENTER.\p"
+	.string "They heal your MOéMON in no\n"
 	.string "time at all.\p"
 	.string "You'll be relying on them a lot,\n"
 	.string "so you better learn about them.$"
 
 CherrygroveCity_Text_GuideGentMart:
-	.string "This is a POKéMON MART.\p"
+	.string "This is a MOéMON MART.\p"
 	.string "They sell BALLS for catching wild\n"
-	.string "POKéMON and other useful items.$"
+	.string "MOéMON and other useful items.$"
 
 CherrygroveCity_Text_GuideGentRoute30:
 	.string "ROUTE 30 is out this way.\p"
 	.string "Trainers will be battling\n"
-	.string "their prized POKéMON there.$"
+	.string "their prized MOéMON there.$"
 
 CherrygroveCity_Text_GuideGentSea:
 	.string "This is the sea, as you can see.\p"
-	.string "Some POKéMON are found only in\n"
+	.string "Some MOéMON are found only in\n"
 	.string "in water.$"
 
 CherrygroveCity_Text_GuideGentMap:
@@ -316,7 +316,7 @@ CherrygroveCity_Text_GuideGentMap:
 	.string "It's my house! Thanks for\n"
 	.string "your company.\p"
 	.string "Oh, and if you're ever lost, check\n"
-	.string "the MAP on your POKéGEAR!\p"
+	.string "the MAP on your MOéGEAR!\p"
 	.string "I wish you luck on your journey!$"
 
 CherrygroveCity_Text_GuideGentDecline:
@@ -327,12 +327,12 @@ CherrygroveCity_Text_GuideGentDecline:
 
 CherrygroveCity_Text_RivalSeen:
 	.string "… … … … … … … …\p"
-	.string "You got a POKéMON at the LAB.\p"
+	.string "You got a MOéMON at the LAB.\p"
 	.string "What a waste.\n"
 	.string "A wimp like you.\p"
 	.string "… … … … … … … …\p"
 	.string "Don't you get what I'm saying?\n"
-	.string "Well, I too, have a good POKéMON.\p"
+	.string "Well, I too, have a good MOéMON.\p"
 	.string "I'll show you what I mean!$"
 
 CherrygroveCity_Text_SilverWin:
@@ -342,7 +342,7 @@ CherrygroveCity_Text_RivalAfter:
 	.string "… … … … … … … …\p"
 	.string "Do you want to know who I am?\p"
 	.string "I'm going to be the world's\n"
-	.string "greatest POKéMON trainer.$"
+	.string "greatest MOéMON trainer.$"
 
 CherrygroveCity_Text_RivalID:
 	.string "Give it back!\n"
@@ -351,22 +351,22 @@ CherrygroveCity_Text_RivalID:
 	.string "You saw my name...$"
 
 CherrygroveCity_Text_TeacherHaveMapCard:
-	.string "When you're with POKéMON,\n"
+	.string "When you're with MOéMON,\n"
 	.string "going anywhere is fun.$"
 
 CherrygroveCity_Text_YoungsterNoPokedex:
-	.string "MR. POKéMON's house is still\n"
+	.string "MR. MOéMON's house is still\n"
 	.string "farther up ahead.$"
 
 CherrygroveCity_Text_YoungsterHavePokedex:
 	.string "I battled the trainers on the\n"
 	.string "road.\p"
-	.string "My POKéMON lost. They're a\n"
+	.string "My MOéMON lost. They're a\n"
 	.string "mess! I must take them to a\l"
-	.string "POKéMON CENTER.$"
+	.string "MOéMON CENTER.$"
 
 CherrygroveCity_Text_MysticWaterGuyBefore:
-	.string "A POKéMON I caught had an\n"
+	.string "A MOéMON I caught had an\n"
 	.string "item.\p"
 	.string "I think it's MYSTIC WATER.\p"
 	.string "I don't need it, so do you\n"

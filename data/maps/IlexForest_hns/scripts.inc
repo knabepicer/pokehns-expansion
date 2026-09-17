@@ -661,11 +661,11 @@ IlexForest_Text_ApprenticeIntro:
 
 IlexForest_Text_ApprenticeAfter:
 	.string "Wow! Thanks a whole bunch!\p"
-	.string "My boss' POKéMON won't obey me\n"
+	.string "My boss' MOéMON won't obey me\n"
 	.string "because I don't have a BADGE.$"
 
 IlexForest_Text_ItsTheMissingPokemon:
-	.string "It's the missing POKéMON!$"
+	.string "It's the missing MOéMON!$"
 
 IlexForest_Text_Kwaaaa:
 	.string "FARFETCH'D: Kwaa!$"
@@ -681,7 +681,7 @@ IlexForest_Text_CharcoalMasterIntro:
 
 IlexForest_Text_CharcoalMasterOutro:
 	.string "That's the CUT HM.\n"
-	.string "Teach that to a POKéMON to clear\l"
+	.string "Teach that to a MOéMON to clear\l"
 	.string "small trees.\p"
 	.string "Of course, you have to have the\n"
 	.string "GYM BADGE from AZALEA to use it.$"
@@ -730,13 +730,13 @@ IlexForest_Text_KurtCaughtCelebi:
 
 IlexForest_Text_BugCatcherWayneSeen:
 	.string "Don't sneak up on me like that!\p"
-	.string "You frightened a POKéMON away!$"
+	.string "You frightened a MOéMON away!$"
 
 IlexForest_Text_BugCatcherWayneBeaten:
-	.string "I hadn't seen that POKéMON before…$"
+	.string "I hadn't seen that MOéMON before…$"
 
 IlexForest_Text_BugCatcherWayneAfter:
-	.string "A POKéMON I've never seen before\n"
+	.string "A MOéMON I've never seen before\n"
 	.string "fell out of the tree when I used\l"
 	.string "HEADBUTT.\p"
 	.string "I ought to use HEADBUTT in other\n"
@@ -760,7 +760,7 @@ IlexForest_Text_Kimono_Girl3:
 IlexForest_Text_Kimono_Girl4:
 	.string "Wow! Are you going to show me how\n"
 	.string "to get out?\p"
-	.string "You are such a smart POKéMON!$"
+	.string "You are such a smart MOéMON!$"
 
 IlexForest_Text_Kimono_Girl5:
 	.string "See you.$"

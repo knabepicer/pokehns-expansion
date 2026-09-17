@@ -23,7 +23,7 @@ Gate_Route29_Route46_Text_Officer:
 	.string "them to take a shortcut.$"
 
 Gate_Route29_Route46_Text_Youngster:
-	.string "Different kinds of POKéMON\n"
+	.string "Different kinds of MOéMON\n"
 	.string "appear past here.\p"
 	.string "If you want to catch them all,\n"
 	.string "you have to look everywhere.$"

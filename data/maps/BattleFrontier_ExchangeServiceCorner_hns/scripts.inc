@@ -108,7 +108,7 @@ BattleFrontier_ExchangeServiceCorner_Text_GetYouAnythingYouWant_hns:
 
 BattleFrontier_ExchangeServiceCorner_Text_ItemsWillGetMonTougher_hns:
 	.string "If I can get hold of the items here,\n"
-	.string "my POKéMON will get tougher.\p"
+	.string "my MOéMON will get tougher.\p"
 	.string "You bet they will!\n"
 	.string "No question about it!$"
 

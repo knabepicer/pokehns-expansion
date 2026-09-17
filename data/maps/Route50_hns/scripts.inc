@@ -54,7 +54,7 @@ Route50_Text_WesselBefore:
     .string "of... Wood?\p"
     .string "My hypothesis that this route\n"
     .string "would contain many STEEL TYPE\l"
-    .string "POKéMON is disproven yet again.\p"
+    .string "MOéMON is disproven yet again.\p"
     .string "But why else would I have found\n"
     .string "this STEEL PLATE here?\p"
     .string "I must collect more data!$"

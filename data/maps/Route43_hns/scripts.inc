@@ -81,58 +81,58 @@ Route43_EventScript_Item_Max_Ether::
 	end
 
 Route43_Text_PokemaniacBenSeen:
-    .string "I love POKéMON!\p"
+    .string "I love MOéMON!\p"
     .string "That's why I started--and why I'll\n"
-    .string "keep on collecting POKéMON!$"
+    .string "keep on collecting MOéMON!$"
 
 Route43_Text_PokemaniacBenBeaten:
     .string "How could you do this to me?$"
 
 Route43_Text_PokemaniacBenAfter:
     .string "What else do I like besides\n"
-    .string "POKéMON?\p"
+    .string "MOéMON?\p"
     .string "MARY on the radio. I bet she's\n"
     .string "cute!$"
 
 Route43_Text_PokemaniacBrentSeen:
     .string "Hey! Do you have any rare\n"
-    .string "POKéMON?$"
+    .string "MOéMON?$"
 
 Route43_Text_PokemaniacBrentBeaten:
-    .string "Oh, my poor POKéMON! Darlings!$"
+    .string "Oh, my poor MOéMON! Darlings!$"
 
 Route43_Text_PokemaniacBrentAfter:
     .string "I'd be happy just to own a single\n"
-    .string "rare POKéMON.$"
+    .string "rare MOéMON.$"
 
 Route43_Text_BrentRegister:
     .string "I'd be happy just to own a single\n"
-    .string "rare POKéMON.$"
+    .string "rare MOéMON.$"
 
 Route43_Text_BrentRematchIntro:
     .string "Hey! Do you have any rare\n"
-    .string "POKéMON?$"
+    .string "MOéMON?$"
 
 Route43_Text_BrentRematchDefeat:
-    .string "Oh, my poor POKéMON! Darlings!$"
+    .string "Oh, my poor MOéMON! Darlings!$"
 
 Route43_Text_BrentPostRematch:
     .string "I'd be happy just to own a single\n"
-    .string "rare POKéMON.$"
+    .string "rare MOéMON.$"
 
 Route43_Text_PokemaniacRonSeen:
     .string "Would you get this?\p"
     .string "Some {RIVAL} guy made fun of my\n"
-    .string "POKéMON!\p"
-    .string "Darn it! My POKéMON's great!$"
+    .string "MOéMON!\p"
+    .string "Darn it! My MOéMON's great!$"
 
 Route43_Text_PokemaniacRonBeaten:
     .string "My NIDOKING did pretty right on!$"
 
 Route43_Text_PokemaniacRonAfter:
     .string "It's okay for people to like\n"
-    .string "different types of POKéMON.\p"
-    .string "POKéMON isn't just about having the\n"
+    .string "different types of MOéMON.\p"
+    .string "MOéMON isn't just about having the\n"
     .string "most powerful one.$"
 
 Route43_Text_FisherMarvinSeen:
@@ -145,13 +145,13 @@ Route43_Text_FisherMarvinBeaten:
 
 Route43_Text_FisherMarvinAfter:
     .string "KURT's LURE BALL is the best for\n"
-    .string "catching hooked POKéMON.\p"
+    .string "catching hooked MOéMON.\p"
     .string "It's much more effective than a\n"
     .string "ULTRA BALL.$"
 
 Route43_Text_CamperSpencerSeen:
     .string "I can do so much with my\n"
-    .string "POKéMON--it's super-fun!$"
+    .string "MOéMON--it's super-fun!$"
 
 Route43_Text_CamperSpencerBeaten:
     .string "Losing isn't fun at all…$"
@@ -168,11 +168,11 @@ Route43_Text_PicnickerTiffanyBeaten:
     .string "I played too much!$"
 
 Route43_Text_PicnickerTiffanyWantsPicnic:
-    .string "I'm having a picnic with POKéMON.\p"
+    .string "I'm having a picnic with MOéMON.\p"
     .string "Won't you join us?$"
 
 Route43_Text_TiffanyRegister:
-    .string "I'm having a picnic with POKéMON.\p"
+    .string "I'm having a picnic with MOéMON.\p"
     .string "Won't you join us?$"
 
 Route43_Text_TiffanyRematchIntro:
@@ -183,7 +183,7 @@ Route43_Text_TiffanyRematchDefeat:
     .string "I played too much!$"
 
 Route43_Text_TiffanyPostRematch:
-    .string "I'm having a picnic with POKéMON.\p"
+    .string "I'm having a picnic with MOéMON.\p"
     .string "Won't you join us?$"
 
 Route43_Sign1:
@@ -196,9 +196,9 @@ Route43_Sign2:
 
 Route43_TrainerTips:
     .string "TRAINER TIPS\p"
-    .string "All POKéMON have pros and cons\n"
+    .string "All MOéMON have pros and cons\n"
     .string "depending on their types.\p"
     .string "If their types differ, a higher-\n"
-    .string "level POKéMON may lose in battle.\p"
+    .string "level MOéMON may lose in battle.\p"
     .string "Learn which types are strong and\n"
-    .string "weak against your POKéMON's type.$"
+    .string "weak against your MOéMON's type.$"

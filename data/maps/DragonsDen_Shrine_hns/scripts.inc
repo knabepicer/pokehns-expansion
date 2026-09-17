@@ -186,7 +186,7 @@ DragonsDen_Shrine_Text_ElderGreeting:
     .string "Ready?$"
 
 DragonsDen_Shrine_Text_Question1:
-    .string "What are POKéMON to you?$"
+    .string "What are MOéMON to you?$"
 
 DragonsDen_Shrine_Text_Question2:
     .string "What helps you to win battles?$"
@@ -197,10 +197,10 @@ DragonsDen_Shrine_Text_Question3:
 
 DragonsDen_Shrine_Text_Question4:
     .string "What is most important for\n"
-    .string "raising POKéMON?$"
+    .string "raising MOéMON?$"
 
 DragonsDen_Shrine_Text_Question5:
-    .string "Strong POKéMON. Weak POKéMON.\n"
+    .string "Strong MOéMON. Weak MOéMON.\n"
     .string "Which is more important?$"
 
 DragonsDen_Shrine_Text_WrongAnswer1:
@@ -214,13 +214,13 @@ DragonsDen_Shrine_Text_RightAnswer:
 
 DragonsDen_Shrine_Text_PassedTest:
     .string "Hm… I see…\p"
-    .string "You care deeply for POKéMON.\p"
+    .string "You care deeply for MOéMON.\p"
     .string "Very commendable.\p"
     .string "That conviction is what is\n"
     .string "important!\p"
     .string "{PLAYER}, don't lose that belief.\p"
     .string "It will see you through at the\n"
-    .string "POKéMON LEAGUE.$"
+    .string "MOéMON LEAGUE.$"
 
 DragonsDen_Shrine_EventScript_ClairEnter::
 	clearflag FLAG_HIDE_DRAGONS_DEN_SHRINE_CLAIR
@@ -369,9 +369,9 @@ DragonsDen_Shrine_Text_PlayerReceivedRisingBadge:
 
 DragonsDen_Shrine_Text_RisingBadgeExplanation:
     .string "RISINGBADGE will enable your\n"
-    .string "POKéMON to use the move for\l"
+    .string "MOéMON to use the move for\l"
     .string "climbing waterfalls.\p"
-    .string "Also, all POKéMON will recognize\n"
+    .string "Also, all MOéMON will recognize\n"
     .string "you as a trainer and obey your\l"
     .string "every command without question.$"
 
@@ -457,7 +457,7 @@ DragonsDen_Shrine_Text_TakeThisDratini:
     .string "have recognized your worth.$"
 
 DragonsDen_Shrine_Text_SymbolicDragon:
-    .string "Dragon POKéMON are symbolic of our\n"
+    .string "Dragon MOéMON are symbolic of our\n"
     .string "clan.\p"
     .string "You have shown that you can be\n"
     .string "entrusted with one.$"

@@ -17,4 +17,4 @@ Alola_MelemeleSea_TrainerBattleSwimmer_Text_1:
 
 Alola_MelemeleSea_TrainerBattleSwimmer_Text_2:
 	.string "There are some strong currents here.\n"
-	.string "I think it attracts strong POKéMON!$"
+	.string "I think it attracts strong MOéMON!$"

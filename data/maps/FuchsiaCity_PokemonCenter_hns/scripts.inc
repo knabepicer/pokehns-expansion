@@ -42,7 +42,7 @@ FuchsiaCity_PokemonCenter_EventScript_JanineClone::
 
 FuchsiaCity_PokemonCenter1F_Text_CooltrainerM:
 	.string "Hey! You have a brand new kind of\n"
-	.string "POKéDEX.\p"
+	.string "MOéDEX.\p"
 	.string "Did PROF.OAK give that to you?$"
 
 FuchsiaCity_PokemonCenter1F_Text_CooltrainerF:

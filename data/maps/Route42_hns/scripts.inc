@@ -227,7 +227,7 @@ Route42_EventScript_Item_UltraBall::
 
 Route42_Text_FisherTullySeen:
 	.string "Let me demonstrate the power\n"
-	.string "of the POKéMON I caught!$"
+	.string "of the MOéMON I caught!$"
 
 Route42_Text_FisherTullyBeaten:
 	.string "What? That's not right.\n"
@@ -235,7 +235,7 @@ Route42_Text_FisherTullyBeaten:
 
 Route42_Text_FisherTullyAfter:
 	.string "I want to become the trainer\n"
-	.string "CHAMP using the POKéMON I\l"
+	.string "CHAMP using the MOéMON I\l"
 	.string "caught myself.\p"
 	.string "That's the best part of fishing!$"
 
@@ -261,9 +261,9 @@ Route42_Text_PokemaniacShaneBeaten:
 	.string "MOON STONE…$"
 
 Route42_Text_PokemaniacShaneAfter:
-	.string "You're working on a POKéDEX?\p"
+	.string "You're working on a MOéDEX?\p"
 	.string "Wow, you must know some\n"
-	.string "pretty rare POKéMON!\p"
+	.string "pretty rare MOéMON!\p"
 	.string "May I please see it?\n"
 	.string "Please?$"
 
@@ -277,13 +277,13 @@ Route42_Text_MtMortarSign1:
 
 Route42_Text_TullyRegister:
 	.string "I want to become the trainer\n"
-	.string "CHAMP using the POKéMON I\l"
+	.string "CHAMP using the MOéMON I\l"
 	.string "caught myself.\p"
 	.string "That's the best part of fishing!$"
 
 Route42_Text_TullyRematchIntro:
 	.string "Let me demonstrate the power\n"
-	.string "of the POKéMON I caught!$"
+	.string "of the MOéMON I caught!$"
 
 Route42_Text_TullyRematchDefeat:
 	.string "What? That's not right.\n"
@@ -291,7 +291,7 @@ Route42_Text_TullyRematchDefeat:
 
 Route42_Text_TullyPostRematch:
 	.string "I want to become the trainer\n"
-	.string "CHAMP using the POKéMON I\l"
+	.string "CHAMP using the MOéMON I\l"
 	.string "caught myself.\p"
 	.string "That's the best part of fishing!$"
 

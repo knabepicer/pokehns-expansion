@@ -271,12 +271,12 @@ static const u8 *const sDesc_TextSpeed[] = {
     sText_Desc_TextSpeed,
 };
 static const u8 *const sDesc_BattleScene[] = {
-    COMPOUND_STRING("Show the {PKMN} animations\nand attack animations."),
-    COMPOUND_STRING("Skip the {PKMN} animations\nand attack animations."),
+    COMPOUND_STRING("Show the MOé animations\nand attack animations."),
+    COMPOUND_STRING("Skip the MOé animations\nand attack animations."),
 };
 static const u8 *const sDesc_BattleStyle[] = {
-    COMPOUND_STRING("Get the option to switch your\n{PKMN} after the enemies faints."),
-    COMPOUND_STRING("No free switch after fainting the\nenemies {PKMN}."),
+    COMPOUND_STRING("Get the option to switch your\nMOé after the enemies faints."),
+    COMPOUND_STRING("No free switch after fainting the\nenemies MOé."),
 };
 static const u8 *const sDesc_ButtonMode[] = {
     COMPOUND_STRING("All buttons work as normal."),
@@ -284,12 +284,12 @@ static const u8 *const sDesc_ButtonMode[] = {
     COMPOUND_STRING("The L button acts as another A\nbutton for one-handed play."),
 };
 static const u8 *const sDesc_Follower[] = {
-    COMPOUND_STRING("Let the first {PKMN} in your\nparty follow you."),
+    COMPOUND_STRING("Let the first MOé in your\nparty follow you."),
     COMPOUND_STRING("Walk alone."),
 };
 static const u8 *const sDesc_LargeFollower[] = {
-    COMPOUND_STRING("Enable large {PKMN} followers.\nCan cause graphical issues."),
-    COMPOUND_STRING("Disable large {PKMN} followers.\nRecommended."),
+    COMPOUND_STRING("Enable large MOé followers.\nCan cause graphical issues."),
+    COMPOUND_STRING("Disable large MOé followers.\nRecommended."),
 };
 static const u8 *const sDesc_Autorun[] = {
     COMPOUND_STRING("Run without pressing B."),
@@ -308,8 +308,8 @@ static const u8 *const sDesc_FasterJoy[] = {
     COMPOUND_STRING("NURSE JOY heals you with the\nusual animation."),
 };
 static const u8 *const sDesc_UnitType[] = {
-    COMPOUND_STRING("Display BERRY and {PKMN} weight\nand size in kilograms and meters."),
-    COMPOUND_STRING("Display BERRY and {PKMN} weight\nand size in pounds and inches."),
+    COMPOUND_STRING("Display BERRY and MOé weight\nand size in kilograms and meters."),
+    COMPOUND_STRING("Display BERRY and MOé weight\nand size in pounds and inches."),
 };
 static const u8 *const sDesc_MatchCall[] = {
     COMPOUND_STRING("TRAINERs will be able to call you,\noffering rematches and info."),
@@ -335,8 +335,8 @@ static const u8 *const sDesc_NewBattleUI[] = {
     COMPOUND_STRING("Modernized GEN IV Battle UI."),
 };
 static const u8 *const sDesc_BallPrompt[] = {
-    COMPOUND_STRING("Press {R_BUTTON} in battle to use Pokeballs.\nHold {L_BUTTON}/{R_BUTTON} to swap {PKMN}BALLS."),
-    COMPOUND_STRING("Disables the prompt to use\n{PKMN}BALLS quickly."),
+    COMPOUND_STRING("Press {R_BUTTON} in battle to use Pokeballs.\nHold {L_BUTTON}/{R_BUTTON} to swap MOéBALLS."),
+    COMPOUND_STRING("Disables the prompt to use\nMOéBALLS quickly."),
 };
 static const u8 *const sDesc_RunType[] = {
     COMPOUND_STRING("No quick running from battles."),

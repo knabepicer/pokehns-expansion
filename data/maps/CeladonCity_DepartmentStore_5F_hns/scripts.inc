@@ -30,7 +30,7 @@ CeladonDeptStore5_EventScript_Receptionist_Already::
 	end
 
 CeladonDeptStore_Text_5FReceptionistOhYourMon:
-    .string "Hello. Oh, your POKéMON…$"
+    .string "Hello. Oh, your MOéMON…$"
 
 CeladonDeptStore_Text_5FReceptionistWait:
     .string "Wait, I already gave you that TM!$"
@@ -75,13 +75,13 @@ CeladonDeptStore5_Text_Falkner:
 	.string "{PLAYER}. I didn't expect to see\n"
 	.string "you here.\p"
 	.string "I'm picking up gear for my\n"
-	.string "bird POKéMON.\p"
+	.string "bird MOéMON.\p"
 	.string "If you want to face me again, I'll\n"
 	.string "be at the DOJO in SAFFRON CITY.$"
 
 CeladonDeptStore5F_Text_Gentleman:
 	.string "I want to buy some items that\n"
-	.string "raise POKéMON stats, but I don't\l"
+	.string "raise MOéMON stats, but I don't\l"
 	.string "have enough money…$"
 
 CeladonDeptStore5F_Text_Sailor:
@@ -89,7 +89,7 @@ CeladonDeptStore5F_Text_Sailor:
 	.string "PP of moves. But you can't buy it…$"
 
 CeladonDeptStore5F_Text_Teacher:
-	.string "Using items on them makes POKéMON\n"
+	.string "Using items on them makes MOéMON\n"
 	.string "happy.\p"
 	.string "They hate certain items, though…$"
 

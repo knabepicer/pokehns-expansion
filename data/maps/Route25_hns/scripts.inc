@@ -501,7 +501,7 @@ Route25_Text_CooltrainerKevinBeaten:
 
 Route25_Text_CooltrainerKevinAfter:
 	.string "That was a great battle!\p"
-	.string "You and your POKéMON are truly\n"
+	.string "You and your MOéMON are truly\n"
 	.string "outstanding!$"
 
 Route25_Text_BillsHouseSign:

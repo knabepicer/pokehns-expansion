@@ -19,7 +19,7 @@ AzaleaTown_Mart_EventScriptBugCatcher::
 
 AzaleaMart_Text_CooltrainerM:
 	.string "Are you able to buy a GREAT BALL?\n"
-	.string "All I can buy are POKé BALLS.\p"
+	.string "All I can buy are MOé BALLS.\p"
 	.string "I heard that more items become\n"
 	.string "available to buy when you earn\l"
 	.string "GYM BADGES!\p"
@@ -28,7 +28,7 @@ AzaleaMart_Text_CooltrainerM:
 
 AzaleaMart_Text_BugCatcher:
 	.string "A GREAT BALL is better for catch-\n"
-	.string "ing POKéMON than a POKé BALL.\p"
+	.string "ing MOéMON than a MOé BALL.\p"
 	.string "But KURT's might be better some-\n"
 	.string "times.$"
 

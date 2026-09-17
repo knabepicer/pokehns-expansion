@@ -691,8 +691,8 @@ Alola_Melemele_Melemele_Sign_Text_0:
 
 Alola_Melemele_Pokecenter_Sign_Text_0:
 	.string "Welcome to the MELEMELE ISLE\n"
-	.string "POKéMON CENTER!\p"
-	.string "This is the only POKéMON CENTER on the\n"
+	.string "MOéMON CENTER!\p"
+	.string "This is the only MOéMON CENTER on the\n"
 	.string "ALOLA ISLES but you can rest on\l"
 	.string "benches around the ISLES.$"
 
@@ -710,7 +710,7 @@ Alola_Melemele_SamsonOak_Trigger_Beginning_Text_1:
 
 Alola_Melemele_SamsonOak_Trigger_Beginning_Text_2:
 	.string "My name is SAMSON OAK!\n"
-	.string "I'm a POKéMON PROFESSOR.\p"
+	.string "I'm a MOéMON PROFESSOR.\p"
 	.string "What's your name?$"
 
 Alola_Melemele_SamsonOak_Trigger_Beginning_Text_3:
@@ -729,11 +729,11 @@ Alola_Melemele_SamsonOak_Trigger_Beginning_Text_4:
 
 Alola_Melemele_SamsonOak_Trigger_Beginning_Text_5:
 	.string "Well, anyways!\p"
-	.string "I research variations of POKéMON that \n"
+	.string "I research variations of MOéMON that \n"
 	.string "can be found in different regions!\p"
 	.string "On my way back from the ALOLA region,\n"
 	.string "I stumbled across these isles…\p"
-	.string "Surprisingly, many of the POKéMON I saw\n"
+	.string "Surprisingly, many of the MOéMON I saw\n"
 	.string "in ALOLA were here as well, so I've\l"
 	.string "called this place… {PAUSE 30}the ALOLA ISLES!$"
 
@@ -807,20 +807,20 @@ Alola_Melemele_TrainerBattleSwimmer_Text_1:
 	.string "Maybe I should dry off on land for\na bit…$"
 
 Alola_Melemele_TrainerBattleSwimmer_Text_2:
-	.string "There are plenty of neat POKéMON in\n"
+	.string "There are plenty of neat MOéMON in\n"
 	.string "the water, try all your fishing rods!$"
 
 Alola_Melemele_Bugcatcher_Text_0:
-	.string "The bug POKéMON on the ALOLA ISLES\n"
+	.string "The bug MOéMON on the ALOLA ISLES\n"
 	.string "are much bigger than those in KANTO!$"
 
 Alola_Melemele_camper_Text_0:
 	.string "I traveled all the way from KANTO to see\n"
-	.string "a variant of my favorite cat POKéMON,\l"
+	.string "a variant of my favorite cat MOéMON,\l"
 	.string "MEOWTH!$"
 
 Alola_Melemele_Picnicker_Text_0:
 	.string "These ISLES are chock full of unique\n"
-	.string "POKéMON!\p"
-	.string "I need to stock up on POKé BALLS so I\n"
+	.string "MOéMON!\p"
+	.string "I need to stock up on MOé BALLS so I\n"
 	.string "can catch them all!$"

@@ -94,16 +94,16 @@ Text_ThunderWaveDeclined::
 	.string "But THUNDER WAVE is convenient…$"
 
 Text_ThunderWaveWhichMon::
-	.string "Which POKéMON should I teach\n"
+	.string "Which MOéMON should I teach\n"
 	.string "THUNDER WAVE?$"
 
 Text_ThunderWaveTaught::
 	.string "THUNDER WAVE causes paralysis in\n"
-	.string "the target POKéMON.\p"
-	.string "A paralyzed POKéMON may be unable\n"
+	.string "the target MOéMON.\p"
+	.string "A paralyzed MOéMON may be unable\n"
 	.string "to move in battle.\p"
 	.string "It's an ELECTRIC-type move, so it\n"
-	.string "won't work on some POKéMON.$"
+	.string "won't work on some MOéMON.$"
 
 SilphCo_2F_Text_FloorSign::
 	.string "SILPH CO. HEAD OFFICE\n"

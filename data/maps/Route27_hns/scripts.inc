@@ -176,7 +176,7 @@ Route27_Text_FisherMessage:
     .string "Do you know what you just did?\p"
     .string "You've taken your first step into\n"
     .string "KANTO.\p"
-    .string "Check your POKéGEAR MAP and see.$"
+    .string "Check your MOéGEAR MAP and see.$"
 
 Route27_Text_CooltrainermBlakeSeen:
     .string "You look pretty strong.\n"
@@ -203,7 +203,7 @@ Route27_Text_CooltrainermBrianAfter:
 
 Route27_Text_CooltrainerfReenaSeen:
     .string "You shouldn't underestimate the\n"
-    .string "wild POKéMON in these parts.$"
+    .string "wild MOéMON in these parts.$"
 
 Route27_Text_CooltrainerfReenaBeaten:
     .string "Oh! You're much too strong!$"
@@ -218,7 +218,7 @@ Route27_Text_ReenaRegister:
 
 Route27_Text_ReenaRematchIntro:
     .string "You shouldn't underestimate the\n"
-    .string "wild POKéMON in these parts.$"
+    .string "wild MOéMON in these parts.$"
 
 Route27_Text_ReenaRematchDefeat:
     .string "Oh! You're much too strong!$"
@@ -236,9 +236,9 @@ Route27_Text_CooltrainerfMeganBeaten:
 
 Route27_Text_CooltrainerfMeganAfter:
     .string "I'm checking out pre- and post-\n"
-    .string "evolution POKéMON.\p"
+    .string "evolution MOéMON.\p"
     .string "Evolution really does make\n"
-    .string "POKéMON stronger.\p"
+    .string "MOéMON stronger.\p"
     .string "But evolved forms also learn\n"
     .string "moves later on.$"
 
@@ -246,7 +246,7 @@ Route27_Text_PsychicGilbertSeen:
     .string "Don't say a thing!\p"
     .string "Let me guess what you're thinking.\p"
     .string "Mmmmmmm…\p"
-    .string "I got it! You're on the POKéMON\n"
+    .string "I got it! You're on the MOéMON\n"
     .string "LEAGUE challenge!$"
 
 Route27_Text_PsychicGilbertBeaten:
@@ -265,11 +265,11 @@ Route27_Text_BirdKeeperJoseBeaten:
 
 Route27_Text_BirdKeeperJoseAfter:
     .string "BIRD KEEPERS like me mimic bird\n"
-    .string "whistles to command POKéMON.$"
+    .string "whistles to command MOéMON.$"
 
 Route27_Text_JoseRegister:
     .string "BIRD KEEPERS like me mimic bird\n"
-    .string "whistles to command POKéMON.$"
+    .string "whistles to command MOéMON.$"
 
 Route27_Text_JoseRematchIntro:
     .string "Tweet! Tweet! Tetweet!$"
@@ -279,7 +279,7 @@ Route27_Text_JoseRematchDefeat:
 
 Route27_Text_JosePostRematch:
     .string "BIRD KEEPERS like me mimic bird\n"
-    .string "whistles to command POKéMON.$"
+    .string "whistles to command MOéMON.$"
 
 Route27_Text_JoseHasItem:
     .string "Hey! I found something\n"
@@ -310,4 +310,4 @@ Route27_Text_FisherScottBeaten:
 
 Route27_Text_FisherScottAfter:
     .string "Just like in fishing, it's all over\n"
-    .string "in POKéMON if you give up.$"
+    .string "in MOéMON if you give up.$"
