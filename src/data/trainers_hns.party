@@ -8198,7 +8198,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Body Slam
 - Rest
 
-Dudunsparce @ Sitrus Berry
+Dudunsparce-Three-Segment @ Sitrus Berry
 Level: 44
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Glare
@@ -8241,7 +8241,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Fly
 - Dragon Dance
 
-Dudunsparce
+Dudunsparce-Three-Segment
 Level: 63
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Yawn
@@ -15094,7 +15094,7 @@ Level: 71
 - Aqua Tail  
 - Light Screen  
 
-Dudunsparce  
+Dudunsparce-Three-Segment  
 Ability: Serene Grace  
 Level: 69 
 - Charge Beam  
